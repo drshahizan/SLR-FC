@@ -18,7 +18,7 @@
 | 3       | Mastering the Art of Crafting a SLR    | 20 Feb 2023                  | 
 | 4       | Mentoring Session                                       | 4 – 5 Mac 2024  | 
 
-## ## 🔥 Important things
+## 🔥 Important things
 1. [Participant information](./materials/participant.md)
 
 
