@@ -1,11 +1,11 @@
-<a href="https://github.com/drshahizan/SLR-MIIT/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/SLR-MIIT" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-MIIT/network/members"><img src="https://img.shields.io/github/forks/drshahizan/SLR-MIIT" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-MIIT"><img src="https://img.shields.io/github/issues-pr/drshahizan/SLR-MIIT" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-MIIT/issues"><img src="https://img.shields.io/github/issues/drshahizan/SLR-MIIT" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-MIIT/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-MIIT?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-MIIT&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+<a href="https://github.com/drshahizan/SLR-FC/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/SLR-FC" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/SLR-FC/network/members"><img src="https://img.shields.io/github/forks/drshahizan/SLR-FC" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/SLR-FC"><img src="https://img.shields.io/github/issues-pr/drshahizan/SLR-FC" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/SLR-FC/issues"><img src="https://img.shields.io/github/issues/drshahizan/SLR-FC" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Workshop Series on Systematic Literature Review (SLR) Using AI
+# Systematic Literature Review (SLR) Using AI
 
 <p align="center">
 <img src="/images/MSO-SLR.jpeg"  height="500" />
@@ -29,7 +29,7 @@ Welcome to SLR Workshop! We are thrilled to embark on this exciting learning jou
    All teaching materials will be available on my GitHub account. Please **follow** [this link](https://github.com/drshahizan) to access the materials.
 
 3. **Fork and Star Repository:**
-   To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/SLR-MIIT). We will be using this repository extensively.
+   To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/SLR-FC). We will be using this repository extensively.
 
 4. **Complete Information Form:**
    Please fill in 🧑‍💻 your details in the provided Google Sheets document [here](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=791205809).
@@ -43,7 +43,7 @@ Looking forward to an amazing and productive class!
 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/SLR-MIIT/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
