@@ -18,7 +18,11 @@
 | 3       | Mastering the Art of Crafting a SLR    | 20 Feb 2023                  | 
 | 4       | Mentoring Session                                       | 4 – 5 Mac 2024  | 
 
-## Important Things to do Before Going to the SLR Workshop 🚀
+## ## 🔥 Important things
+1. [Participant information](./materials/participant.md)
+
+
+## Essential Tasks to Complete Before Attending the SLR Workshop 🚀
 Welcome to SLR Workshop! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
 
 1. **Create a GitHub Account:**
