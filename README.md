@@ -15,7 +15,7 @@
 |:---------:|----------------------------------------------------------|-------------------------------------|
 | 1       | [AI Tools for Literature Review](./materials/session1.md) | 23 or 24 Jan 2024                   | 
 | 2       | [SLR Mastery: From Theory to Practice](https://drshahizan.gitbook.io/slr/)                     | 6 Feb 2024                    | 
-| 3       | [Mastering the Art of Crafting a SLR: A Workshop Guide](./materials/session3.md)    | 20 Feb 2023                  | 
+| 3       | [Mastering the Art of Crafting a SLR](./materials/session3.md)    | 20 Feb 2023                  | 
 | 4       | Mentoring Session                                       | 4 – 5 Mac 2024  | 
 
 ## Important Things to do Before Going to the SLR Workshop 🚀
