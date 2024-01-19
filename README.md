@@ -8,7 +8,7 @@
 # Systematic Literature Review (SLR) Using AI
 
 <p align="center">
-<img src="/images/MSO-SLR.jpeg"  height="500" />
+<img src="/images/all%20slr.jpeg"  height="500" />
 </p>
 
 | Session | Topic                                                    | Date                                | 
