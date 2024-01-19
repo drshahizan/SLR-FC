@@ -7,7 +7,9 @@
 
 # Participant Information
 
-
+| No. | Name | ID | Github | 
+|-----:|-----------------------------------------|------------|:-----------------:|
+| 1   | BAKUNGA BRONSON                         | BakungaBronson    | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
