@@ -1,0 +1,1360 @@
+TY  - CONF
+TI  - Efficiency Enhancement of Intrusion Detection in Iot Based on Machine Learning Through Bioinspire
+AU  - Samdekar, Ramanand
+AU  - Ghosh, S. M.
+AU  - Srinivas, Konda
+T2  - 2021 Third International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
+AB  - The Internet of Things of the future will also have a profound technological, business, and social impact on society. In IoT environments, networking devices are typically resourceconstrained, which enable them, draw cyber threats targets. In this context, comprehensive efforts have been made, mainly through conventional cryptographic methods, to resolve privacy and security issues in IoT environments. The specific features of IoT devices, however, make current techniques inadequate to protect the IoT networks' extensive privacy spectrum. This is, at only in part, due to resource constraints, heterogeneity, vast IoT device-generated real-time data, and that networks extremely complex conduct. The present study aims to identify network behavior and detect anomalies on the IoT network. The proposed experimental setup improves the performance of IoT based Intrusion Detection S ystem for feature selection and dimensionality reduction. For feature selection, Chi-S quare and ExtraTree classifier with S VM and dimensionality reduction methods Principal Component Analysis (PCA) and Firefly Algorithm (FA) used. The complete experiment carried on the BOT-IOT dataset which contains attack traces of the IoT network. From our study, it’s found S VM+FA gives high accuracy 99.38%, Recall 99.3 %, precision 100 %, and F1-S core 99.78 % which is better than other methods used with S VM.
+C1  - Tirunelveli, India
+C3  - 2021 Third International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
+DA  - 2021/02/04/
+PY  - 2021
+DO  - 10.1109/ICICV50876.2021.9388392
+DP  - DOI.org (Crossref)
+SP  - 383
+EP  - 387
+LA  - en
+PB  - IEEE
+SN  - 978-1-66541-960-4
+UR  - https://ieeexplore.ieee.org/document/9388392/
+Y2  - 2022/02/20/15:10:28
+KW  - Chi-Square
+KW  - PCA
+KW  - ExtraTree
+KW  - dimensionality reduction
+KW  - Firefly algorithm
+ER  - 
+
+TY  - JOUR
+TI  - An effective genetic algorithm-based feature selection method for intrusion detection systems
+AU  - Halim, Zahid
+AU  - Yousaf, Muhammad Nadeem
+AU  - Waqas, Muhammad
+AU  - Sulaiman, Muhammad
+AU  - Abbas, Ghulam
+AU  - Hussain, Masroor
+AU  - Ahmad, Iftekhar
+AU  - Hanif, Muhammad
+T2  - Computers & Security
+DA  - 2021/11//
+PY  - 2021
+DO  - 10.1016/j.cose.2021.102448
+DP  - DOI.org (Crossref)
+VL  - 110
+SP  - 102448
+J2  - Computers & Security
+LA  - en
+SN  - 01674048
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0167404821002728
+Y2  - 2022/02/27/03:07:02
+KW  - Q1
+ER  - 
+
+TY  - JOUR
+TI  - Detecting botnet by using particle swarm optimization algorithm based on voting system
+AU  - Asadi, Mehdi
+AU  - Jabraeil Jamali, Mohammad Ali
+AU  - Parsa, Saeed
+AU  - Majidnezhad, Vahid
+T2  - Future Generation Computer Systems
+AB  - Botnets have recently been identified as serious Internet threats that are continually developing and expanding. Identifying botnets in the domain of network security is regarded as a new challenge and topic for research. There are several methods for detecting botnets in networks, and prior research has encountered problems, including a high error and inaccuracy in detection. In this paper, the botnet detection method by using a hybrid of particle swarm optimization (PSO) algorithm with a voting system (BD-PSO-V) was used to improve the challenges of previous studies. The PSO algorithm was employed to select outstanding and effective features in the detection of botnets. The voting system, including a deep neural network algorithm, support vector machine (SVM), and decision tree C4.5, were utilized to identify botnets and classify samples. The decision-making strategy of the voting system was based on maximum votes, and the most important innovation of this research was to combine the PSO feature selection algorithm with a voting system using deep learning to identify botnets. Two datasets, ISOT and Bot-IoT, were employed to further verify the BD-PSO-V system performance. BD-PSO-V simulation improved the accuracy by an average of ∼0.42% and 0.17% in the ISOT dataset and the Bot-IoT dataset, respectively, compared to the other methods investigated. In addition, the effect of six well-known adversarial attacks on both datasets was evaluated. Despite a slight drop in accuracy rate, BD-PSO-V results had a promising performance against a variety of attacks.
+DA  - 2020/06//
+PY  - 2020
+DO  - 10.1016/j.future.2020.01.055
+DP  - DOI.org (Crossref)
+VL  - 107
+SP  - 95
+EP  - 111
+J2  - Future Generation Computer Systems
+LA  - en
+SN  - 0167739X
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0167739X19323350
+Y2  - 2022/02/28/09:48:38
+KW  - Q1
+ER  - 
+
+TY  - JOUR
+TI  - Intrusion Detection System Using Machine Learning for Vehicular Ad Hoc Networks Based on ToN-IoT Dataset
+AU  - Gad, Abdallah R.
+AU  - Nashat, Ahmed A.
+AU  - Barkat, Tamer M.
+T2  - IEEE Access
+AB  - Vehicular ad hoc networks (VANETs) are a subsystem of the proposed intelligent transportation system (ITS) that enables vehicles to communicate over the wireless communication infrastructure. VANETs are used in multiple applications, such as improving trafﬁc safety and collision prevention. The use of VANETs makes the network vulnerable to various types of attacks, such as denial of service (DoS) and distributed denial of service (DDoS). Many researchers are now interested in adding a high level of security to VANETs. Machine learning (ML) methods were used for constructing a high level of security capabilities based on intrusion detection systems (IDSs). Furthermore, the vast majority of existing research is based on NSL-KDD or KDD-CUP99 datasets. Recent attacks are not present in these datasets. As a result, we employed a realistic dataset called ToN-IoT that derived from a large-scale, heterogeneous IoT network. This work tested various ML methods in both binary and multi-class classiﬁcation problems. We used the Chi-square (Chi2) technique was used for feature selection and the Synthetic minority oversampling technique (SMOTE) for class balancing. According to the results, the XGBoost method outperformed other ML methods.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/ACCESS.2021.3120626
+DP  - DOI.org (Crossref)
+VL  - 9
+SP  - 142206
+EP  - 142217
+J2  - IEEE Access
+LA  - en
+SN  - 2169-3536
+UR  - https://ieeexplore.ieee.org/document/9576115/
+Y2  - 2022/02/28/15:55:27
+KW  - worth reading
+KW  - Q2
+ER  - 
+
+TY  - JOUR
+TI  - Effective combining of feature selection techniques for machine learning-enabled IoT intrusion detection
+AU  - Rahman, Md Arafatur
+AU  - Asyhari, A. Taufiq
+AU  - Wen, Ong Wei
+AU  - Ajra, Husnul
+AU  - Ahmed, Yussuf
+AU  - Anwar, Farhat
+T2  - Multimedia Tools and Applications
+AB  - The rapid advancement of technologies has enabled businesses to carryout their activities seamlessly and revolutionised communications across the globe. There is a significant growth in the amount and complexity of Internet of Things devices that are deployed in a wider range of environments. These devices mostly communicate through Wi-Fi networks and particularly in smart environments. Besides the benefits, these devices also introduce security challenges. In this paper, we investigate and leverage effective feature selection techniques to improve intrusion detection using machine learning methods. The proposed approach is based on a centralised intrusion detection system, which uses the deep feature abstraction, feature selection and classification to train the model for detecting the malicious and anomalous actions in the traffic. The deep feature abstraction uses deep learning techniques of artificial neural network in the form of unsupervised autoencoder to construct more features for the traffic. Based on the availability of cumulative features, the system then employs a variety of wrapper-based feature selection techniques ranging from SVM and decision tree to Naive Bayes for selecting high-ranked features, which are then combined and fed into an artificial neural network classifier for distinguishing attack and normal behaviors. The experimental results reveal the effectiveness of the proposed method on Aegean Wi-Fi Intrusion Dataset, which achieves high detection accuracy of up to 99.95%, relatively competitive to the existing machine learning works for the same dataset.
+DA  - 2021/08//
+PY  - 2021
+DO  - 10.1007/s11042-021-10567-y
+DP  - DOI.org (Crossref)
+VL  - 80
+IS  - 20
+SP  - 31381
+EP  - 31399
+J2  - Multimed Tools Appl
+LA  - en
+SN  - 1380-7501, 1573-7721
+UR  - https://link.springer.com/10.1007/s11042-021-10567-y
+Y2  - 2022/03/23/01:57:13
+KW  - Q2
+ER  - 
+
+TY  - JOUR
+TI  - Hybridizing genetic algorithm and grey wolf optimizer to advance an intelligent and lightweight intrusion detection system for IoT wireless networks
+AU  - Davahli, Azam
+AU  - Shamsi, Mahboubeh
+AU  - Abaei, Golnoush
+T2  - Journal of Ambient Intelligence and Humanized Computing
+AB  - Open wireless sensor networks (WSNs) in Internet of things (IoT) has led to many zero-day security attacks. Since intrusion detection is a key security solution, this paper presents a lightweight machine learning-based intrusion detection technique with high performance for resource limited IoT wireless networks namely, IoT intrusion detection system (IoTIDS). IoTIDS is based on hybridization of genetic algorithm (GA) and grey wolf optimizer (GWO), termed as GA–GWO. The main aim of the hybrid algorithm for the IoTIDS is to reduce the dimensionality of the huge wireless network traffic through intelligent selecting the most informative traffic features. By hybridizing, we try to eliminate their weaknesses through GA and GWO strengths. The effectiveness of the GA–GWO on IoTIDS is evaluated using AWID (aegean wi-fi intrusion dataset) as a new real-world wireless intrusion dataset, after preprocessing it under different scenarios. The experimental results proved that the proposed GA–GWO individually not only improved the performance of the IoTIDS in terms of computational costs, but it also enabled the IoTIDS to detect ? with high accuracy and low false alarm rate. Furthermore, GA–GWO in comparison to the original GA and GWO and other recent existing methods like FS, weight, and parameter optimization of SVM based on the GA (FWP-SVM-GA) and binary GWO (BGWO) has proven to be more effective.
+DA  - 2020/11//
+PY  - 2020
+DO  - 10.1007/s12652-020-01919-x
+DP  - DOI.org (Crossref)
+VL  - 11
+IS  - 11
+SP  - 5581
+EP  - 5609
+J2  - J Ambient Intell Human Comput
+LA  - en
+SN  - 1868-5137, 1868-5145
+UR  - http://link.springer.com/10.1007/s12652-020-01919-x
+Y2  - 2022/09/25/01:16:05
+ER  - 
+
+TY  - CONF
+TI  - Unsupervised Anomaly Based Botnet Detection in IoT Networks
+AU  - Nomm, Sven
+AU  - Bahsi, Hayretdin
+T2  - 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)
+AB  - Anomaly-based detection of the IoT botnets with emphasis on feature selection is elaborated in this paper. Due to the rapid growth of the Internet of Things technology, the number of vulnerable devices that become a part of a botnet has grown signiﬁcantly. The detection of such malicious trafﬁc is essential for taking timely countermeasures. While the idea of anomaly-based attack detection is not new and has been extensively studied, much less attention has been paid to dimensionality reduction in learning models induced for IoT networks. In this paper, we showed that it is possible to induce high accurate unsupervised learning models with reduced feature set sizes, which enables to decrease the required computational resources. Training one common model for all IoT devices, instead of dedicated model for each device, is another design option that is evaluated for resource optimization.
+C1  - Orlando, FL
+C3  - 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)
+DA  - 2018/12//
+PY  - 2018
+DO  - 10.1109/ICMLA.2018.00171
+DP  - DOI.org (Crossref)
+SP  - 1048
+EP  - 1053
+LA  - en
+PB  - IEEE
+SN  - 978-1-5386-6805-4
+UR  - https://ieeexplore.ieee.org/document/8614196/
+Y2  - 2022/09/25/01:18:32
+ER  - 
+
+TY  - JOUR
+TI  - Unsupervised intelligent system based on one class support vector machine and Grey Wolf optimization for IoT botnet detection
+AU  - Al Shorman, Amaal
+AU  - Faris, Hossam
+AU  - Aljarah, Ibrahim
+T2  - Journal of Ambient Intelligence and Humanized Computing
+AB  - Recently, the number of Internet of Things (IoT) botnet attacks has increased tremendously due to the expansion of online IoT devices which can be easily compromised. Botnets are a common threat that takes advantage of the lack of basic security tools in IoT devices and can perform a series of Distributed Denial of Service (DDoS) attacks. Developing new methods to detect compromised IoT devices is urgent in order to mitigate the negative consequences of these IoT botnets since the existing IoT botnet detection methods still present some issues, such as, relying on labelled data, not being validated with newer botnets, and using very complex machine learning algorithms. Anomaly detection methods are promising for detecting IoT botnet attacks since the amount of available normal data is very large. One of the powerful algorithms that can be used for anomaly detection is One Class Support vector machine (OCSVM). The efficiency of the OCSVM algorithm depends on several factors that greatly affect the classification results such as the subset of features that are used for training OCSVM model, the kernel type, and its hyperparameters. In this paper, a new unsupervised evolutionary IoT botnet detection method is proposed. The main contribution of the proposed method is to detect IoT botnet attacks launched form compromised IoT devices by exploiting the efficiency of a recent swarm intelligence algorithm called Grey Wolf Optimization algorithm (GWO) to optimize the hyperparameters of the OCSVM and at the same time to find the features that best describe the IoT botnet problem. To prove the efficiency of the proposed method, its performance is evaluated using typical anomaly detection evaluation measures over a new version of a real benchmark dataset. The experimental results show that the proposed method outperforms all other algorithms in terms of true positive rate, false positive rate, and G-mean for all IoT device types. Also, it achieves the lowest detection time, while significantly reducing the number of selected features.
+DA  - 2020/07//
+PY  - 2020
+DO  - 10.1007/s12652-019-01387-y
+DP  - DOI.org (Crossref)
+VL  - 11
+IS  - 7
+SP  - 2809
+EP  - 2825
+J2  - J Ambient Intell Human Comput
+LA  - en
+SN  - 1868-5137, 1868-5145
+UR  - http://link.springer.com/10.1007/s12652-019-01387-y
+Y2  - 2022/09/25/01:20:47
+ER  - 
+
+TY  - JOUR
+TI  - Toward Design of an Intelligent Cyber Attack Detection System using Hybrid Feature Reduced Approach for IoT Networks
+AU  - Kumar, Prabhat
+AU  - Gupta, Govind P.
+AU  - Tripathi, Rakesh
+T2  - Arabian Journal for Science and Engineering
+AB  - With simple connectivity and fast-growing demand of smart devices and networks, IoT has become more prone to cyber attacks. In order to detect and prevent cyber attacks in IoT networks, intrusion detection system (IDS) plays a crucial role. However, most of the existing IDS have dimensionality curse that reduces overall IoT systems efﬁciency. Hence, it is important to remove repetitive and irrelevant features while designing effective IDS. Motivated from aforementioned challenges, this paper presents an intelligent cyber attack detection system for IoT network using a novel hybrid feature reduced approach. This technique ﬁrst performs feature ranking using correlation coefﬁcient, random forest mean decrease accuracy and gain ratio to obtain three different feature sets. Then, features are combined using a suitably designed mechanism (AND operation), to obtain single optimized feature set. Finally, the obtained reduced feature set is fed to three well-known machine learning algorithms such as random forest, K-nearest neighbor and XGBoost for detection of cyber attacks. The efﬁciency of the proposed cyber attack detection framework is evaluated using NSL-KDD and two latest IoT-based datasets namely, BoT-IoT and DS2OS. Performance of the proposed framework is evaluated and compared with some recent state-of-the-art techniques found in literature, in terms of accuracy, detection rate (DR), precision and F1 score. Performance analysis using these three datasets shows that the proposed model has achieved DR up to 90%–100%, for most of the attack vectors that has close similarity to normal behaviors and accuracy above 99%.
+DA  - 2021/04//
+PY  - 2021
+DO  - 10.1007/s13369-020-05181-3
+DP  - DOI.org (Crossref)
+VL  - 46
+IS  - 4
+SP  - 3749
+EP  - 3778
+J2  - Arab J Sci Eng
+LA  - en
+SN  - 2193-567X, 2191-4281
+UR  - http://link.springer.com/10.1007/s13369-020-05181-3
+Y2  - 2022/09/25/01:21:40
+ER  - 
+
+TY  - JOUR
+TI  - CorrAUC: A Malicious Bot-IoT Traffic Detection Method in IoT Network Using Machine-Learning Techniques
+AU  - Shafiq, Muhammad
+AU  - Tian, Zhihong
+AU  - Bashir, Ali Kashif
+AU  - Du, Xiaojiang
+AU  - Guizani, Mohsen
+T2  - IEEE Internet of Things Journal
+AB  - Identiﬁcation of anomaly and malicious trafﬁc in the Internet-of-Things (IoT) network is essential for the IoT security to keep eyes and block unwanted trafﬁc ﬂows in the IoT network. For this purpose, numerous machine-learning (ML) technique models are presented by many researchers to block malicious trafﬁc ﬂows in the IoT network. However, due to the inappropriate feature selection, several ML models prone misclassify mostly malicious trafﬁc ﬂows. Nevertheless, the signiﬁcant problem still needs to be studied more in-depth that is how to select effective features for accurate malicious trafﬁc detection in the IoT network. To address the problem, a new framework model is proposed. First, a novel feature selection metric approach named CorrAUC is proposed, and then based on CorrAUC, a new feature selection algorithm named CorrAUC is developed and designed, which is based on the wrapper technique to ﬁlter the features accurately and select effective features for the selected ML algorithm by using the area under the curve (AUC) metric. Then, we applied the integrated TOPSIS and Shannon entropy based on a bijective soft set to validate selected features for malicious trafﬁc identiﬁcation in the IoT network. We evaluate our proposed approach by using the Bot-IoT data set and four different ML algorithms. The experimental results analysis showed that our proposed method is efﬁcient and can achieve >96% results on average.
+DA  - 2021/03/01/
+PY  - 2021
+DO  - 10.1109/JIOT.2020.3002255
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 5
+SP  - 3242
+EP  - 3254
+J2  - IEEE Internet Things J.
+LA  - en
+SN  - 2327-4662, 2372-2541
+ST  - CorrAUC
+UR  - https://ieeexplore.ieee.org/document/9116932/
+Y2  - 2022/09/25/01:21:51
+ER  - 
+
+TY  - JOUR
+TI  - An Effective Feature Selection Model Using Hybrid Metaheuristic Algorithms for IoT Intrusion Detection
+AU  - Kareem, Saif S.
+AU  - Mostafa, Reham R.
+AU  - Hashim, Fatma A.
+AU  - El-Bakry, Hazem M.
+T2  - Sensors
+AB  - The increasing use of Internet of Things (IoT) applications in various aspects of our lives has created a huge amount of data. IoT applications often require the presence of many technologies such as cloud computing and fog computing, which have led to serious challenges to security. As a result of the use of these technologies, cyberattacks are also on the rise because current security methods are ineffective. Several artiﬁcial intelligence (AI)-based security solutions have been presented in recent years, including intrusion detection systems (IDS). Feature selection (FS) approaches are required for the development of intelligent analytic tools that need data pretreatment and machinelearning algorithm-performance enhancement. By reducing the number of selected features, FS aims to improve classiﬁcation accuracy. This article presents a new FS method through boosting the performance of Gorilla Troops Optimizer (GTO) based on the algorithm for bird swarms (BSA). This BSA is used to boost performance exploitation of GTO in the newly developed GTO-BSA because it has a strong ability to ﬁnd feasible regions with optimal solutions. As a result, the quality of the ﬁnal output will increase, improving convergence. GTO-BSA’s performance was evaluated using a variety of performance measures on four IoT-IDS datasets: NSL-KDD, CICIDS-2017, UNSW-NB15 and BoT-IoT. The results were compared to those of the original GTO, BSA, and several state-of-the-art techniques in the literature. According to the ﬁndings of the experiments, GTO-BSA had a better convergence rate and higher-quality solutions.
+DA  - 2022/02/11/
+PY  - 2022
+DO  - 10.3390/s22041396
+DP  - DOI.org (Crossref)
+VL  - 22
+IS  - 4
+SP  - 1396
+J2  - Sensors
+LA  - en
+SN  - 1424-8220
+UR  - https://www.mdpi.com/1424-8220/22/4/1396
+Y2  - 2022/09/25/01:34:31
+ER  - 
+
+TY  - CONF
+TI  - Hybrid Feature Selection Models for Machine Learning Based Botnet Detection in IoT Networks
+AU  - Guerra-Manzanares, Alejandro
+AU  - Bahsi, Hayretdin
+AU  - Nomm, Sven
+T2  - 2019 International Conference on Cyberworlds (CW)
+AB  - Timely detection of intrusions is essential in IoT networks, considering the massive attacks launched by the hugesized botnets which are composed of insecure devices. Machine learning methods have demonstrated promising results for the detection of such attacks. However, the effectiveness of such methods may greatly beneﬁt from the reduction of feature set size as this may prevent the impeding impact of unnecessary features and minimize the computational resources required for intrusion detection in such networks having several limitations. This paper elaborates on feature selection methods applied to machine learning models which are induced for botnet detection in IoT networks. A particular attention is devoted to the use of wrapper methods and their combination with ﬁlter methods. While ﬁlterbased feature selection methods provide a computationally light approach to select the most informative features, it is shown that their utilization in combination with wrapper methods boosts up the detection accuracy.
+C1  - Kyoto, Japan
+C3  - 2019 International Conference on Cyberworlds (CW)
+DA  - 2019/10//
+PY  - 2019
+DO  - 10.1109/CW.2019.00059
+DP  - DOI.org (Crossref)
+SP  - 324
+EP  - 327
+LA  - en
+PB  - IEEE
+SN  - 978-1-72812-297-7
+UR  - https://ieeexplore.ieee.org/document/8919099/
+Y2  - 2022/09/25/01:35:13
+ER  - 
+
+TY  - JOUR
+TI  - Augmented whale feature selection for IoT attacks: Structure, analysis and applications
+AU  - Mafarja, Majdi
+AU  - Heidari, Ali Asghar
+AU  - Habib, Maria
+AU  - Faris, Hossam
+AU  - Thaher, Thaer
+AU  - Aljarah, Ibrahim
+T2  - Future Generation Computer Systems
+AB  - Smart connected appliances expand the boundaries of the conventional Internet into the new Internet of Things (IoT). IoT started to hold a significant role in our life, and in several fields as in transportation, industry, smart homes, and cities. However, one of the critical issues is how to protect IoT environments and prevent intrusions. Attacks detection systems aim to identify malicious patterns and threats that cannot be detected by traditional security countermeasures. In literature, feature selection or dimensionality reduction has been profoundly studied and applied to the design of intrusion detection systems. In this paper, we present a novel wrapper feature selection approach based on augmented Whale Optimization Algorithm (WOA), which adopted in the context of IoT attacks detection and handles the high dimensionality of the problem. In our approach, we introduce the use of both V-shaped and S-shaped transfer functions into WOA and compare the superior variant with other well-known evolutionary optimizers. The experiments are conducted using N-BaIoT dataset; wherein, five datasets were sampled from the original dataset. The dataset represents real IoT traffic, which is drawn from the UCI repository. The experimental results show that WOA based on V-shaped transfer function combined with elitist tournament binarization method is superior over S-shaped transfer function and outperforms other well-regarded evolutionary optimizers based on the obtained average accuracy, fitness, number of features, running time and convergence curves. Hence, we can conclude that the proposed approach can be deployed in IoT intrusion detection systems.
+DA  - 2020///
+PY  - 2020
+DO  - https://doi.org/10.1016/j.future.2020.05.020
+VL  - 112
+SP  - 18
+EP  - 40
+SN  - 0167-739X
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X19313561
+KW  - Classification
+KW  - Feature selection
+KW  - Internet of things
+KW  - Attacks detection
+KW  - Whale optimization algorithm
+ER  - 
+
+TY  - JOUR
+TI  - Three-layer hybrid intrusion detection model for smart home malicious attacks
+AU  - Shi, Lingyun
+AU  - Wu, Longfei
+AU  - Guan, Zhitao
+T2  - Computers & Electrical Engineering
+AB  - With the development of Internet of Things and the increasingly rampant malicious network activities, higher requirements are put forward for security to detect malicious behavior and prevent attackers from obtaining sensitive data in the smart home environment. In this paper, an intrusion detection system is proposed to detect and classify abnormal behavior in the smart home environment. The two-layer feature processing method based on random forest and principal component analysis can reduce the loss of data information and is suitable for massive data. The three-layer detection model can detect four common attacks with binary classifiers and effectively improve the accuracy. The experimental evaluation of the proposed model is conducted using the real smart home traffic dataset and achieves a classification accuracy of 95.90%. The experimental results show that our model has a good performance in detecting and classifying malicious attacks in the smart home.
+DA  - 2021///
+PY  - 2021
+DO  - https://doi.org/10.1016/j.compeleceng.2021.107536
+VL  - 96
+SP  - 107536
+SN  - 0045-7906
+UR  - https://www.sciencedirect.com/science/article/pii/S004579062100481X
+KW  - Intrusion detection system
+KW  - Machine learning
+KW  - Security
+KW  - Internet of things
+KW  - Smart home
+ER  - 
+
+TY  - JOUR
+TI  - Machine and deep learning amalgamation for feature extraction in Industrial Internet-of-Things
+AU  - Jayalaxmi, P. L. S.
+AU  - Saha, Rahul
+AU  - Kumar, Gulshan
+AU  - Kim, Tai-Hoon
+T2  - Computers & Electrical Engineering
+AB  - In this paper, we develop a feature extraction model using the amalgamation of machine and deep learning techniques for Industrial Internet of Thing (IIoT). We train the model with the most effective feature set evaluated using machine learning algorithms and deep learning feature extraction methods. We test these features with deep learning based network models for validation. We consider error metrics and accuracy as the major factors for combining the machine learning and deep learning techniques. The error rates are analysed using mean square error which show low error rate for the subset than the model tested for full dataset. Further, mean square error, accuracy rate and false values are analysed to test the performance of the proposed model. The comparative analysis with IIoT dataset and existing methods show that our approach is 25% better than the others.
+DA  - 2022///
+PY  - 2022
+DO  - https://doi.org/10.1016/j.compeleceng.2021.107610
+VL  - 97
+SP  - 107610
+SN  - 0045-7906
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790621005437
+KW  - IoT
+KW  - Machine learning
+KW  - Security
+KW  - Features
+KW  - Industrial
+ER  - 
+
+TY  - JOUR
+TI  - Recurrent deep learning-based feature fusion ensemble meta-classifier approach for intelligent network intrusion detection system
+AU  - Ravi, Vinayakumar
+AU  - Chaganti, Rajasekhar
+AU  - Alazab, Mamoun
+T2  - Computers and Electrical Engineering
+AB  - This work proposes an end-to-end model for network attack detection and network attack classification using deep learning-based recurrent models. The proposed model extracts the features of hidden layers of recurrent models and further employs a kernel-based principal component analysis (KPCA) feature selection approach to identify optimal features. Finally, the optimal features of recurrent models are fused together and classification is done using an ensemble meta-classifier. Experimental analysis and results of the proposed method on more than one benchmark network intrusion dataset show that the proposed method performed better than the existing methods and other most commonly used machine learning and deep learning models. In particular, the proposed method showed maximum accuracy 99% in network attacks detection and 97% network attacks classification using the SDN-IoT dataset. Similar performances were obtained by the proposed model on other network intrusion datasets such as KDD-Cup-1999, UNSW-NB15, WSN-DS, and CICIDS-2017.
+DA  - 2022///
+PY  - 2022
+DO  - https://doi.org/10.1016/j.compeleceng.2022.108156
+VL  - 102
+SP  - 108156
+SN  - 0045-7906
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790622004037
+KW  - Deep learning
+KW  - Intrusion detection
+KW  - Cyber–physical systems
+KW  - Cyberattacks
+KW  - Cybercrime
+KW  - Feature fusion
+KW  - Meta-classifier
+KW  - Recurrent model
+ER  - 
+
+TY  - JOUR
+TI  - A discrete time-varying greywolf IoT botnet detection system
+AU  - Alazab, Moutaz
+T2  - Computer Communications
+AB  - Internet of things (IoT) is an emerging network that is trending due to advances in computing and networking development. A botnet is an attack that threatens the IoT system because of the increased number of compromised connected IoT devices. The conventional counter measurements are unable to detect this attack. This problem becomes a hot topic for researchers and practitioners who introduced many secured solutions to stop the risks of a botnet attack. The intrusion detection systems are promising solutions to tackle botnet attacks and discover malicious patterns. Recently, many studies investigated the impact of reducing the number of dataset’s attributes (features) on the performance of detecting IoT attacks. Selecting the relevant features in a dataset is a data mining technique that has been efficiently integrated with designing secured systems for detecting botnets. This research paper proposes a new system for discovering botnet attacks in the context of IoT by applying a wrapper feature selection (FS) technique using an improved algorithm inspired by the natural swarming architecture of gray wolves called Gray Wolves Optimization (GWO). The transfer function (TF) maps the standard GWO which is originally developed to work in continuous search space to perform its optimization job in discrete search space. Different types of TFs that belong to S type and V type groups are used to generate eight discrete versions of GWO to optimize the binary feature space. This study contributes by adopting time-variant TFs to identify the best time to switch the global search into local search to achieve trade-offs in the search job of the BGWO and approach to the best-optimized solution. Time-variant TFs facilitate the global search at the beginning of the search process to fetch new solutions in new regions of feature space. In the later phases of the search process, the need is to expose more searches in the local region to get the most optimized solution among the neighborhood solutions. A real IoT traffic that is represented by the N-BaIoT dataset is utilized to evaluate the BGWO and other compared methods. The comparison results of the experiments show that the time-variant TFs enhance the capability of the GWO optimizer in alleviating the premature conversion and finding the best feature subset within a reasonable running time. Therefore, the BGWO-TV-S1 is recommended to be integrated into the IoT network as an intrusion detection algorithm with accuracy 98.97%, fitness value 1.31%, 51.2210 selected features and running time 503.7132 s.
+DA  - 2022///
+PY  - 2022
+DO  - https://doi.org/10.1016/j.comcom.2022.06.016
+VL  - 192
+SP  - 405
+EP  - 416
+SN  - 0140-3664
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366422002183
+KW  - IoT
+KW  - Feature selection
+KW  - Intrusion detection
+KW  - Transfer functions
+KW  - Botnets
+KW  - GWO optimizer
+KW  - Wrapper
+ER  - 
+
+TY  - JOUR
+TI  - An intellectual intrusion detection system using Hybrid Hunger Games Search and Remora Optimization Algorithm for IoT wireless networks
+AU  - Kumar, Ravinder
+AU  - Malik, Amita
+AU  - Ranga, Virender
+T2  - Knowledge-Based Systems
+AB  - Smart devices are connected to the internet, called the Internet of Things (IoT); it is a wireless network that plays a vital role in modernizing people’s interaction by improving agility, mobility, efficiency and effectiveness. Although IoT offers various advantages, it also raises privacy and security problems in IoT networks. The security of such integrated networks still remains an active area of research. Information transported across a wireless network must be monitored and implemented efficiently to ensure its integrity, validity and confidentiality. In order to minimize the rate of security problems in IoT networks, an intrusion detection model is suggested. For that reason, various intrusion detection based techniques are introduced in existing works to improve the security of IoT networks. But existing methods do not provide an efficient result in securing IoT data. The main contribution of using intrusion detection techniques in the proposed work is to improve the security of IoT networks. In this work, a hybrid Hunger Games Search and Remora Optimization Algorithm (HHGS-ROA) is proposed to address the security problems. The proposed approach uses a real-world Aegean Wi-Fi Intrusion Dataset (AWID) for an IoT intruder detection system. Initially, the AWID raw captured traffic is fed into the pre-processing stage to increase the speed of feature selection. In the proposed approach, a hybrid HGS-ROA model is used to extract the features from the AWID dataset. Finally, the SVM classifier is proposed to classify network traffic as normal or malicious attacks. Therefore proposed approach achieves a low false-positive rate (FPR) with an enhanced detection rate. The proposed work is implemented in the PYTHON platform. Compared with existing methods in terms of accuracy, F1 score, detection rate, FAR, computation times, false alarm rate, MCC, and precision has proven to be more effective. The proposed approach performs better than existing algorithms in terms of evaluating metrics such as accuracy (99.16%), precision (99.76%), recall (99.40%), F1 score (99.58%), false alarm rate (0.00005%), MCC (99.97%) and false-positive rate (0.20%).
+DA  - 2022///
+PY  - 2022
+DO  - https://doi.org/10.1016/j.knosys.2022.109762
+VL  - 256
+SP  - 109762
+SN  - 0950-7051
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705122008917
+KW  - Attacks
+KW  - Security
+KW  - Intrusion detection
+KW  - Aegean Wi-Fi intrusion detection dataset
+KW  - IoT wireless network
+ER  - 
+
+TY  - JOUR
+TI  - Machine learning-based early detection of IoT botnets using network-edge traffic
+AU  - Kumar, Ayush
+AU  - Shridhar, Mrinalini
+AU  - Swaminathan, Sahithya
+AU  - Lim, Teng Joon
+T2  - Computers & Security
+AB  - In this work, we present an IoT botnet detection solution, EDIMA, consisting of a set of lightweight modules designed to be deployed at the edge gateway installed in home networks with the remaining modules expected to be implemented on cloud servers. EDIMA targets early detection of IoT botnets prior to the launch of an attack and includes a novel two-stage Machine Learning (ML)-based detector developed specifically for IoT bot detection at the edge gateway. The ML-based bot detector first employs supervised ML algorithms for aggregate traffic classification and subsequently Autocorrelation Function (ACF)-based tests to detect individual bots. The EDIMA architecture also comprises a malware traffic database, a policy engine, a feature extractor and a traffic parser. Performance evaluation results using our testbed setup with real-world IoT malware traffic as well as other public IoT datasets show that EDIMA achieves high bot scanning and bot-CnC traffic detection accuracies with very low false positive rates. The detection performance is also shown to be robust to an increase in the number of IoT devices connected to the edge gateway where EDIMA is deployed. Further, the runtime performance analysis of a Python implementation of EDIMA deployed on a Raspberry Pi reveals low bot detection delays and low RAM consumption. EDIMA is also shown to outperform existing detection techniques for bot scanning traffic and bot-CnC server communication.
+DA  - 2022///
+PY  - 2022
+DO  - https://doi.org/10.1016/j.cose.2022.102693
+VL  - 117
+SP  - 102693
+SN  - 0167-4048
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404822000918
+KW  - Anomaly detection
+KW  - IoT
+KW  - Machine learning
+KW  - Intrusion detection
+KW  - Malware
+KW  - Botnet
+KW  - Botnet detection
+KW  - Internet of things
+KW  - Mirai
+ER  - 
+
+TY  - JOUR
+TI  - Intelligent IoT-BOTNET Attack Detection Model with optimized Hybrid Classification Model
+AU  - Bojarajulu, Balaganesh
+AU  - Tanwar, Sarvesh
+AU  - Singh, Thipendra Pal
+T2  - Computers & Security
+AB  - The botnet have developed into a severe risk to Internet of Things (IoT) systems as a result of manufacturers ‘insufficient security policies and end users’ lack of security awareness. By default, several ports are open and user credentials are left unmodified. ML and DL strategies have been suggested in numerous latest research for identifying and categorising botnet assaults in the IoT context, but still, it has a few issues like high error susceptibility, working only with a large amount of data, poor quality, and data acquisition. This research provided use of a brand-new IoT botnet detector built on an improved hybrid classifier. The proposed work's main components are "pre-processing, feature extraction, feature selection, and attack detection." Following that, the improved Information Gain (IIG) model is used to choose the most reliable characteristics from the received information. To detect an attack, a hybrid classifier is utilized which can be constructed by integrating the optimized Bi-GRU with the Recurrent Neural Network (RNN). To increase the detection accuracy of IoT-BOTNETS, a novel hybrid optimization approach called SMIE (Slime Mould with Immunity Evolution) is created by conceptually integrating two conventional optimization modes: Coronavirus herd immunity optimizer (CHIO) and the Slime mould algorithm. The final output of the hybrid classifier displays the presence or absence of IoT-BOTNET attacks. The projected model's accuracy is 97%, which is 22.6%, 18.5%, 27.8%, 22.6%, and 24.8% higher than the previous models like GWO+ HC, SSO+ HC, WOA+ HC, SMA+ HC, and CHIO+ HC, respectively.
+DA  - 2022///
+PY  - 2022
+DO  - https://doi.org/10.1016/j.cose.2022.103064
+SP  - 103064
+SN  - 0167-4048
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404822004564
+KW  - RNN
+KW  - IoT
+KW  - Bi-GRU
+KW  - BOTNET
+KW  - SMIE
+ER  - 
+
+TY  - JOUR
+TI  - A new Intelligent Satellite Deep Learning Network Forensic framework for smart satellite networks
+AU  - Koroniotis, Nickolaos
+AU  - Moustafa, Nour
+AU  - Slay, Jill
+T2  - Computers and Electrical Engineering
+AB  - By combining the Internet of Things (IoT) and Artificial Intelligence (AI), new augmentations and enhancements are realized, resulting in environment-aware systems that can enable intelligent decision making, with one such example being smart satellite networks. However, smart satellite networks attract the attention of hackers, resulting in them being targeted by severe cyber-attacks that can compromise their integrity, affect their availability, or breach the confidentiality of the data they generate, collect or rout. Lately, several prominent cyber-attacking scenarios have been observed to target IoT-enabled systems, resulting in loss, alteration, or exfiltration of data, disabling of devices, (distributed) denial of services, the formation of botnets, and lateral movement into otherwise secured networks. In this paper, we propose a network forensic framework based on Deep Learning (DL), the so-called Intelligent Satellite Deep Learning Network Forensic (INSAT-DLNF), for the detection and tracing of cyber-attack activities targeting smart satellite networks. For this framework, we trained a Long Short-term Memory Recurrent Neural Network (LSTM-RNN) and Gated Recurrent Unit (GRU) and compared their performances to five supervised and two unsupervised Machine Learning (ML) algorithms. The experimental results indicate that ML and DL algorithms can be employed effectively for the discovery and tracing of cyber-attacks, resulting in more adaptive and resilient cyber-security solutions, compared to legacy forensic tools that cannot discover zero-day attack surfaces and vectors.
+DA  - 2022///
+PY  - 2022
+DO  - https://doi.org/10.1016/j.compeleceng.2022.107745
+VL  - 99
+SP  - 107745
+SN  - 0045-7906
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790622000556
+KW  - Internet of Things (IoT)
+KW  - Deep Learning
+KW  - Cyber attacks
+KW  - Network forensics
+KW  - Smart satellite
+ER  - 
+
+TY  - JOUR
+TI  - Averaged dependence estimators for DoS attack detection in IoT networks
+AU  - Baig, Zubair A.
+AU  - Sanguanpong, Surasak
+AU  - Firdous, Syed Naeem
+AU  - Vo, Van Nhan
+AU  - Nguyen, Tri Gia
+AU  - So-In, Chakchai
+T2  - Future Generation Computer Systems
+AB  - Wireless sensor networks (WSNs) have evolved to become an integral part of the contemporary Internet of Things (IoT) paradigm. The sensor node activities of both sensing phenomena in their immediate environments and reporting their findings to a centralized base station (BS) have remained a core platform to sustain heterogeneous service-centric applications. However, the adversarial threat to the sensors of the IoT paradigm remains significant. Denial of service (DoS) attacks, comprising a large volume of network packets, targeting a given sensor node(s) of the network, may cripple routine operations and cause catastrophic losses to emergency services. This paper presents an intelligent DoS detection framework comprising modules for data generation, feature ranking and generation, and training and testing. The proposed framework is experimentally tested under actual IoT attack scenarios, and the accuracy of the results is greater than that of traditional classification techniques.
+DA  - 2020///
+PY  - 2020
+DO  - https://doi.org/10.1016/j.future.2019.08.007
+VL  - 102
+SP  - 198
+EP  - 209
+SN  - 0167-739X
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X19300834
+KW  - Internet of Things
+KW  - Machine learning algorithms
+KW  - Communication system security
+ER  - 
+
+TY  - CONF
+TI  - Comparing Machine Learning and Deep Learning for IoT Botnet Detection
+AU  - Gandhi, Rishabh
+AU  - Li, Yanyan
+AB  - Botnets have become a major threat to Internet of Things (IoT) devices due to their low security settings out of the box and the lack of security awareness from end users. Many ports are open by default and default user credentials are left unchanged. To tackle the increasingly popular botnet attack, many detection approaches have been proposed. However, most of them are targeting on one particular approach or one botnet dataset. There is lacking a comprehensive comparison between different machine learning and deep learning approaches on this task under different datasets collected from different ways. In this work, we have measured the performance of 5 machine learning and 2 deep learning based approaches on 4 recently published IoT botnet datasets collected using real and virtual IoT devices under Mirai malware attack. Our comparison results have shown that random forest achieved the best detection accuracy as well as the shortest testing time.
+C3  - 2021 IEEE INTERNATIONAL CONFERENCE ON SMART COMPUTING (SMARTCOMP 2021)
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/SMARTCOMP52413.2021.00053
+SP  - 234
+EP  - 239
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning DDoS Detection for Consumer Internet of Things Devices
+AU  - Doshi, Rohan
+AU  - Apthorpe, Noah
+AU  - Feamster, Nick
+AB  - An increasing number of Internet of Things (IoT) devices are connecting to the Internet, yet many of these devices are fundamentally insecure, exposing the Internet to a variety of attacks. Botnets such as Mirai have used insecure consumer IoT devices to conduct distributed denial of service (DDoS) attacks on critical Internet infrastructure. This motivates the development of new techniques to automatically detect consumer IoT attack traffic. In this paper, we demonstrate that using IoT-specific network behaviors (e.g., limited number of endpoints and regular time intervals between packets) to inform feature selection can result in high accuracy DDoS detection in IoT network traffic with a variety of machine learning algorithms, including neural networks. These results indicate that home gateway routers or other network middleboxes could automatically detect local IoT device sources of DDoS attacks using low-cost machine learning algorithms and traffic data that is flow-based and protocol-agnostic.
+C3  - 2018 IEEE SYMPOSIUM ON SECURITY AND PRIVACY WORKSHOPS (SPW 2018)
+DA  - 2018///
+PY  - 2018
+DO  - 10.1109/SPW.2018.00013
+SP  - 29
+EP  - 35
+ER  - 
+
+TY  - JOUR
+TI  - Machine Learning-Based IoT-Botnet Attack Detection with Sequential Architecture dagger
+AU  - Soe, Yan Naung
+AU  - Feng, Yaokai
+AU  - Santosa, Paulus Insap
+AU  - Hartanto, Rudy
+AU  - Sakurai, Kouichi
+T2  - SENSORS
+AB  - With the rapid development and popularization of Internet of Things (IoT) devices, an increasing number of cyber-attacks are targeting such devices. It was said that most of the attacks in IoT environments are botnet-based attacks. Many security weaknesses still exist on the IoT devices because most of them have not enough memory and computational resource for robust security mechanisms. Moreover, many existing rule-based detection systems can be circumvented by attackers. In this study, we proposed a machine learning (ML)-based botnet attack detection framework with sequential detection architecture. An efficient feature selection approach is adopted to implement a lightweight detection system with a high performance. The overall detection performance achieves around 99% for the botnet attack detection using three different ML algorithms, including artificial neural network (ANN), J48 decision tree, and Naive Bayes. The experiment result indicates that the proposed architecture can effectively detect botnet-based attacks, and also can be extended with corresponding sub-engines for new kinds of attacks.
+DA  - 2020/08//
+PY  - 2020
+DO  - 10.3390/s20164372
+VL  - 20
+IS  - 16
+ER  - 
+
+TY  - JOUR
+TI  - Fault-tolerant AI-driven Intrusion Detection System for the Internet of Things
+AU  - Medjek, Faiza
+AU  - Tandjaoui, Djamel
+AU  - Djedjig, Nabil
+AU  - Romdhani, Imed
+T2  - INTERNATIONAL JOURNAL OF CRITICAL INFRASTRUCTURE PROTECTION
+AB  - Internet of Things (IoT) has emerged as a key component of all advanced critical infrastructures. However, with the challenging nature of IoT, new security breaches have been introduced, especially against the Routing Protocol for Low-power and Lossy Networks (RPL). Artificial-Intelligence-based technologies can be used to provide insights to deal with IoT's security issues. In this paper, we describe the initial stages of developing, a new Intrusion Detection System using Machine Learning (ML) to detect routing attacks against RPL. We first simulate the routing attacks and capture the traffic for different topologies. We then process the traffic and generate large 2-class and multi-class datasets. We select a set of significant features for each attack, and we use this set to train different classifiers to make the IDS. The experiments with 5-fold cross-validation demonstrated that decision tree (DT), random forests (RF), and K-Nearest Neighbours (KNN) achieved good results of more than 99% value for accuracy, precision, recall, and F 1 score metrics, and RF has achieved the lowest fitting time. On the other hand, Deep Learning (DL) model, MLP, Naive Bayes (NB), and Logistic Regression (LR) have shown significantly lower performance. (c) 2021 Elsevier B.V. All rights reserved.
+DA  - 2021/09//
+PY  - 2021
+DO  - 10.1016/j.ijcip.2021.100436
+VL  - 34
+ER  - 
+
+TY  - JOUR
+TI  - A Distributed Intrusion Detection System using Machine Learning for IoT based on ToN-IoT Dataset
+AU  - Gad, Abdallah R.
+AU  - Haggag, Mohamed
+AU  - Nashat, Ahmed A.
+AU  - Barakat, Tamer M.
+T2  - INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS
+AB  - The internet of things (IoT) is a collection of common physical things which can communicate and synthesize data utilizing network infrastructure by connecting to the internet. IoT networks are increasingly vulnerable to security breaches as their popularity grows. Cyber security attacks are among the most popular severe dangers to IoT security. Many academics are increasingly interested in enhancing the security of IoT systems. Machine learning (ML) approaches were employed to function as intrusion detection systems (IDSs) to provide better security capabilities. This work proposed a novel distributed detection system based on machine ML approaches to detect attacks in IoT and mitigate malicious occurrences. Furthermore, NSL-KDD or KDD-CUP99 datasets are used in the great majority of current studies. These datasets are not updated with new attacks. As a consequence, the ToN-IoT dataset was used for training and testing. It was created from a large-scale, diverse IoT network. The ToN-IoT dataset reflects data from each layer of the IoT system, such as cloud, fog, and edge layer. Various ML methods were tested in each specific partition of the ToN-IoT dataset. The proposed model is the first suggested model based on the collected data from the same IoT system from all layers. The Chi2 technique was used to pick features in a network dataset. It reduced the number of features to 20. Another feature selection tool employed in the windows dataset was the correlation matrix, which was used to extract the most relevant features from the whole dataset. To balance the classes, the SMOTE method was used. This paper tests numerous ML approaches in both binary and multi-class classification problems. According to the findings, the XGBoost approach is superior to other ML algorithms for each node in the suggested model.
+DA  - 2022/06//
+PY  - 2022
+VL  - 13
+IS  - 6
+SP  - 548
+EP  - 563
+ER  - 
+
+TY  - JOUR
+TI  - Anomaly Detection for Internet of Things Cyberattacks
+AU  - Alanazi, Manal
+AU  - Aljuhani, Ahamed
+T2  - CMC-COMPUTERS MATERIALS & CONTINUA
+AB  - The Internet of Things (IoT) has been deployed in diverse critical sectors with the aim of improving quality of service and facilitating human lives. The IoT revolution has redefined digital services in different domains by improving efficiency, productivity, and cost-effectiveness. Many service providers have adapted IoT systems or plan to integrate them as integral parts of their systems' operation; however, IoT security issues remain a significant challenge. To minimize the risk of cyberattacks on IoT networks, anomaly detection based on machine learning can be an effective security solution to overcome a wide range of IoT cyberattacks. Although various detection techniques have been proposed in the literature, existing detection methods address limited cyberattacks and utilize outdated datasets for evaluations. In this paper, we propose an intelligent, effective, and lightweight detection approach to detect several IoT attacks. Our proposed model includes a collab-orative feature selection method that selects the best distinctive features and eliminates unnecessary features to build an effective and efficient detection model. In the detection phase, we also proposed an ensemble of learning techniques to improve classification for predicting several different types of IoT attacks. The experimental results show that our proposed method can effectively and efficiently predict several IoT attacks with a higher accuracy rate of 99.984%, a precision rate of 99.982%, a recall rate of 99.984%, and an F1-score of 99.983%.
+DA  - 2022///
+PY  - 2022
+DO  - 10.32604/cmc.2022.024496
+VL  - 72
+IS  - 1
+SP  - 261
+EP  - 279
+ER  - 
+
+TY  - JOUR
+TI  - IoT Intrusion Detection System Using Deep Learning and Enhanced Transient Search Optimization
+AU  - Fatani, Abdulaziz
+AU  - Abd Elaziz, Mohamed
+AU  - Dahou, Abdelghani
+AU  - Al-Qaness, Mohammed A. A.
+AU  - Lu, Songfeng
+T2  - IEEE ACCESS
+AB  - The great advancements in communication, cloud computing, and the internet of things (IoT) have opened critical challenges in security. With these developments, cyberattacks are also rapidly growing since the current security mechanisms do not provide efficient solutions. Recently, various artificial intelligence (AI) based solutions have been proposed for different security applications, including intrusion detection. In this paper, we propose an efficient AI-based mechanism for intrusion detection systems (IDS) in IoT systems. We leverage the advancements of deep learnings and metaheuristics (MH) algorithms that approved their efficiency in solving complex engineering problems. We propose a feature extraction method using the convolutional neural networks (CNNs) to extract relevant features. Also, we develop a new feature selection method using a new variant of the transient search optimization (TSO) algorithm, called TSODE, using the operators of differential evolution (DE) algorithm. The proposed TSODE uses the DE to improve the process of balancing between exploitation and exploration phases. Furthermore, we use three public datasets, KDDCup-99, NSL-KDD, BoT-IoT, and CICIDS-2017 to assess the performance of the developed method, which achieved higher accuracy compared to several existing approaches.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/ACCESS.2021.3109081
+VL  - 9
+SP  - 123448
+EP  - 123464
+ER  - 
+
+TY  - JOUR
+TI  - Injection attack detection using machine learning for smart IoT applications
+AU  - Gaber, Tarek
+AU  - El-Ghamry, Amir
+AU  - Hassanien, Aboul Ella
+T2  - PHYSICAL COMMUNICATION
+AB  - Smart cities are a rapidly growing IoT application. These smart cities mainly rely on wireless sensors to connect their different components (smart devices) together. Smart cities rely on the integration of IoT and 5G technologies, and this has created a demand for a massive IoT network of connected devices. The data traffic coming from indoor wireless networks (e.g., smart homes, smart hospitals, smart factories, or smart school buildings) contributes to over 80% of the total data traffic of the current IoT network. As smart cities and their applications grow, security and privacy challenges have become a major concern for billions of IoT smart devices. One reason for this could be the oversight of handling security issues of IoT devices by their manufacturers, which enables attackers to exploit the vulnerabilities in these devices by performing different types of attacks, e.g., DDoS and injection attacks. Intrusion detection is one way to detect and mitigate the risk of such attacks. In this paper, an intrusion detection method was proposed to detect injection attacks in IoT applications (e.g. smart cities). In this method, two types of feature selection techniques (constant removal and recursive feature elimination) were used and tested by a number of machine learning classifiers (i.e., SVM, Random Forest, and Decision Tree). The T-Test was conducted to evaluate the quality of this proposed feature selection method. Using the public dataset, AWID, the evaluation results showed that the decision tree classifier can be used to detect injection attacks with an accuracy of 99% using only 8 features, which were selected using the proposed feature selection method. Also, the comparison with the most related work showed the advantages of the proposed intrusion detection method. (C) 2022 Elsevier B.V. All rights reserved.
+DA  - 2022/06//
+PY  - 2022
+DO  - 10.1016/j.phycom.2022.101685
+VL  - 52
+ER  - 
+
+TY  - JOUR
+TI  - Lightweight Internet of Things Botnet Detection Using One-Class Classification
+AU  - Malik, Kainat
+AU  - Rehman, Faisal
+AU  - Maqsood, Tahir
+AU  - Mustafa, Saad
+AU  - Khalid, Osman
+AU  - Akhunzada, Adnan
+T2  - SENSORS
+AB  - Like smart phones, the recent years have seen an increased usage of internet of things (IoT) technology. IoT devices, being resource constrained due to smaller size, are vulnerable to various security threats. Recently, many distributed denial of service (DDoS) attacks generated with the help of IoT botnets affected the services of many websites. The destructive botnets need to be detected at the early stage of infection. Machine-learning models can be utilized for early detection of botnets. This paper proposes one-class classifier-based machine-learning solution for the detection of IoT botnets in a heterogeneous environment. The proposed one-class classifier, which is based on one-class KNN, can detect the IoT botnets at the early stage with high accuracy. The proposed machine-learning-based model is a lightweight solution that works by selecting the best features leveraging well-known filter and wrapper methods for feature selection. The proposed strategy is evaluated over different datasets collected from varying network scenarios. The experimental results reveal that the proposed technique shows improved performance, consistent across three different datasets used for evaluation.
+DA  - 2022/05//
+PY  - 2022
+DO  - 10.3390/s22103646
+VL  - 22
+IS  - 10
+ER  - 
+
+TY  - CONF
+TI  - Dimensionality Reduction for Machine Learning Based IoT Botnet Detection
+AU  - Bahsi, Hayretdin
+AU  - Nomm, Sven
+AU  - La Torre, Fabio Benedetto
+T3  - International Conference on Control Automation Robotics and Vision
+AB  - The rapid development of the internet of things caused severe security problems such as the cyber attacks launched by extremely huge botnets comprised of IoT devices. The detection of these devices is essential for protecting the networks. Recently, some of the studies have demonstrated the high accuracy of machine learning methods, including deep learning, in detecting IoT botnets. However, the minimizing of the required features for classification is highly needed for overcoming scalability and computation resource problems in IoT environments. Having results which can be readily interpretable by cyber security analysts and producing signatures for the contemporary intrusion detection or network monitoring systems are other significant factors in this area in which quick and widespread security adaption is highly required. In this study, we applied feature selection to minimize the number of features in detecting the IoT bots. It is shown that fewer features can achieve very high accuracy rates and afford interpretable results with a multi-class classifier based on a shallow method, decision tree.
+C3  - 2018 15TH INTERNATIONAL CONFERENCE ON CONTROL, AUTOMATION, ROBOTICS AND VISION (ICARCV)
+DA  - 2018///
+PY  - 2018
+SP  - 1857
+EP  - 1862
+ER  - 
+
+TY  - JOUR
+TI  - CHAMELEON: Optimized feature selection using particle swarm optimization and ensemble methods for network anomaly detection
+AU  - Chohra, Aniss
+AU  - Shirani, Paria
+AU  - Karbab, ElMouatez Billah
+AU  - Debbabi, Mourad
+T2  - COMPUTERS & SECURITY
+AB  - In this paper, we propose an optimization approach by leveraging swarm intelligence and ensemble methods to solve the non-deterministic feature selection problem. The proposed approach is validated on two benchmark datasets, namely, NSL-KDD and UNSW-NB15, in addition to a third dataset, called IoT-Zeek dataset, which consists of Zeek network-based intrusion detection connection logs. We build the IoT-Zeek dataset by employing ensemble classification and deep learning models using publicly available malicious and benign threat intelligence on the Zeek connection logs of IoT devices. Moreover, we deploy and validate a deep learning-based anomaly detection model using autoencoders on each of the aforementioned datasets by utilizing the selected features obtained from the proposed optimization approach. The obtained results demonstrate that our approach outperform the existing state-of-the-art machine learning models in terms of f(1) score results, with 92.092% f(1) score on NSL-KDD dataset, 92.904 f(1) score on UNSW-NB15 dataset, and 97.302 f(1) score on IoT-Zeek dataset. (C) 2022 Elsevier Ltd. All rights reserved.
+DA  - 2022/06//
+PY  - 2022
+DO  - 10.1016/j.cose.2022.102684
+VL  - 117
+ER  - 
+
+TY  - JOUR
+TI  - A GPU-based machine learning approach for detection of botnet attacks
+AU  - Motylinski, Michal
+AU  - MacDermott, Aine
+AU  - Iqbal, Farkhund
+AU  - Shah, Babar
+T2  - COMPUTERS & SECURITY
+AB  - Rapid development and adaptation of the Internet of Things (IoT) has created new problems for secur-ing these interconnected devices and networks. There are hundreds of thousands of IoT devices with underlying security vulnerabilities, such as insufficient device authentication/authorisation making them vulnerable to malware infection. IoT botnets are designed to grow and compete with one another over unsecure devices and networks. Once infected, the device will monitor a Command-and-Control (C&C) server indicating the target of an attack via Distributed Denial of Service (DDoS) attack. These security issues, coupled with the continued growth of IoT, presents a much larger attack surface for attackers to exploit in their attempts to disrupt or gain unauthorized access to networks, systems, and data. Large datasets available online provide good benchmarks for the development of accurate solutions for botnet detection, however model training is often a time-consuming process. Interestingly, significant advance-ment of GPU technology allows shortening the time required to train such large and complex models. This paper presents a methodology for the pre-processing of the IoT-Bot dataset and classification of various attack types included. We include descriptions of pre-processing actions conducted to prepare data for training and a comparison of results achieved with GPU accelerated versions of Random Forest, k-Nearest Neighbour, Support Vector Machine (SVM) and Logistic Regression classifiers from the cuML library. Using our methodology, the best-trained models achieved at least 0.99 scores for accuracy, precision, recall and f1-score. Moreover, the application of feature selection and training models on GPU significantly reduced the training and estimation times.(c) 2022 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license( http://creativecommons.org/licenses/by-nc-nd/4.0/ )
+DA  - 2022/12//
+PY  - 2022
+DO  - 10.1016/j.cose.2022.102918
+VL  - 123
+ER  - 
+
+TY  - JOUR
+TI  - IoT Dataset Validation Using Machine Learning Techniques for Traffic Anomaly Detection
+AU  - Vigoya, Laura
+AU  - Fernandez, Diego
+AU  - Carneiro, Victor
+AU  - Novoa, Francisco J.
+T2  - ELECTRONICS
+AB  - With advancements in engineering and science, the application of smart systems is increasing, generating a faster growth of the IoT network traffic. The limitations due to IoT restricted power and computing devices also raise concerns about security vulnerabilities. Machine learning-based techniques have recently gained credibility in a successful application for the detection of network anomalies, including IoT networks. However, machine learning techniques cannot work without representative data. Given the scarcity of IoT datasets, the DAD emerged as an instrument for knowing the behavior of dedicated IoT-MQTT networks. This paper aims to validate the DAD dataset by applying Logistic Regression, Naive Bayes, Random Forest, AdaBoost, and Support Vector Machine to detect traffic anomalies in IoT. To obtain the best results, techniques for handling unbalanced data, feature selection, and grid search for hyperparameter optimization have been used. The experimental results show that the proposed dataset can achieve a high detection rate in all the experiments, providing the best mean accuracy of 0.99 for the tree-based models, with a low false-positive rate, ensuring effective anomaly detection.
+DA  - 2021/11//
+PY  - 2021
+DO  - 10.3390/electronics10222857
+VL  - 10
+IS  - 22
+ER  - 
+
+TY  - JOUR
+TI  - Examining the Suitability of NetFlow Features in Detecting IoT Network Intrusions
+AU  - Awad, Mohammed
+AU  - Fraihat, Salam
+AU  - Salameh, Khouloud
+AU  - Al Redhaei, Aneesa
+T2  - SENSORS
+AB  - The past few years have witnessed a substantial increase in cyberattacks on Internet of Things (IoT) devices and their networks. Such attacks pose a significant threat to organizational security and user privacy. Utilizing Machine Learning (ML) in Intrusion Detection Systems (NIDS) has proven advantageous in countering novel zero-day attacks. However, the performance of such systems relies on several factors, one of which is prediction time. Processing speed in anomaly-based NIDS depends on a few elements, including the number of features fed to the ML model. NetFlow, a networking industry-standard protocol, offers many features that can be used to predict malicious attacks accurately. This paper examines NetFlow features and assesses their suitability in classifying network traffic. Our paper presents a model that detects attacks with (98-100%) accuracy using as few as 13 features. This study was conducted using a large dataset of over 16 million records released in 2021.
+DA  - 2022/08//
+PY  - 2022
+DO  - 10.3390/s22166164
+VL  - 22
+IS  - 16
+ER  - 
+
+TY  - JOUR
+TI  - ML-Based IDPS Enhancement With Complementary Features for Home IoT Networks
+AU  - Illy, Poulmanogo
+AU  - Kaddoum, Georges
+AU  - Kaur, Kuljeet
+AU  - Garg, Sahil
+T2  - IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT
+AB  - The Internet of Things (IoT) networks are obstructed by security vulnerabilities that hackers can leverage to operate intrusions in many environments, such as smart homes, smart factories, and smart healthcare systems. To overcome this obstruction, researchers have come up with different intrusion detection and prevention systems (IDPSs). Out of all the implemented technologies, Machine Learning (ML) has emerged as the most promising approach. Therefore, to improve the detection accuracy, most ML-based intrusion detection solutions focus only on investigating appropriate ML algorithms. Yet, the limitations in terms of detection accuracy in various attacks are often caused by lack of appropriate detection features. Moreover, the majority of the previous works lack intrusion prevention mechanisms and deployment architectures. Thus, in this research, we study the properties of different smart home security attacks and the quality of the features that can be brought out and employed in ML algorithms to detect each of these attacks efficiently. Furthermore, this research proposes effective intrusion prevention mechanisms and a Software-Defined Networking (SDN) based deployment architecture of the IDPSs within home networks. Experimental evaluations of the proposed solution are provided using different feature sets and various ML models. The contributions and advancements discussed in this paper will upgrade future research and engineering works on IDPSs for IoT.
+DA  - 2022/06//
+PY  - 2022
+DO  - 10.1109/TNSM.2022.3141942
+VL  - 19
+IS  - 2
+SP  - 772
+EP  - 783
+ER  - 
+
+TY  - JOUR
+TI  - Classifier Performance Evaluation for Lightweight IDS Using Fog Computing in IoT Security
+AU  - Khater, Belal Sudqi
+AU  - Wahab, Ainuddin Wahid Abdul
+AU  - Idris, Mohd Yamani Idna
+AU  - Hussain, Mohammed Abdulla
+AU  - Ibrahim, Ashraf Ahmed
+AU  - Amin, Mohammad Arif
+AU  - Shehadeh, Hisham A.
+T2  - ELECTRONICS
+AB  - In this article, a Host-Based Intrusion Detection System (HIDS) using a Modified Vector Space Representation (MVSR) N-gram and Multilayer Perceptron (MLP) model for securing the Internet of Things (IoT), based on lightweight techniques and using Fog Computing devices, is proposed. The Australian Defence Force Academy Linux Dataset (ADFA-LD), which contains exploits and attacks on various applications, is employed for the analysis. The proposed method is divided into the feature extraction stage, the feature selection stage, and classification modeling. To maintain the lightweight criteria, the feature extraction stage considers a combination of 1-gram and 2-gram for the system call encoding. In addition, a Sparse Matrix is used to reduce the space by keeping only the weight of the features that appear in the trace, thus ignoring the zero weights. Subsequently, Linear Correlation Coefficient (LCC) is utilized to compensate for any missing N-gram in the test data. In the feature selection stage, the Mutual Information (MI) method and Principle Component Analysis (PCA) are utilized and then compared to reduce the number of input features. Following the feature selection stage, the modeling and performance evaluation of various Machine Learning classifiers are conducted using a Raspberry Pi IoT device. Further analysis of the effect of MLP parameters, such as the number of nodes, number of features, activation, solver, and regularization parameters, is also conducted. From the simulation, it can be seen that different parameters affect the accuracy and lightweight evaluation. By using a single hidden layer and four nodes, the proposed method with MI can achieve 96% accuracy, 97% recall, 96% F1-Measure, 5% False Positive Rate (FPR), highest curve of Receiver Operating Characteristic (ROC), and 96% Area Under the Curve (AUC). It also achieved low CPU time usage of 4.404 (ms) milliseconds and low energy consumption of 8.809 (mj) millijoules.
+DA  - 2021/07//
+PY  - 2021
+DO  - 10.3390/electronics10141633
+VL  - 10
+IS  - 14
+ER  - 
+
+TY  - CONF
+TI  - DEMISe: Interpretable Deep Extraction and Mutual Information Selection Techniques for IoT Intrusion Detection
+AU  - Parker, Luke R.
+AU  - Yoo, Paul D.
+AU  - Asyhari, Taufiq A.
+AU  - Chermak, Lounis
+AU  - Jhi, Yoonchan
+AU  - Taha, Kamal
+AB  - Recent studies have proposed that traditional security technology - involving pattern-matching algorithms that check predefined pattern sets of intrusion signatures - should be replaced with sophisticated adaptive approaches that combine machine learning and behavioural analytics. However, machine learning is performance driven, and the high computational cost is incompatible with the limited computing power, memory capacity and energy resources of portable IoT-enabled devices. The convoluted nature of deep-structured machine learning means that such models also lack transparency and interpretability. The knowledge obtained by interpretable learners is critical in security software design. We therefore propose two novel models featuring a common Deep Extraction and Mutual Information Selection (DEMISe) element which extracts features using a deep-structured stacked autoencoder, prior to feature selection based on the amount of mutual information (MI) shared between each feature and the class label. An entropy -based tree wrapper is used to optimise the feature subsets identified by the DEMISe element, yielding the DEMISe with Tree Evaluation and Regression Detection (DETEReD) model. This affords `white box' insight, and achieves a time to build of 603 seconds, a 99.07% detection rate, and 98.04% model accuracy. When tested against AWID, the best-referenced intrusion detection dataset, the new models achieved a test error comparable to or better than state-of-the-art machine-learning models, with a lower computational cost and higher levels of transparency and interpretability.
+C3  - 14TH INTERNATIONAL CONFERENCE ON AVAILABILITY, RELIABILITY AND SECURITY (ARES 2019)
+DA  - 2019///
+PY  - 2019
+DO  - 10.1145/3339252.3340497
+ER  - 
+
+TY  - CONF
+TI  - A Comparative Study of Machine Learning Models for Cyber-attacks Detection in Wireless Sensor Networks
+AU  - Ismail, Shereen
+AU  - Khoei, Tala Talaei
+AU  - Marsh, Ronald
+AU  - Kaabouch, Naima
+A2  - Paul, R
+AB  - Wireless Sensor Network is a key technology for Internet of Things, but it is an example of energy-restricted networks. In such networks with a large number of deployed sensors with limited capabilities, security becomes a crucial concern which requires proper design of detection and mitigation techniques that address such challenge. Machine learning is one of the most efficient ways to design cyber-attacks detection systems for WSN. This paper presents a comparative study and performance analysis of different machine learning classification techniques for cyber-attacks detection in WSN. We investigate the performance of three recent boosting techniques, namely GBM, LightGBM, and Catboost. Their performances are compared to those of three commonly known machine learning methods, namely Gaussian NB, KNN, and RF. We apply both Pearson's correlation and mutual information as an ensemble feature selection and dimensionality reduction. Tree-based Pipeline Optimization Tool is utilized for hyperparameter tuning. We use the specialized dataset, WSN-DS, that contains numerous samples corresponding to four kinds of attacks: Grayhole, Blackhole, Flooding, and TDMA scheduling. The performance of the six models is investigated in terms of accuracy, probability of detection, probability of false alarm, probability of misdetection, memory usage, processing time, and average prediction time per sample.
+C3  - 2021 IEEE 12TH ANNUAL UBIQUITOUS COMPUTING, ELECTRONICS & MOBILE COMMUNICATION CONFERENCE (UEMCON)
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/UEMCON53757.2021.9666581
+SP  - 313
+EP  - 318
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning-based Intrusion Detection for IoT Devices in Smart Home
+AU  - Li, Taotao
+AU  - Hong, Zhen
+AU  - Yu, Li
+T3  - IEEE International Conference on Control and Automation ICCA
+AB  - The Internet of Things (IoT) is increasingly providing people with objects to connect with the physical world, which plays an important role in people's daily life. Although it has brought us great convenience, there are also suffered from security vulnerabilities and potential threats. Currently, the lack of protection mechanisms for IoT devices with limited resources makes it easy to be attacked. In this paper, we design an intrusion detection system to protect the IoT security. The system uses supervised learning to achieve two main functions: (1) classify the generated malicious traffic; (2) identify the types of attacks. Besides, we propose a lightweight feature selection method, which uses a small number of features to evaluate the two functions. As a result, in the classification experiments, the proposed method automatically extracts 29 and 9 from 88 features, and then the designed system achieves a high accuracy rate of 98.7% and 98.99%. This means that our method still has great accuracy by taking a small number of features.
+C3  - 2020 IEEE 16TH INTERNATIONAL CONFERENCE ON CONTROL & AUTOMATION (ICCA)
+DA  - 2020///
+PY  - 2020
+SP  - 277
+EP  - 282
+ER  - 
+
+TY  - JOUR
+TI  - Toward lightweight intrusion detection systems using the optimal and efficient feature pairs of the Bot-IoT 2018 dataset
+AU  - Ozer, Erman
+AU  - Iskefiyeli, Murat
+AU  - Azimjonov, Jahongir
+T2  - INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS
+AB  - Intrusion detection systems play a vital role in traffic flow monitoring on Internet of Things networks by providing a secure network traffic environment and blocking unwanted traffic packets. Various intrusion detection systems approaches have been proposed previously based on data mining, fuzzy techniques, genetic, neurogenetic, particle swarm intelligence, rough sets, and conventional machine learning. However, these methods are not energy efficient and do not perform accurately due to the inappropriate feature selection or the use of full features of datasets. In general, datasets contain more than 10 features. Any machine learning-based lightweight intrusion detection systems trained with full features turn into an inefficient and heavyweight intrusion detection systems. This case challenges Internet of Things networks that suffer from power efficiency problems. Therefore, lightweight (energy-efficient), accurate, and high-performance intrusion detection systems are paramount instead of inefficient and heavyweight intrusion detection systems. To address these challenges, a new approach that can help to determine the most effective and optimal feature pairs of datasets which enable the development of lightweight intrusion detection systems was proposed. For this purpose, 10 machine learning algorithms and the recent BoT-IoT (2018) dataset were selected. Twelve best features recommended by the developers of this dataset were used in this study. Sixty-six unique feature pairs were generated from the 12 best features. Next, 10 full-feature-based intrusion detection systems were developed by training the 10 machine learning algorithms with the 12 full features. Similarly, 660 feature-pair-based lightweight intrusion detection systems were developed by training the 10 machine learning algorithms via each feature pair out of the 66 feature pairs. Moreover, the 10 intrusion detection systems trained with 12 best features and the 660 intrusion detection systems trained via 66 feature pairs were compared to each other based on the machine learning algorithmic groups. Then, the feature-pair-based lightweight intrusion detection systems that achieved the accuracy level of the 10 full-feature-based intrusion detection systems were selected. This way, the optimal and efficient feature pairs and the lightweight intrusion detection systems were determined. The most lightweight intrusion detection systems achieved more than 90% detection accuracy.
+DA  - 2021/10//
+PY  - 2021
+DO  - 10.1177/15501477211052202
+VL  - 17
+IS  - 10
+ER  - 
+
+TY  - JOUR
+TI  - Analyzing IoT Attack Feature Association with Threat Actors
+AU  - Shafiq, Muhammad
+AU  - Gu, Zhaoquan
+AU  - Nazir, Shah
+AU  - Yadav, Rahul
+T2  - WIRELESS COMMUNICATIONS & MOBILE COMPUTING
+AB  - Internet of Things (IoT) refers to the interconnection via the Internet of computing devices embedded in everyday objects, enabling them to send and receive data. These devices can be controlled remotely, which makes them susceptible to exploitation or even takeover by an attacker. The lack of security features on many IoT devices makes them easy to access confidential information, issue commands from a distance, or even use the compromised device as part of a DDoS attack against another network. Feature selection is an important part of problem formulation in machine learning. To overcome the above problems, this paper proposes a novel feature selection framework RFS for IoT attack detection using machine learning (ML) techniques. The RFS is based on the concept of effective feature selection and consists of three main stages: feature selection, modeling, and attacks detection. For feature selection, three different models are proposed. Based on these approaches, three different algorithms are proposed. A set of 40 features was included in the model, derived from combinatorial optimization and statistical analysis methods. Our experimental study shows that the proposed frame work significantly improves over state-of-the-art cyberattacks techniques for time series data with outliers.
+DA  - 2022/05/05/
+PY  - 2022
+DO  - 10.1155/2022/7143054
+VL  - 2022
+ER  - 
+
+TY  - JOUR
+TI  - VMFCVD: An Optimized Framework to Combat Volumetric DDoS Attacks using Machine Learning
+AU  - Prasad, Arvind
+AU  - Chandra, Shalini
+T2  - ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING
+AB  - Despite significant development in distributed denial of service (DDoS) defense systems, the downtime caused by DDoS damages reputation, crushes end-user experience, and leads to considerable revenue loss. Volumetric DDoS attacks are the most common form of DDoS attack and are carried out by an army of infected IoT devices or by reflector servers, which increase attacks at massive scales. In this work, we propose a voting-based multimode framework to combat volumetric DDoS (VMFCVD) attacks. VMFCVD is based on a triad of fast detection mode (FDM), defensive fast detection mode (DFDM), and high accuracy mode (HAM) methods. FDM is designed to classify network traffic when the server is under attack. The highly dimensionally reduced dataset helps FDM accelerate detection speed. During our experiment, the dimension reduction for FDM was more than 97% while maintaining an accuracy of 99.9% in most cases. DFDM is an extended version of FDM that enhances malicious network traffic detection accuracy by tightening the detection technique. HAM focuses on detection accuracy, showing substantial improvement over FDM and DFDM. HAM activates when the server is stable. VMFCVD is extensively experimented on the latest benchmark DDoS and botnet datasets, namely the CICIDS2017 (BoT & DDoS), CSE-CIC-IDS2018 (BoT & DDoS), CICDDoS2019 (DNS, LDAP, SSDP & SYN), DoHBrw2020, NBaIoT2018 (Mirai), UNSW2018 BoTIoT, and UNSW NB15 datasets. The VMFCVD results show that it outperforms recent studies. VMFCVD performs exceptionally well when the server is under DDoS attack.
+DA  - 2022/08//
+PY  - 2022
+DO  - 10.1007/s13369-021-06484-9
+VL  - 47
+IS  - 8
+SP  - 9965
+EP  - 9983
+ER  - 
+
+TY  - JOUR
+TI  - Deep Abstraction and Weighted Feature Selection for Wi-Fi Impersonation Detection
+AU  - Aminanto, Muhamad Erza
+AU  - Choi, Rakyong
+AU  - Tanuwidjaja, Harry Chandra
+AU  - Yoo, Paul D.
+AU  - Kim, Kwangjo
+T2  - IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY
+AB  - The recent advances in mobile technologies have resulted in Internet of Things (IoT)-enabled devices becoming more pervasive and integrated into our daily lives. The security challenges that need to be overcome mainly stem from the open nature of a wireless medium, such as a Wi-Fi network. An impersonation attack is an attack in which an adversary is disguised as a legitimate party in a system or communications protocol. The connected devices are pervasive, generating high-dimensional data on a large scale, which complicates simultaneous detections. Feature learning, however, can circumvent the potential problems that could be caused by the large-volume nature of network data. This paper thus proposes a novel deep-feature extraction and selection (D-FES), which combines stacked feature extraction and weighted feature selection. The stacked autoencoding is capable of providing representations that are more meaningful by reconstructing the relevant information from its raw inputs. We then combine this with modified weighted feature selection inspired by an existing shallow-structured machine learner. We finally demonstrate the ability of the condensed set of features to reduce the bias of a machine learner model as well as the computational complexity. Our experimental results on a well-referenced Wi-Fi network benchmark data set, namely, the Aegean Wi-Fi Intrusion data set, prove the usefulness and the utility of the proposed D-FES by achieving a detection accuracy of 99.918% and a false alarm rate of 0.012%, which is the most accurate detection of impersonation attacks reported in the literature.
+DA  - 2018/03//
+PY  - 2018
+DO  - 10.1109/TIFS.2017.2762828
+VL  - 13
+IS  - 3
+SP  - 621
+EP  - 636
+ER  - 
+
+TY  - JOUR
+TI  - An Agile Approach to Identify Single and Hybrid Normalization for Enhancing Machine Learning-Based Network Intrusion Detection
+AU  - Siddiqi, Murtaza Ahmed
+AU  - Pak, Wooguil
+T2  - IEEE ACCESS
+AB  - Detecting intrusion in network traffic has remained a problematic task for years. Progress in the field of machine learning is paving the way for enhancing intrusion detection systems. Due to this progress intrusion detection has become an integral part of network security. Intrusion detection has achieved high detection accuracy with the help of supervised machine learning methods. A key factor in enhancing the performance of supervised classifiers is how data is augmented for training the classification model. Data in real-world networks or publicly available datasets are not always normally (Gaussian) distributed. Instead, the distributions of variables are more likely to be skewed. To achieve a high detection rate, data normalization or transformation plays an important role for machine learning-based intrusion detection systems. Several methods are available to normalize the attributes of the data before training a classification model. However, opting for the most suitable normalization technique is still a questionable task. In this paper, a statistical method is proposed that can identify the most suitable normalization method for the dataset. The normalization method identified by the proposed approach gives the highest accuracy for an intrusion detection system. To highlight the efficiency of the proposed method, five different datasets were used with two different feature selection methods. The datasets belong to both Internet of things and traditional network environments. The proposed method is also able to identify hybrid normalizations to achieve even improved intrusion detection results.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/ACCESS.2021.3118361
+VL  - 9
+SP  - 137494
+EP  - 137513
+ER  - 
+
+TY  - JOUR
+TI  - A bio-inspired hybrid deep learning model for network intrusion detection
+AU  - Moizuddin, M. D.
+AU  - Jose, M. Victor
+T2  - KNOWLEDGE-BASED SYSTEMS
+AB  - Advances in network communications have resulted in an explosion of connected device usages in several business domains with phenomenal surge in network traffic. Though the capabilities of the business models are empowered with Internet driven service providers, they are vulnerable to severe security threats. Intrusion detection systems capable of identifying malicious attacks from traffic data are potential tools in securing organizational resources from unauthorized access. This paper proposes an intrusion detection system modeled as a two stage framework with feature selection performed by a Generalized Mean Grey Wolf Algorithm and an ElasticNet Contractive Auto Encoder. It is tested with the NSL-KDD and BoT-IoT datasets resulting in an overall classification accuracy of 0.999 for binary and multi-class classification of attacks. This system performs classification with an optimal subset of traffic features and surpasses the performances of state-of-the-art intrusion detection systems. Further, the proposed model also demonstrates its effectiveness to learn from unlabeled data without additional training, signal drifts from normal data and generalization with arbitrary test data. (c) 2021 Elsevier B.V. All rights reserved.
+DA  - 2022/02/28/
+PY  - 2022
+DO  - 10.1016/j.knosys.2021.107894
+VL  - 238
+ER  - 
+
+TY  - CONF
+TI  - Towards the Integration of a Post-Hoc Interpretation Step into the Machine Learning Workflow for IoT Botnet Detection
+AU  - Guerra-Manzanares, Alejandro
+AU  - Nõmm, Sven
+AU  - Bahsi, Hayretdin
+AB  - The analysis of the interplay between the feature selection and the post-hoc local interpretation steps in a machine learning workflow followed for IoT botnet detection constitutes the research scope of the present paper. While the application of machine learning-based techniques has become a trend in cyber security, the main focus has been almost on detection accuracy. However, providing the relevant explanation for a detection decision is a vital requirement in a tiered incident handling processes of the contemporary security operations centers. Moreover, the design of intrusion detection systems in IoT networks has to take the limitations of the computational resources into consideration. Therefore, resource limitations in addition to human element of incident handling necessitate considering feature selection and interpretability at the same time in machine learning workflows. In this paper, first, we analyzed the selection of features and its implication on the data accuracy. Second, we investigated the impact of feature selection on the explanations generated at the post-hoc interpretation phase. We utilized a filter method, Fisher's Score and Local Interpretable Model-Agnostic Explanation (LIME) at feature selection and post-hoc interpretation phases, respectively. To evaluate the quality of explanations, we proposed a metric that reflects the need of the security analysts. It is demonstrated that the application of both steps for the particular case of IoT botnet detection may result in highly accurate and interpretable learning models induced by fewer features. Our metric enables us to evaluate the detection accuracy and interpretability in an integrated way.
+C3  - 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)
+DA  - 2019/12//
+PY  - 2019
+DO  - 10.1109/ICMLA.2019.00193
+SP  - 1162
+EP  - 1169
+KW  - machine learning
+KW  - Machine learning
+KW  - Computer security
+KW  - Feature extraction
+KW  - Measurement
+KW  - Intrusion detection
+KW  - Botnet
+KW  - Botnet detection
+KW  - interpretation
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning based IoT-BotNet Attack Detection Using Real-time Heterogeneous Data
+AU  - Ahmed, Aqeel
+AU  - Tjortjis, Christos
+AB  - Security is a major concern for Internet of Things (IoT) devices. Due to their vulnerabilities, these devices are an easy target for unauthorized access. Traditional security mechanisms are not easily deployed on these tiny devices. Therefore, machine learning-based algorithms are proving to be key enablers in IoT attack detection. In this paper, we critically investigate the efficacy of classification algorithms; Logistic Regression (LR), Gaussian Naive Bayes (GNB), Decision Trees (DT), Random Forest (RF), K-Nearest Neighbors KNN), and Extreme Gradient Boosting (XGB) for malicious attack detection in an IoT network flow traffic. A real-time heterogeneous dataset is used in this study. The data is preprocessed before experimentation. In addition, a feature selection method is implemented to identify the most important features. Furthermore, we evaluate the classifiers using accuracy, precision, recall, and Fl-score. The results on binary classification are comparable with the state-of-the-art in this domain. The tree-based classifiers outperform LR and GNB with 99% accuracy and a 0.99 Fl-score. It is observed that the LR and GNB are not the best choices for multiclass classification. However, DT, KNN, RF, and XGB provide an accuracy of 9S% and an Fl-score of 0. 9S. We also analyze the impact of reducing the number of features on accuracy and training time.
+C3  - 2022 International Conference on Electrical, Computer and Energy Technologies (ICECET)
+DA  - 2022/07//
+PY  - 2022
+DO  - 10.1109/ICECET55527.2022.9872817
+SP  - 1
+EP  - 6
+KW  - Classification
+KW  - Internet of Things (IoT)
+KW  - Machine learning algorithms
+KW  - Training
+KW  - Data models
+KW  - Classification algorithms
+KW  - Radio frequency
+KW  - BotNet attacks
+KW  - Cybersecurity
+KW  - Gaussian processes
+KW  - heterogeneity
+KW  - Machine Learning (ML)
+KW  - Real-time systems
+ER  - 
+
+TY  - CONF
+TI  - IoT intrusion detection technology based on Deep learning
+AU  - Cao, Bo
+AU  - Li, Chenghai
+AU  - Sun, Junfeng
+AU  - Song, Yafei
+AB  - To address the problem of low accuracy of existing network intrusion detection models for multi-classification of intrusion behaviors and redundancy of data features, a network intrusion detection model incorporating convolutional neural networks and gated recurrent units is proposed. To solve the problem of feature redundancy, feature selection is performed by combining random forest algorithm and Pearson correlation analysis; after that, temporal features of data are extracted by TCN and GRU, while attention module is introduced to assign different weights to features, thus reducing overhead and improving model performance; finally, Softmax function is used for classification. In this paper, the proposed model is evaluated on the Bot-Lot dataset with an accuracy of 99.99%.
+C3  - 2022 3rd International Conference on Computer Vision, Image and Deep Learning & International Conference on Computer Engineering and Applications (CVIDL & ICCEA)
+DA  - 2022/05//
+PY  - 2022
+DO  - 10.1109/CVIDLICCEA56201.2022.9825291
+SP  - 284
+EP  - 289
+KW  - Deep learning
+KW  - Feature extraction
+KW  - Deep Learning
+KW  - Logic gates
+KW  - Network intrusion detection
+KW  - Redundancy
+KW  - PSO
+KW  - Diversity reception
+KW  - Fuses
+KW  - GRU
+KW  - IoT Intrusion Detection
+KW  - TCN
+ER  - 
+
+TY  - CONF
+TI  - NFDLM: A Lightweight Network Flow based Deep Learning Model for DDoS Attack Detection in IoT Domains
+AU  - Saurabh, Kumar
+AU  - Kumar, Tanuj
+AU  - Singh, Uphar
+AU  - Vyas, O.P.
+AU  - Khondoker, Rahamatullah
+AB  - In the recent years, Distributed Denial of Service (DDoS) attacks on Internet of Things (IoT) devices have become one of the prime concerns to Internet users around the world. One of the sources of the attacks on IoT ecosystems are botnets. Intruders force IoT devices to become unavailable for its legitimate users by sending large number of messages within a short interval. This study proposes NFDLM, a lightweight and optimised Artificial Neural Network (ANN) based Distributed Denial of Services (DDoS) attack detection framework with mutual correlation as feature selection method which produces a superior result when compared with Long Short Term Memory (LSTM) and simple ANN. Overall, the detection performance achieves approximately 99% accuracy for the detection of attacks from botnets. In this work, we have designed and compared four different models where two are based on ANN and the other two are based on LSTM to detect the attack types of DDoS.
+C3  - 2022 IEEE World AI IoT Congress (AIIoT)
+DA  - 2022/06//
+PY  - 2022
+DO  - 10.1109/AIIoT54504.2022.9817297
+SP  - 736
+EP  - 742
+KW  - ANN
+KW  - LSTM
+KW  - Deep learning
+KW  - IoT
+KW  - Feature extraction
+KW  - Botnet
+KW  - DDoS
+KW  - Denial-of-service attack
+KW  - Botnets
+KW  - Biological system modeling
+KW  - Ecosystems
+KW  - Force
+ER  - 
+
+TY  - CONF
+TI  - FI-PCA for IoT Network Intrusion Detection
+AU  - Abdulkareem, Sulyman Age
+AU  - Foh, Chuan Heng
+AU  - Carrez, François
+AU  - Moessner, Klaus
+AB  - Intrusion detection systems (IDS) protect networks by continuously monitoring data flow and taking immediate action when anomalies are detected. However, due to redundancy and significant network data correlation, classical IDS have shortcomings such as poor detection rates and high computational complexity. This paper proposes a novel feature selection and extraction technique (FI-PCA). Feature Importance (FI) and Principal Component Analysis (PCA) are used to preprocess the network dataset (PCA). FI identifies the most important features in the data, while PCA is used to reduce dimensionality and denoise the data. In order to detect anomalies, we employ three single classifiers: Decision Tree (DT), Naive Bayes and Logistic Regression. Preliminary results, however, show that these classifiers have achieved average classification metric scores. On this basis, we use the Stack Ensemble Learning Classifier (ELC) method of combining single classifiers to improve the classifier's performance further. Experimental results on varied feature dimensions of an IoT (Bot-IoT) dataset indicate that our proposed technique combined with the Stack ELC can maintain the same level of classification performance for reduced dataset features. A comparison of our result with state-of-the-art classifiers’ classification performance shows that our classifier is superior in terms of accuracy and detection rate. At the same time, a remarkable decrease is recorded for both training and test time.
+C3  - 2022 International Symposium on Networks, Computers and Communications (ISNCC)
+DA  - 2022/07//
+PY  - 2022
+DO  - 10.1109/ISNCC55209.2022.9851723
+SP  - 1
+EP  - 6
+KW  - PCA
+KW  - Feature extraction
+KW  - Measurement
+KW  - Machine Learning
+KW  - Training
+KW  - Correlation
+KW  - Network intrusion detection
+KW  - Ensemble Learning Classifier
+KW  - FI
+KW  - FI-PCA IoT
+KW  - Network Intrusion Detection
+KW  - Regression tree analysis
+KW  - Termination of employment
+ER  - 
+
+TY  - JOUR
+TI  - Decision Tree with Pearson Correlation-based Recursive Feature Elimination Model for Attack Detection in IoT Environment
+AU  - Padmashree, A.
+AU  - Krishnamoorthi, M.
+T2  - Information Technology and Control
+AB  - The industrial revolution in recent years made massive uses of Internet of Things (IoT) applications like smart cities’ growth. This leads to automation in real-time applications to make human life easier. These IoT-en-abled applications, technologies, and communications enhance the quality of life, quality of service, people’s well-being, and operational efficiency. The efficiency of these smart devices may harm the end-users, misuse their sensitive information increase cyber-attacks and threats. This smart city expansion is difficult due to cyber attacks. Consequently, it is needed to develop an efficient system model that can protect IoT devices from attacks and threats. To enhance product safety and security, the IoT-enabled applications should be monitored in real-time. This paper proposed an efficient feature selection with a feature fusion technique for the detection of intruders in IoT. The input IoT data is subjected to preprocessing to enhance the data. From the preprocessed data, the higher-order statistical features are selected using the proposed Decision tree-based Pearson Correlation Recursive Feature Elimination (DT-PCRFE) model. This method efficiently eliminates the redundant and uncorrelated features which will increase resource utilization and reduces the time complexity of the system. Then, the request from IoT devices is converted into word embedding using the feature fusion model to enhance the system robustness. Finally, a Deep Neural network (DNN) has been used to detect malicious attacks with the selected features. This proposed model experiments with the BoT-IoT dataset and the result shows the proposed model efficiency which outperforms other existing models with the accuracy of 99.2%. © 2022, Kauno Technologijos Universitetas. All rights reserved.
+DA  - 2022///
+PY  - 2022
+DO  - 10.5755/j01.itc.51.4.31818
+VL  - 51
+IS  - 4
+SP  - 771
+EP  - 785
+LA  - English
+SN  - 1392124X
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143770034&doi=10.5755%2fj01.itc.51.4.31818&partnerID=40&md5=dd34edd7ee7d72632263c0ef918f17ae
+ER  - 
+
+TY  - JOUR
+TI  - IoT information theft prediction using ensemble feature selection
+AU  - Leevy, J.L.
+AU  - Hancock, J.
+AU  - Khoshgoftaar, T.M.
+AU  - Peterson, J.M.
+T2  - Journal of Big Data
+AB  - The recent years have seen a proliferation of Internet of Things (IoT) devices and an associated security risk from an increasing volume of malicious traffic worldwide. For this reason, datasets such as Bot-IoT were created to train machine learning classifiers to identify attack traffic in IoT networks. In this study, we build predictive models with Bot-IoT to detect attacks represented by dataset instances from the Information Theft category, as well as dataset instances from the data exfiltration and keylogging subcategories. Our contribution is centered on the evaluation of ensemble feature selection techniques (FSTs) on classification performance for these specific attack instances. A group or ensemble of FSTs will often perform better than the best individual technique. The classifiers that we use are a diverse set of four ensemble learners (Light GBM, CatBoost, XGBoost, and random forest (RF)) and four non-ensemble learners (logistic regression (LR), decision tree (DT), Naive Bayes (NB), and a multi-layer perceptron (MLP)). The metrics used for evaluating classification performance are area under the receiver operating characteristic curve (AUC) and Area Under the precision-recall curve (AUPRC). For the most part, we determined that our ensemble FSTs do not affect classification performance but are beneficial because feature reduction eases computational burden and provides insight through improved data visualization. © 2022, The Author(s).
+DA  - 2022///
+PY  - 2022
+DO  - 10.1186/s40537-021-00558-z
+VL  - 9
+IS  - 1
+LA  - English
+SN  - 21961115
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122502880&doi=10.1186%2fs40537-021-00558-z&partnerID=40&md5=2d88c3ccd19dffc466a1b82119617544
+ER  - 
+
+TY  - JOUR
+TI  - Performance analysis of machine learning models for intrusion detection system using Gini Impurity-based Weighted Random Forest (GIWRF) feature selection technique
+AU  - Disha, R.A.
+AU  - Waheed, S.
+T2  - Cybersecurity
+AB  - To protect the network, resources, and sensitive data, the intrusion detection system (IDS) has become a fundamental component of organizations that prevents cybercriminal activities. Several approaches have been introduced and implemented to thwart malicious activities so far. Due to the effectiveness of machine learning (ML) methods, the proposed approach applied several ML models for the intrusion detection system. In order to evaluate the performance of models, UNSW-NB 15 and Network TON_IoT datasets were used for offline analysis. Both datasets are comparatively newer than the NSL-KDD dataset to represent modern-day attacks. However, the performance analysis was carried out by training and testing the Decision Tree (DT), Gradient Boosting Tree (GBT), Multilayer Perceptron (MLP), AdaBoost, Long-Short Term Memory (LSTM), and Gated Recurrent Unit (GRU) for the binary classification task. As the performance of IDS deteriorates with a high dimensional feature vector, an optimum set of features was selected through a Gini Impurity-based Weighted Random Forest (GIWRF) model as the embedded feature selection technique. This technique employed Gini impurity as the splitting criterion of trees and adjusted the weights for two different classes of the imbalanced data to make the learning algorithm understand the class distribution. Based upon the importance score, 20 features were selected from UNSW-NB 15 and 10 features from the Network TON_IoT dataset. The experimental result revealed that DT performed well with the feature selection technique than other trained models of this experiment. Moreover, the proposed GIWRF-DT outperformed other existing methods surveyed in the literature in terms of the F1 score. © 2022, The Author(s).
+DA  - 2022///
+PY  - 2022
+DO  - 10.1186/s42400-021-00103-8
+VL  - 5
+IS  - 1
+LA  - English
+SN  - 20964862
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122296943&doi=10.1186%2fs42400-021-00103-8&partnerID=40&md5=f4ebb8dabc141302bfa51264d23bf2a6
+KW  - Feature extraction
+KW  - Intrusion detection
+KW  - Computer crime
+KW  - Intrusion Detection Systems
+KW  - Cybersecurity
+KW  - Network security
+KW  - Decision trees
+KW  - Random forests
+KW  - Cyber security
+KW  - Features selection
+KW  - Long short-term memory
+KW  - Networks security
+KW  - Performance
+KW  - Adaptive boosting
+KW  - Gini impurities
+KW  - Machine learning models
+KW  - Performances analysis
+KW  - Selection techniques
+KW  - Statistical tests
+ER  - 
+
+TY  - JOUR
+TI  - A feature selection-based method for DDoS attack flow classification
+AU  - Zhou, L.
+AU  - Zhu, Y.
+AU  - Zong, T.
+AU  - Xiang, Y.
+T2  - Future Generation Computer Systems
+AB  - Distributed Denial of Service (DDoS) attacks still be a great threat to the availability of online servers. To defend against attacks, the challenge is not only detecting DDoS attacks as they occur but also identifying, and thus blocking the attack flows. However, existing classification methods cannot accurately and efficiently differentiate between attack flows and benign flows. In this paper, we propose a DDoS attack flow classification system, named SAFE, to accurately and quickly identify attack flows in network layer. First, SAFE chooses the optimal features by removing the redundant features and selecting the most informative features. Second, a threshold tuning method is proposed to identify the best threshold for each feature. Finally, an aggregated feature-based linear classifier is proposed to weight the selected features for classification. Since the proposed method monitors the flows in network layer, it can detect the traditional DDoS attack flows as well as the attack flows launched by Internet of Thing (IoT) devices. Comprehensive experiments are carried out on one IoT and two sophisticated DDoS attacks to evaluate the classification performance of the proposed method. The comparison results show that SAFE can achieve better classification performance than the state-of-the-art methods in terms of classification accuracy and efficiency. © 2022 Elsevier B.V.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.future.2022.02.006
+VL  - 132
+SP  - 67
+EP  - 79
+LA  - English
+SN  - 0167739X
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125256872&doi=10.1016%2fj.future.2022.02.006&partnerID=40&md5=8cd214844155973c7307d6e3913b1c23
+KW  - Machine learning
+KW  - Feature extraction
+KW  - Network security
+KW  - Internet of things
+KW  - Denial-of-service attack
+KW  - Features selection
+KW  - Classification (of information)
+KW  - Denialof- service attacks
+KW  - Distributed denial of service
+KW  - Distributed denial of service attack
+KW  - Network layers
+KW  - Attack flow
+KW  - Classification performance
+KW  - Flow classification
+KW  - Flows in networks
+KW  - Online servers
+KW  - Selection based
+ER  - 
+
+TY  - JOUR
+TI  - Advanced feature extraction and selection approach using deep learning and aquila optimizer for iot intrusion detection system
+AU  - Fatani, A.
+AU  - Dahou, A.
+AU  - Al-Qaness, M.A.A.
+AU  - Lu, S.
+AU  - Elaziz, M.A.
+T2  - Sensors
+AB  - Developing cyber security is very necessary and has attracted considerable attention from academy and industry organizations worldwide. It is also very necessary to provide sustainable computing for the the Internet of Things (IoT). Machine learning techniques play a vital role in the cybersecurity of the IoT for intrusion detection and malicious identification. Thus, in this study, we develop new feature extraction and selection methods and for the IDS system using the advantages of the swarm intelligence (SI) algorithms. We design a feature extraction mechanism depending on the conventional neural networks (CNN). After that, we present an alternative feature selection (FS) approach using the recently developed SI algorithm, Aquila optimizer (AQU). Moreover, to assess the quality of the developed IDS approach, four well-known public datasets, CIC2017, NSL-KDD, BoT-IoT, and KDD99, were used. We also considered extensive comparisons to other optimization methods to verify the competitive performance of the developed method. The results show the high performance of the developed approach using different evaluation indicators. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+DA  - 2022///
+PY  - 2022
+DO  - 10.3390/s22010140
+VL  - 22
+IS  - 1
+LA  - English
+SN  - 14248220
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85121579149&doi=10.3390%2fs22010140&partnerID=40&md5=1ab06ff99bfa1b3c17ca33e883dd5478
+KW  - Deep learning
+KW  - Feature extraction
+KW  - Internet of Things
+KW  - Deep Learning
+KW  - Intrusion detection
+KW  - Computer crime
+KW  - Intrusion Detection Systems
+KW  - Cybersecurity
+KW  - Network security
+KW  - Swarm intelligence
+KW  - Internet of things
+KW  - Cyber security
+KW  - Computer
+KW  - Neural Networks
+KW  - Features selection
+KW  - Optimizers
+KW  - computer security
+KW  - Internet of thing
+KW  - Computer Security
+KW  - Extraction
+KW  - animal
+KW  - Animals
+KW  - Aquila optimizer
+KW  - eagle
+KW  - Eagles
+KW  - Feature extraction and selection
+KW  - Sustainable computing
+KW  - Swarm intelligence algorithms
+ER  - 
+
+TY  - CONF
+TI  - A Machine Learning Framework for Intrusion Detection System in IoT Networks Using an Ensemble Feature Selection Method
+AU  - Guo, G.
+A2  - Chakrabarti S., Paul R.
+AB  - During the recent years, there has been an escalated growth of the Internet of Things (IoT) devices in our daily lives. Due to their inherent vulnerabilities, IoT networks are more susceptible to cyberattacks. Intrusion Detection Systems (IDSs) can provide a powerful defensive capability against security threats for IoT systems. Among various approaches for detecting malicious activities in IDSs, Machine Learning (ML) techniques have attracted significant attention in the research community. In this study, we propose an ML-based IDS framework based on a novel feature selection method for anomaly detection in IoT networks. The framework is evaluated by employing seven popular ML classification algorithms on TON_IoT network dataset with regard to accuracy, precision, recall, F1-score, and execution times. Finally, the results of the experiments illustrate the effectiveness of the proposed IDS and the best performing ML classifiers. © 2021 IEEE.
+C3  - 2021 IEEE 12th Annual Information Technology, Electronics and Mobile Communication Conference, IEMCON 2021
+DA  - 2021///
+PY  - 2021
+DO  - 10.1109/IEMCON53756.2021.9623082
+SP  - 593
+EP  - 599
+LA  - English
+PB  - Institute of Electrical and Electronics Engineers Inc.
+SN  - 978-1-66540-066-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123570716&doi=10.1109%2fIEMCON53756.2021.9623082&partnerID=40&md5=991aba09865ba52589aba7f6c0d4fb14
+KW  - Anomaly detection
+KW  - Machine learning
+KW  - Feature extraction
+KW  - Cyber-attacks
+KW  - Intrusion detection
+KW  - Computer crime
+KW  - Intrusion Detection Systems
+KW  - Cybersecurity
+KW  - Network security
+KW  - Internet of things
+KW  - Machine-learning
+KW  - Learning frameworks
+KW  - Features selection
+KW  - Classification (of information)
+KW  - Feature selection methods
+KW  - Ensemble feature selections
+KW  - Daily lives
+KW  - Defensive capabilities
+KW  - TON_internet of thing
+ER  - 
+
+TY  - JOUR
+TI  - IoT botnet attack detection based on optimized extreme gradient boosting and feature selection
+AU  - Alqahtani, M.
+AU  - Mathkour, H.
+AU  - Ben Ismail, M.M.
+T2  - Sensors (Switzerland)
+AB  - Nowadays, Internet of Things (IoT) technology has various network applications and has attracted the interest of many research and industrial communities. Particularly, the number of vulnerable or unprotected IoT devices has drastically increased, along with the amount of suspicious activity, such as IoT botnet and large-scale cyber-attacks. In order to address this security issue, researchers have deployed machine and deep learning methods to detect attacks targeting compromised IoT devices. Despite these efforts, developing an efficient and effective attack detection approach for resource-constrained IoT devices remains a challenging task for the security research community. In this paper, we propose an efficient and effective IoT botnet attack detection approach. The proposed approach relies on a Fisher-score-based feature selection method along with a genetic-based extreme gradient boosting (GXGBoost) model in order to determine the most relevant features and to detect IoT botnet attacks. The Fisher score is a representative filter-based feature selection method used to determine significant features and discard irrelevant features through the minimization of intra-class distance and the maximization of inter-class distance. On the other hand, GXGBoost is an optimal and effective model, used to classify the IoT botnet attacks. Several experiments were conducted on a public botnet dataset of IoT devices. The evaluation results obtained using holdout and 10-fold cross-validation techniques showed that the proposed approach had a high detection rate using only three out of the 115 data traffic features and improved the overall performance of the IoT botnet attack detection process. © 2020 by the authors. Licensee MDPI, Basel, Switzerland.
+DA  - 2020///
+PY  - 2020
+DO  - 10.3390/s20216336
+VL  - 20
+IS  - 21
+SP  - 1
+EP  - 21
+LA  - English
+SN  - 14248220
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85095601525&doi=10.3390%2fs20216336&partnerID=40&md5=7c3b07f010b3f6dab2d6b1f18e20356a
+KW  - Deep learning
+KW  - Feature extraction
+KW  - Botnet
+KW  - Network security
+KW  - Internet of things
+KW  - Learning systems
+KW  - Feature selection methods
+KW  - Internet of Things (IOT)
+KW  - Evaluation results
+KW  - 10-fold cross-validation
+KW  - High detection rate
+KW  - Industrial communities
+KW  - Industrial research
+KW  - Inter-class distance
+KW  - Network applications
+ER  - 
+
+TY  - JOUR
+TI  - IoT malicious traffic identification using wrapper-based feature selection mechanisms
+AU  - Shafiq, M.
+AU  - Tian, Z.
+AU  - Bashir, A.K.
+AU  - Du, X.
+AU  - Guizani, M.
+T2  - Computers and Security
+AB  - Machine Learning (ML) plays very significant role in the Internet of Things (IoT) cybersecurity for malicious and intrusion traffic identification. In other words, ML algorithms are widely applied for IoT traffic identification in IoT risk management. However, due to inaccurate feature selection, ML techniques misclassify a number of malicious traffic in smart IoT network for secured smart applications. To address the problem, it is very important to select features set that carry enough information for accurate smart IoT anomaly and intrusion traffic identification. In this paper, we firstly applied bijective soft set for effective feature selection to select effective features, and then we proposed a novel CorrACC feature selection metric approach. Afterward, we designed and developed a new feature selection algorithm named Corracc based on CorrACC, which is based on wrapper technique to filter the features and select effective feature for a particular ML classifier by using ACC metric. For the evaluation our proposed approaches, we used four different ML classifiers on the BoT-IoT dataset. Experimental results obtained by our algorithms are promising and can achieve more than 95% accuracy. © 2020 Elsevier Ltd
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.cose.2020.101863
+VL  - 94
+LA  - English
+SN  - 01674048
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85084334827&doi=10.1016%2fj.cose.2020.101863&partnerID=40&md5=2f1d489dd841c38021c7128b54828cb5
+KW  - Feature extraction
+KW  - Internet of things
+KW  - Cyber security
+KW  - Classification (of information)
+KW  - Features sets
+KW  - Feature selection algorithm
+KW  - Malicious traffic
+KW  - Wrapper-based feature selection
+KW  - Internet of thing (IOT)
+KW  - Risk management
+KW  - Smart applications
+KW  - Traffic identification
+ER  - 
+
+TY  - CONF
+TI  - Feature Selection Improves Tree-based Classification for Wireless Intrusion Detection
+AU  - Bhandari, S.
+AU  - Kukreja, A.K.
+AU  - Lazar, A.
+AU  - Sim, A.
+AU  - Wu, K.
+AB  - With the growth of 5G wireless technologies and IoT, it become urgent to develop robust network security systems, such as intrusions detection systems (IDS) to keep the networks secure. These IDS systems need to detect unauthorized access and attacks in real-time. However, most of the modern IDS are built based on complex machine learning models that are time-consuming to train. In this work, we propose a methodology using the SHapley Additive exPlanations (SHAP) in combination with tree-based classifiers. SHAP can be used to select consistent and small feature subsets to reduce the execution time and improve classification accuracy. We demonstrate the proposed approach with the Aegean Wi-Fi Intrusion Dataset (AWID) dataset in a series of multi-class classification experiments. Among the four classes ("normal", "injection", "flooding"and "impersonation"), it is well-known that the class impersonation is hard to be classified accurately. Tests show that we can use about 10% of the initial feature set without reducing the overall prediction accuracy. With this reduced set of features, the training time could be reduced as much as a factor of four, while slightly improving the discriminating ability to identify impersonation instances. This study suggests that by reducing the number of features, the classification algorithms are able to focus on key trends that differentiates the "attacks"classes from the "normal"class. Using a reduces subset of features improves IDS's accuracy and performance. Also, SHAP dependence plots capture the relationship between individual features and the classification decision. © 2020 ACM.
+C3  - SNTA 2020 - Proceedings of the 3rd International Workshop on Systems and Network Telemetry and Analytics
+DA  - 2020///
+PY  - 2020
+DO  - 10.1145/3391812.3396274
+SP  - 19
+EP  - 26
+LA  - English
+PB  - Association for Computing Machinery, Inc
+SN  - 978-1-4503-7980-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089067680&doi=10.1145%2f3391812.3396274&partnerID=40&md5=206e570ecbf81cedcc766421a0702519
+KW  - Feature extraction
+KW  - Intrusion detection
+KW  - Network security
+KW  - Learning systems
+KW  - 5G mobile communication systems
+KW  - Classification (of information)
+KW  - Real time systems
+KW  - Classification accuracy
+KW  - Multi-class classification
+KW  - Classification algorithm
+KW  - Classification decision
+KW  - Discriminating abilities
+KW  - Telemetering equipment
+KW  - Unauthorized access
+KW  - Wireless intrusion detections
+KW  - Wireless technologies
+ER  - 
+
+TY  - JOUR
+TI  - Implementing Lightweight IoT-IDS on Raspberry Pi Using Correlation-Based Feature Selection and Its Performance Evaluation
+AU  - Soe, Y.N.
+AU  - Feng, Y.
+AU  - Santosa, P.I.
+AU  - Hartanto, R.
+AU  - Sakurai, K.
+T2  - Advances in Intelligent Systems and Computing
+A2  - Takizawa M., Xhafa F., Enokido T., Barolli L.
+AB  - The application of many IoT devices is making our world more convenient and efficient. However, it also makes a large number of cyber-attacks possible because most IoT devices have very limited resources and cannot perform ordinary intrusion detection systems. How to implement efficient and lightweight IDS in IoT environments is a critically important and challenging task. Several detection systems have been implemented on Raspberry Pi, but most of them are signature-based and only allow limited rules. In this study, a lightweight IDS based on machine learning is implemented on a Raspberry Pi. To make the system lightweight, a correlation-based feature selection algorithm is applied to significantly reduce the number of features and a lightweight classifier is utilized. The performance of our system is examined in detail and the experimental result indicates that our system is lightweight and has a much higher detection speed with almost no sacrifice of detection accuracy. © 2020, Springer Nature Switzerland AG.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1007/978-3-030-15032-7_39
+VL  - 926
+SP  - 458
+EP  - 469
+LA  - English
+SN  - 21945357
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064004822&doi=10.1007%2f978-3-030-15032-7_39&partnerID=40&md5=7cf02fe8889625f477b5839a0e931a47
+KW  - Feature extraction
+KW  - Cyber-attacks
+KW  - Intrusion detection
+KW  - Computer crime
+KW  - Intrusion Detection Systems
+KW  - Network security
+KW  - Internet of things
+KW  - Learning systems
+KW  - Feature selection algorithm
+KW  - On-machines
+KW  - Detection accuracy
+KW  - Detection speed
+KW  - Detection system
+ER  - 
+
+TY  - CONF
+TI  - Fast, Lightweight IoT Anomaly Detection Using Feature Pruning and PCA
+AU  - Carter, John
+AU  - Mancoridis, Spiros
+AU  - Galinkin, Erick
+T3  - SAC '22
+AB  - Anomaly detection is a method for identifying malware and other anomalies such as memory leaks on computing hosts and, more recently, Internet of Things (IoT) devices. Due to its lightweight resource use and efficacy, anomaly detection is a promising method to detect malware on small, resource-constrained hosts. Using Principal Component Analysis (PCA) to reduce the features, and hence the dimensionality of the anomaly detector, is common during the feature engineering process of classic machine learning methods, such as Support Vector Machines (SVM). However, as Neural Networks (NN) became more popular, many presumed that using PCA prior to using the data to train and deploy the model was unnecessary. In this work, we show that there is a significant advantage to using PCA for both SVM and NN-based anomaly detection. Doing so improves the performance and efficacy of malware detection models, and reduces the amount of data that needs to be stored on the device for on-device anomaly detection, thus making it useful for resource-constrained IoT devices. We also show that while pruning low-variance features may be an intuitive way to simplify a model, it is less effective than PCA to improve model training and deployment performance as well as model efficacy to detect malware.
+C1  - New York, NY, USA
+C3  - Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing
+DA  - 2022///
+PY  - 2022
+DO  - 10.1145/3477314.3508377
+SP  - 133
+EP  - 138
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8713-2
+UR  - https://doi-org.ezproxy.utm.my/10.1145/3477314.3508377
+KW  - anomaly detection
+KW  - internet of things
+KW  - principal component analysis
+KW  - malware detection
+KW  - neural networks
+KW  - support vector machines
+ER  - 
+
