@@ -5,6 +5,10 @@
 <a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+<p align="center">
+<img src="/images/ai%20tools.jpeg"  height="500" />
+</p>
+
 ## Session 1
 ### [1. Literature search](./s1-lit-search.md)
 **Literature search**, a crucial aspect of academic research, involves the systematic exploration and retrieval of relevant scholarly information to support a particular topic or inquiry. Researchers employ various tools and databases to conduct comprehensive searches. [**Scopus**](https://www.scopus.com/home.uri) and [**Web of Science**](https://www.webofscience.com/) are renowned multidisciplinary databases providing access to a wide array of academic literature, while [**Google Scholar**](google-scholar.md) offers a user-friendly interface for a broad search across disciplines. [**Semantic Scholar**](https://www.semanticscholar.org/) employs artificial intelligence to enhance search precision, while [**PubMed**](https://pubmed.ncbi.nlm.nih.gov/) specializes in biomedical and life sciences. [**EvidenceHunt**](pubmed/evidence-hunt.md) is a platform facilitating evidence-based research ([**EvidenceHunt**](https://evidencehunt.com/)), and [**Publish or Perish**](https://harzing.com/resources/publish-or-perish) evaluates research impact using citation metrics. [**Zeta Alpha**](https://search.zeta-alpha.com/), and [**Consensus.app**](https://consensus.app/) are emerging platforms offering collaborative research and decision-making functionalities. Additionally, [**scite.ai**](https://scite.ai/) aids researchers in assessing the reliability of scientific claims through citation analysis. This diverse array of tools caters to researchers' needs, offering a spectrum of options for efficient literature exploration and retrieval.
