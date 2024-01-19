@@ -9,7 +9,7 @@
 
 | No. | Name | ID | Github | 
 |-----:|-----------------------------------------|------------|:-----------------:|
-| 1   | BAKUNGA BRONSON                         | BakungaBronson    | 
+| 1   | BAKUNGA BRONSON                         | BakungaBronson    | [:octocat:](https://github.com/BakungaBronson) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
