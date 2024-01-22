@@ -47,6 +47,13 @@ You require the Semantic Scholar API. Semantic Scholar API is a service that all
 Publish or Perish is a software program that retrieves and analyzes academic citations. It can help you to present your research impact, find the best journals to submit to, and prepare for job interviews. To install Publish or Perish on your computer, you need to download the Publish or Perish installer from [this page](https://harzing.com/resources/publish-or-perish). After successful installation, you can now use Publish or Perish to search for academic citations, analyze citation metrics, and generate reports. You can also save your queries and results in various formats, such as HTML, CSV, PDF, or Word.
 ### 9. Installation of Zotero
 Zotero is a software program that helps you collect, organize, cite, and share research sources. To install Zotero on your computer, you need go to the [Zotero download page](https://www.zotero.org/support/installation) and select the version for your operating system. They have Windows, Mac, and Linux installers. You also need to install the Zotero Connector for your browser, which allows you to save sources to Zotero with a single click. You can find the Zotero Connector for Chrome, Firefox, Safari, and Edge on the same download page.
+### 10. Sign in to Bing Chat AI
+To sign in to Bing Chat AI, you need to have a Microsoft account and use the Microsoft Edge web browser. Here are the steps to follow:
+
+- Visit [bing.com](https://www.microsoft.com/en-us/edge/features/bing-chat) with the Microsoft Edge web browser.
+- Sign in with your Microsoft account.
+- Click "Chat" at the top of the page.
+- Choose a conversation style and type your prompt.
 
 Please be sure to complete these tasks before our first class, as they are essential for our learning and collaboration.
 
