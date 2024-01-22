@@ -25,26 +25,24 @@
 ## Essential Tasks to Complete Before Attending the SLR Workshop 🚀
 Welcome to SLR Workshop! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
 
-1. **Create a GitHub Account:**
+### 1. Create a GitHub Account
    Ensure you have a GitHub :octocat: account by signing up at [GitHub](https://github.com/login).
 
-2. **Access Teaching Materials:**
+### 2. Access Teaching Materials
    All teaching materials will be available on my GitHub account. Please **follow** [this link](https://github.com/drshahizan) to access the materials.
 
-3. **Fork and Star Repository:**
+### 3. Fork and Star Repository
    To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/SLR-FC). We will be using this repository extensively.
 
-4. **Complete Information Form:**
+### 4. Complete Information Form
    Please fill in 🧑‍💻 your details in the provided Google Sheets document: [Student](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=1885871540) and [Lecturer](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=905650697).
 
-5. **GitHub Usage for Course:**
-   Throughout this course, we will utilize GitHub for sharing materials, submitting tasks, projects, and more. Make sure you have a meaningful GitHub username associated with your account.
-6. **Scopus account & Scopus API:**
+### 5. GitHub Usage for Course
+Throughout this course, we will utilize GitHub for sharing materials, submitting tasks, projects, and more. Make sure you have a meaningful GitHub username associated with your account.
+### 6. Scopus account & Scopus API
 You have created a **Scopus account** and obtained a **Scopus API**. [Scopus offers a set of APIs](https://dev.elsevier.com/sc_apis.html) that allow you to access Scopus data in a machine-readable format. You can use these APIs to find articles, authors, institutions, citations, and other information in Scopus. You can also use these APIs to perform advanced queries, such as filtering by keywords, dates, fields, or metrics. To access Scopus via its API, you need to register API keys at [https://dev.elsevier.com](https://dev.elsevier.com/apikey/manage). For each profile, you may register [10 keys](https://dev.elsevier.com/documentation/ScopusSearchAPI.wadl). If you are interested in learning more about how to use Scopus APIs for your research projects, you can visit [this page](https://blog.scopus.com/posts/accelerate-academic-research-using-scopus-apis) for some examples and tutorials. You can also explore the [interactive Scopus APIs](https://pybliometrics.readthedocs.io/en/latest/access.html) that let you visualize and analyze data from Scopus in real time.
-7. **Semantic Scholar API:**
-You require the Semantic Scholar API. Semantic Scholar API is a service that allows you to access and analyze scholarly data from Semantic Scholar, a platform that provides a reliable source of scientific publications. To use Semantic Scholar API, you need to have an API key that you can request from [this page](https://api.semanticscholar.org/datasets/v1/). You can find more details about how to use Semantic Scholar API in [this tutorial](https://webflow.semanticscholar.org/product/api/guide) or in [this documentation](https://webflow.semanticscholar.org/resources).
-
-Semantic Scholar API is a great resource for researchers who want to find and explore scientific publication data programmatically. You can use it to build projects that accelerate scientific progress with data analysis, visualization, and machine learning. If you have any questions about Semantic Scholar API or anything else, feel free to ask me. 😊
+### 7. Semantic Scholar API
+You require the Semantic Scholar API. Semantic Scholar API is a service that allows you to access and analyze scholarly data from Semantic Scholar, a platform that provides a reliable source of scientific publications. To use Semantic Scholar API, you need to have an API key that you can request from [this page](https://api.semanticscholar.org/datasets/v1/). You can find more details about how to use Semantic Scholar API in [this tutorial](https://webflow.semanticscholar.org/product/api/guide) or in [this documentation](https://webflow.semanticscholar.org/resources). Semantic Scholar API is a great resource for researchers who want to find and explore scientific publication data programmatically. You can use it to build projects that accelerate scientific progress with data analysis, visualization, and machine learning. If you have any questions about Semantic Scholar API or anything else, feel free to ask me. 😊
 
 Please be sure to complete these tasks before our first class, as they are essential for our learning and collaboration.
 
