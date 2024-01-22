@@ -35,7 +35,7 @@ Welcome to SLR Workshop! We are thrilled to embark on this exciting learning jou
    To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/SLR-FC). We will be using this repository extensively.
 
 4. **Complete Information Form:**
-   Please fill in 🧑‍💻 your details in the provided Google Sheets document [here](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=1885871540).
+   Please fill in 🧑‍💻 your details in the provided Google Sheets document: [Student](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=1885871540) and [Lecturer](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=905650697).
 
 5. **GitHub Usage for Course:**
    Throughout this course, we will utilize GitHub for sharing materials, submitting tasks, projects, and more. Make sure you have a meaningful GitHub username associated with your account.
