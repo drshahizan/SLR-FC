@@ -39,7 +39,7 @@ Welcome to SLR Workshop! We are thrilled to embark on this exciting learning jou
 
 5. **GitHub Usage for Course:**
    Throughout this course, we will utilize GitHub for sharing materials, submitting tasks, projects, and more. Make sure you have a meaningful GitHub username associated with your account.
-6. **Scopus account & Scopus API**
+6. **Scopus account & Scopus API:**
 You have created a **Scopus account** and obtained a **Scopus API**. [Scopus offers a set of APIs](https://dev.elsevier.com/sc_apis.html) that allow you to access Scopus data in a machine-readable format. You can use these APIs to find articles, authors, institutions, citations, and other information in Scopus. You can also use these APIs to perform advanced queries, such as filtering by keywords, dates, fields, or metrics. To access Scopus via its API, you need to register API keys at [https://dev.elsevier.com](https://dev.elsevier.com/apikey/manage). For each profile, you may register [10 keys](https://dev.elsevier.com/documentation/ScopusSearchAPI.wadl). If you are interested in learning more about how to use Scopus APIs for your research projects, you can visit [this page](https://blog.scopus.com/posts/accelerate-academic-research-using-scopus-apis) for some examples and tutorials. You can also explore the [interactive Scopus APIs](https://pybliometrics.readthedocs.io/en/latest/access.html) that let you visualize and analyze data from Scopus in real time⁴.
 
 Please be sure to complete these tasks before our first class, as they are essential for our learning and collaboration.
