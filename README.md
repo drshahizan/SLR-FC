@@ -25,6 +25,8 @@
 ## Essential Tasks to Complete Before Attending the SLR Workshop 🚀
 Welcome to SLR Workshop! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
 
+### [WhatsApp Link](https://chat.whatsapp.com/L5nGOMgetZhLyaOyOBnKxn)
+
 ### 1. Create a GitHub Account
    Ensure you have a GitHub :octocat: account by signing up at [GitHub](https://github.com/login).
 
