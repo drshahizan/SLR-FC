@@ -1,0 +1,5 @@
+Some possible weaknesses of this paper are:
+
+- **Lack of comparison**: The paper does not compare the proposed algorithm with other state-of-the-art methods for dynamic SLAM, such as MaskFusion, Co-Fusion, or DynSLAM. This makes it hard to evaluate the performance and novelty of the algorithm.
+- **Limited experiments**: The paper only tests the algorithm on two public datasets, KITTI and TUM, which may not cover all the possible scenarios and challenges of dynamic SLAM. The paper also does not provide any qualitative results, such as images or videos, to demonstrate the effectiveness of the algorithm.
+- **Unclear implementation details**: The paper does not provide enough details about the implementation of the algorithm, such as the network architecture, the training data, the hyperparameters, or the hardware specifications. This makes it difficult to reproduce the results or apply the algorithm to other applications.
