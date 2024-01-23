@@ -1,0 +1,7 @@
+The paper “A novel consensus learning approach to incomplete multi-view clustering” is about a new method to group data that comes from different sources or views, even when some of the data is missing. The method is called Graph-based Incomplete Multi-view Clustering (GIMC), and it works by:
+
+Constructing a complete graph for each view using the information from other views
+Weighting each graph according to its reliability and consistency
+Learning a consensus graph that represents the common structure of all views
+Finding the clusters based on the consensus graph
+The paper claims that this method can handle incomplete multi-view data better than existing methods, and shows experimental results on several real-world datasets to support this claim. The paper also proposes an algorithm to optimize the objective function of the method.
