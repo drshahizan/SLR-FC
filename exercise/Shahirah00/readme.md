@@ -1,10 +1,10 @@
 Here are some articles related to heritage microclimate monitoring:
 
-1. **"Microclimate and Weathering in Cultural Heritage: Design of a Monitoring Apparatus for Field Exposure Tests"**¹: This article presents an innovative experimental method for the long-term monitoring of outdoor microclimate and material decay at cultural heritage sites. An apparatus for field exposure tests was designed to monitor a variety of historical building materials in different environmental settings.
+1. **Microclimate and Weathering in Cultural Heritage: Design of a Monitoring Apparatus for Field Exposure Tests**: This article presents an innovative experimental method for the long-term monitoring of outdoor microclimate and material decay at cultural heritage sites. An apparatus for field exposure tests was designed to monitor a variety of historical building materials in different environmental settings.
 
-2. **"Strategies for the deployment of microclimate sensors in spaces housing collections"**²: This paper describes specific procedures aimed at the deployment of microclimate sensors in spaces housing collections (e.g., museums) under different scenarios. The decision making involves a multidisciplinary discussion among museum manager, conservator and conservation scientist and implies five steps.
+2. **Strategies for the deployment of microclimate sensors in spaces housing collections**: This paper describes specific procedures aimed at the deployment of microclimate sensors in spaces housing collections (e.g., museums) under different scenarios. The decision making involves a multidisciplinary discussion among museum manager, conservator and conservation scientist and implies five steps.
 
-3. **"Atmosphere | Special Issue : Microclimate of the Heritage Buildings"**³: This article discusses the importance of studying and monitoring the microclimate for the conservation conditions of heritage buildings, as well as to carry out analyses aimed at improving current conditions and provide adaptation solution with respect to future projections.
+3. **Atmosphere | Special Issue : Microclimate of the Heritage Buildings**: This article discusses the importance of studying and monitoring the microclimate for the conservation conditions of heritage buildings, as well as to carry out analyses aimed at improving current conditions and provide adaptation solution with respect to future projections.
 
 These articles provide valuable insights into the field of heritage microclimate monitoring. They highlight the importance of this practice in preserving and managing cultural heritage.
 
