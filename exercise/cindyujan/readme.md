@@ -45,3 +45,18 @@ Source: Conversation with Bing, 23/01/2024
 (2) Top 10 Software-Defined Networking (SDN) Solutions in 2022. https://www.spiceworks.com/tech/networking/articles/best-sdn-solutions/.
 (3) Performance Comparison of Software Defined Networking Simulators for .... https://ieeexplore.ieee.org/document/8685572/.
 (4) (PDF) Comparison of Software Defined Networking with Traditional .... https://www.academia.edu/94081801/Comparison_of_Software_Defined_Networking_with_Traditional_Networking.
+
+Sure, here's a comparison table based on the articles I found:
+
+| Author | Year of Publication | Article | Pros | Cons |
+| --- | --- | --- | --- | --- |
+| Keith Townsend¹ | 2016¹ | A closer look at SDN vs. traditional networking¹ | SDN allows network engineers and admins to respond quickly to changing business environments¹. SDN products can combine the power of big data analytics and traditional networking, allowing them to monitor traffic flows and network latency¹. | There are disadvantages of software-defined networking¹. |
+| Not mentioned² | 2021² | Comparative Analysis of Traditional and Software Defined Networks² | SDN significantly simplifies network management tasks. It enables complex network configuration and controlling easy through a programmable and flexible interface². | Traditional IP networks are very difficult to manage and troubleshoot. They are error-prone and it is difficult to introduce new features and development of a new set of policies². |
+
+Please note that this is a simplified comparison and both SDN and traditional networks have their own complexities and use-cases¹².
+
+Source: Conversation with Bing, 23/01/2024
+(1) A closer look at SDN vs. traditional networking | TechTarget. https://www.techtarget.com/searchdatacenter/ehandbook/A-closer-look-at-SDN-vs-traditional-networking.
+(2) Comparative Analysis of Traditional and Software Defined Networks .... https://ieeexplore.ieee.org/document/9526236.
+(3) Comparison of Software Defined Networking with Traditional Networking. https://www.researchgate.net/profile/Saad-Haji-2/publication/351936824_Comparison_of_Software_Defined_Networking_with_Traditional_Networking/links/60b5ee7d4585154e5ef5cc18/Comparison-of-Software-Defined-Networking-with-Traditional-Networking.pdf?origin=publication_detail.
+(4) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=9526203.
