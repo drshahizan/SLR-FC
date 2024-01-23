@@ -12,3 +12,12 @@ Source: Conversation with Bing, 1/23/2024
 (2) RQ: What a.... undefined.
 (3) A systemat.... undefined.
 (4) Conclusion.... undefined.
+
+
+Paper weakness :
+
+Here are some of the weaknesses of this article:
+
+- **Lack of empirical evaluation**: The article does not provide any empirical results or experiments to validate the effectiveness of the proposed models or techniques for object detection on resource-constrained devices. It only relies on literature review and analysis, which may not reflect the actual performance or challenges in real-world scenarios.
+- **Limited scope of literature sources**: The article mainly focuses on the studies published in four databases (Scopus, Web of Science, PubMed Central, and ArXiv) and excludes other potential sources of relevant literature, such as Google Scholar, IEEE Xplore, ACM Digital Library, etc. This may lead to missing some important or recent works in the field of object detection on resource-constrained devices.
+- **Lack of comparison or discussion of trade-offs**: The article does not provide any comparison or discussion of the trade-offs between different approaches or models for object detection on resource-constrained devices, such as accuracy, speed, memory, power consumption, etc. It only lists and summarizes the existing works without critically evaluating their strengths and weaknesses or suggesting possible improvements or directions for future research.
