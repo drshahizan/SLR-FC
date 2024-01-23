@@ -21,3 +21,10 @@ Source: Conversation with Bing, 23/01/2024
 (3) A survey on blockchain based IoT forensic evidence ... - Springer. https://link.springer.com/article/10.1007/s11042-023-17104-z.
 (4) Blockchain in IoT: Current Trends, Challenges, and Future Roadmap. https://link.springer.com/article/10.1007/s41635-019-00079-5.
 (5) A conceptual architecture for simulating blockchain-based IoT .... https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-023-00481-z.
+
+
+Diagram description
+
+
+
+This image is a comparative diagram that illustrates the difference between the current state of Romanian education and employment verification system and a proposed blockchain-based solution. The image is divided into two parts: "Romanian current state" on the left and "blockchain-based solution" on the right. On the left side, it shows a person going through high school, attending two universities, and then their credentials being verified by an employer through a complex process involving MEN RMUR. On the right side, with blockchain technology enabled, the process is streamlined with digital verification of educational credentials directly accessible to employers. The image also includes text annotations to label different stages and elements within both processes. The OCR text at the bottom of the image reads "Side of figure 1. Figure 1. Romanian current state vs. blockchain-based solution". 
