@@ -47,3 +47,23 @@ Source: Conversation with Bing, 1/23/2024
 (2) What's the Instagram Algorithm? | Later Social Media Glossary. https://later.com/social-media-glossary/instagram-algorithm/.
 (3) Use of Machine Learning by Instagram - BLOCKGENI. https://www.blockgeni.com/use-of-machine-learning-by-instagram/.
 (4) How Instagram uses machine learning to personalise posts on your Home .... https://www.thehindu.com/sci-tech/technology/how-instagram-personalises-posts-on-home-feed/article33363397.ece.
+
+Certainly! Here is a detailed discussion of each element in the figure:
+
+1. The title "How Instagram Uses Machine Learning!" is prominently displayed at the top of the image.
+
+2. A hand holding a smartphone with the Instagram logo represents "User Interaction." This is the first step in the process.
+
+3. Arrows lead from "User Interaction" to a blue "Processing Server" icon and then to "Information Storage - SQL," depicted by databases. This represents the processing of user requests and the storage of user data.
+
+4. The data flows into a "Learning Model," represented by a brain icon. This is where machine learning algorithms are applied to the data to personalize the user's feed.
+
+5. The process results in a “Personalized Feed,” shown as a profile icon with various content around it. This is the final step in the process.
+
+6. There’s also an arrow leading from “Personalized Feed” to “Data of User Analytics,” depicted by graphs, and then to “Third Party.” This represents the collection of user data and the sharing of that data with third parties.
+
+7. Each step in the process is connected by dashed arrows indicating flow direction.
+
+8. The background is dark with colorful icons and text making the information visually appealing.
+
+I hope this helps!
