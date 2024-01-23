@@ -1,3 +1,4 @@
+Describe this figure.
 
 The image you provided is a graphical representation of the "Octalysis" framework, a gamification model that categorizes various game design elements into eight core drives to analyze and build strategies around user engagement and motivation. 
 
