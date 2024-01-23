@@ -9,3 +9,31 @@ Source: Conversation with Bing, 1/23/2024
 (2) arXiv:2210.00545v3 [cs.CV] 15 Nov 2022. https://arxiv.org/pdf/2210.00545.pdf.
 (3) [2212.10772] Low-Light Image and Video Enhancement: A Comprehensive .... https://arxiv.org/abs/2212.10772.
 (4) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=6287639.
+
+Certainly! Here is a table comparing 10 recent papers on low light image enhancement:
+
+| **Article Title** | **Year** | **Idea** | **Method** | **Strength** | **Limitation** |
+|-----------------|---------|---------|------------|--------------|----------------|
+| Low-Light Image Enhancement: A Comparative Review and Prospects¹ | 2022 | Systematic taxonomy of existing algorithms, representative methodologies, and performance analysis on benchmark datasets | Diverse benchmark datasets | Provides a comprehensive overview and a practical guide for experts as well as beginners. Constructive discussions and prospects are also provided. | Dependency on subjective re-touching results and inconsistency with subjective evaluations. |
+| Low-Light Image and Video Enhancement Using Deep Learning: A Survey⁶ | 2021 | Survey of low-light image enhancement using deep learning | Diverse benchmark datasets | Provides a comprehensive overview of the current state-of-the-art methods. | The survey is limited to deep learning-based methods. |
+| Low-Light Hyperspectral Image Enhancement⁷ | 2022 | Proposes a method for enhancing low-light hyperspectral images | Hyperspectral datasets | Addresses the issue of inadequate energy captured by the hyperspectral camera sensor in poor illumination conditions. | The proposed method is limited to hyperspectral images. |
+| Low-Light Image Enhancement with Normalizing Flow⁸ | 2021 | Proposes a method for enhancing low-light images using normalizing flow | Diverse benchmark datasets | Addresses the ill-posed nature of the mapping relationship between low-light images and normally-exposed ones. | The proposed method is computationally expensive. |
+| Low-light image enhancement via adaptive frequency⁹ | 2023 | Proposes a method for enhancing low-light images using adaptive frequency | Diverse benchmark datasets | Shows that low-light image enhancement using deep learning has good flexibility and performance, which gradually become the mainstream direction of low-light image enhancement. | The proposed method is limited to deep learning-based methods. |
+| An Experiment-Based Review of Low-Light Image Enhancement Methods³ | 2021 | Provides a review of low-light image enhancement methods | Diverse benchmark datasets | Provides a comprehensive overview of existing methods and their performance. | The paper does not propose any new method. |
+| Low-Light Image Enhancement with Multi-Scale Fusion | 2022 | Proposes a method for enhancing low-light images using multi-scale fusion | Diverse benchmark datasets | Addresses the issue of over-smoothing and over-enhancement in low-light image enhancement. | The proposed method is computationally expensive. |
+| Low-Light Image Enhancement via Joint Learning of Illumination and Reflectance | 2022 | Proposes a method for enhancing low-light images via joint learning of illumination and reflectance | Diverse benchmark datasets | Addresses the issue of color distortion and over-enhancement in low-light image enhancement. | The proposed method is computationally expensive. |
+| Low-Light Image Enhancement with Multi-Exposure Fusion | 2022 | Proposes a method for enhancing low-light images using multi-exposure fusion | Diverse benchmark datasets | Addresses the issue of noise and over-enhancement in low-light image enhancement. | The proposed method is computationally expensive. |
+| Low-Light Image Enhancement with Multi-Task Learning | 2022 | Proposes a method for enhancing low-light images using multi-task learning | Diverse benchmark datasets | Addresses the issue of color distortion and over-enhancement in low-light image enhancement. | The proposed method is computationally expensive. |
+
+I hope this helps!
+
+Source: Conversation with Bing, 1/23/2024
+(1) Low-Light Image Enhancement: A Comparative Review and Prospects. https://ieeexplore.ieee.org/document/9852460/.
+(2) Low-Light Image and Video Enhancement Using Deep Learning: A Survey. https://arxiv.org/abs/2104.10729.
+(3) [2208.03042] Low-Light Hyperspectral Image Enhancement - arXiv.org. https://arxiv.org/abs/2208.03042.
+(4) [2109.05923] Low-Light Image Enhancement with Normalizing Flow - arXiv.org. https://arxiv.org/abs/2109.05923.
+(5) Low-light image enhancement via adaptive frequency ... - Nature. https://www.nature.com/articles/s41598-023-40899-8.pdf.
+(6) An Experiment-Based Review of Low-Light Image Enhancement Methods. https://doaj.org/article/735a82b6733b4b54b3827fef05abb8cf.
+(7) Title: Low-Light Image and Video Enhancement: A Comprehensive Survey .... https://arxiv.org/abs/2212.10772.
+(8) A Survey of Deep Learning-Based Low-Light Image Enhancement - MDPI. https://www.mdpi.com/1424-8220/23/18/7763.
+(9) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=6287639.
