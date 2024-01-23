@@ -36,3 +36,26 @@ Source: Conversation with Bing, 1/23/2024
 (21) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=8125643.
 (22) undefined. https://doi.org/10.48550/arXiv.1712.04621.
 (23) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=10315953.
+
+
+
+I'm sorry, but I was only able to find information on 5 papers about data augmentation in CNN for image classification. Here's a comparison table with the available information:
+
+| Authors | Title | Idea | Method | Strength | Limitations | Conclusion |
+| --- | --- | --- | --- | --- | --- | --- |
+| Not available | Data augmentation for improving deep learning in image classification problem¹ | Improve deep learning in image classification by tackling the lack of sufficient training data or uneven class balance within the datasets | Compares classical image transformations, Style Transfer, and Generative Adversarial Networks | Can significantly improve model performance, especially when dealing with limited or uneven datasets | Not available | Data augmentation can improve the training process efficiency |
+| Connor Shorten & Taghi M. Khoshgoftaar | A survey on Image Data Augmentation for Deep Learning² | Discusses various image augmentation algorithms to avoid overfitting | Discusses geometric transformations, color space augmentations, kernel filters, mixing images, random erasing, feature space augmentation, adversarial training, generative adversarial networks, neural style transfer, and meta-learning | Provides a comprehensive overview of existing data augmentation techniques and their applications | Not available | Data Augmentation can improve the performance of models and expand limited datasets |
+| Not available | Research on data augmentation for image classification based on deep convolution Neural network³ | Explores the impact of various data augmentation methods on image classification tasks | Uses Alexnet as the pre-training network model and a subset of CIFAR10 and ImageNet (10 categories) as the original dataset | Demonstrates the impact of various data augmentation methods on image classification tasks | Not available | Not available |
+| Not available | Feature transforms for image data augmentation⁴ | Proposes new methods for data augmentation based on several image transformations: the Fourier transform (FT), the Radon transform (RT), and the discrete cosine transform (DCT) | Not available | Not available | Not available | Not available |
+| Not available | Image Augmentation with Convolutional Neural Networks⁵ | Discusses how data augmentation can enhance the size and quality of training datasets | Presents a convolutional neural network model with image augmentation | Can enhance the size and quality of training datasets and help combat overfitting | Not available | Not available |
+
+Please note that the methodologies, strengths, limitations, and conclusions are summarized based on the abstracts and summaries of the papers. For a more detailed understanding, it's recommended to read the full papers. Also, the authors' information is not available in the search results. I apologize for any inconvenience. Let me know if you need more information.
+
+Source: Conversation with Bing, 1/23/2024
+(1) Data augmentation for improving deep learning in image classification .... https://ieeexplore.ieee.org/document/8388338.
+(2) A survey on Image Data Augmentation for Deep Learning. https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0.
+(3) Research on data augmentation for image classification based on .... https://ieeexplore.ieee.org/document/8243510.
+(4) Feature transforms for image data augmentation - Springer. https://link.springer.com/article/10.1007/s00521-022-07645-z.
+(5) Image Augmentation with Convolutional Neural Networks. https://ieeexplore.ieee.org/document/10316005/.
+(6) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=8381251.
+(7) Review of deep learning: concepts, CNN ... - Journal of Big Data. https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00444-8.
