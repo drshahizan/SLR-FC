@@ -60,3 +60,21 @@ Source: Conversation with Bing, 23/01/2024
 (2) Comparative Analysis of Traditional and Software Defined Networks .... https://ieeexplore.ieee.org/document/9526236.
 (3) Comparison of Software Defined Networking with Traditional Networking. https://www.researchgate.net/profile/Saad-Haji-2/publication/351936824_Comparison_of_Software_Defined_Networking_with_Traditional_Networking/links/60b5ee7d4585154e5ef5cc18/Comparison-of-Software-Defined-Networking-with-Traditional-Networking.pdf?origin=publication_detail.
 (4) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=9526203.
+
+Sure, here is the description in markdown format:
+
+```
+# Software Defined Networking (SDN)
+
+The image provided is a diagram illustrating the structure of Software Defined Networking (SDN). Here are the key components:
+
+- **Applications**: These are part of the Control Plane and interact with the SDN Controller.
+- **SDN Controller**: This is the central unit that communicates with both the Applications in the Control Plane and the SDN Datapath in the Data Plane.
+- **SDN Datapath**: This is part of the Data Plane and is connected to the Switches.
+- **Switches**: These are also part of the Data Plane and are connected to a Pool of Application Servers.
+- **Pool of Application Servers**: This represents the servers that the Switches are connected to.
+
+The diagram shows the interaction between these components, indicating the flow of communication or control. The Applications communicate with the SDN Controller, which in turn communicates with the SDN Datapath and Switches, showing the path of data flow or command execution. The Switches are connected to the Pool of Application Servers. All entities are interconnected, showing that they communicate with each other in some way. 
+
+Please note that this is a high-level overview. The actual implementation details may vary based on the specific SDN solution.
+```
