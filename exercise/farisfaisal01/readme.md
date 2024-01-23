@@ -18,8 +18,6 @@ Source: Conversation with Bing, 1/23/2024
 (5) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=9457837.
 
 
-I'm sorry, but I couldn't find a comparison table with 10 papers on text summarization. However, I can provide you with a brief summary of some recent articles on text summarization:
-
 | **Paper** | **Authors** | **Title** | **Idea** | **Method** | **Strength** | **Limitations** | **Conclusion** |
 |-----------|-------------|-----------|----------|------------|--------------|----------------|----------------|
 | 1         | Multiple    | Recent Progress on Text Summarization | Reviews recent approaches in three categories: Extractive, Abstractive, and Hybrid text summarization along with specific methods within each category. | Literature review | Provides a comprehensive overview of recent approaches to text summarization. | The generated summaries are very different from human summaries regardless of techniques used. | Extractive methods are more effective than abstractive methods. |
