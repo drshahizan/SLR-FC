@@ -1,4 +1,4 @@
-Sure, here is the table you asked for:
+Comparison table:
 
 | Aspect | SDN-Based (Proposed System) | AI-Based | IoV |
 | --- | --- | --- | --- |
