@@ -1,0 +1,9 @@
+
+
+This review paper presents a comprehensive analysis of recent advancements in Multi-View Clustering (MVC), focusing on the challenges of incomplete data, data redundancy, and methodological diversity. The survey encompasses ten significant studies, each contributing uniquely to the field of MVC.
+
+The first study by Saini et al. introduces a multi-view multi-objective clustering-based framework for scientific document summarization, employing a differential evolution algorithm, which surpasses existing supervised and unsupervised methods, including transformer-based models. The second paper, although anonymous, proposes a novel MVC approach that effectively reduces data redundancy across multiple views. Zhang et al. and Wang et al. provide an overview of MVC methods for text clustering and an innovative clustering indicator learning with scaled similarity, respectively.
+
+Further contributions include attention-based contrast learning frameworks (MCAC), surveys on incomplete MVC, and methods like GIMC-FLSD, JNMF, and JSR to address the incomplete MVC problem. These methods are rigorously evaluated against benchmark datasets and have shown effectiveness in various scenarios, from adjusting similarity matrices to outperforming state-of-the-art methods.
+
+In conclusion, MVC is a rapidly evolving field with substantial potential in real-world applications. This review not only underscores the progress made but also highlights open research issues and future directions, emphasizing the need for innovative solutions to address the challenges in MVC.
