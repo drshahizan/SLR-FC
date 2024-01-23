@@ -25,6 +25,8 @@ Source: Conversation with Bing, 23/01/2024
 
 Diagram description
 
+![My Example Image](example.jpg)
+
 
 
 This image is a comparative diagram that illustrates the difference between the current state of Romanian education and employment verification system and a proposed blockchain-based solution. The image is divided into two parts: "Romanian current state" on the left and "blockchain-based solution" on the right. On the left side, it shows a person going through high school, attending two universities, and then their credentials being verified by an employer through a complex process involving MEN RMUR. On the right side, with blockchain technology enabled, the process is streamlined with digital verification of educational credentials directly accessible to employers. The image also includes text annotations to label different stages and elements within both processes. The OCR text at the bottom of the image reads "Side of figure 1. Figure 1. Romanian current state vs. blockchain-based solution". 
