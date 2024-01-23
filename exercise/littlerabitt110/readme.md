@@ -37,3 +37,13 @@ Source: Conversation with Bing, 1/23/2024
 (7) Title: Low-Light Image and Video Enhancement: A Comprehensive Survey .... https://arxiv.org/abs/2212.10772.
 (8) A Survey of Deep Learning-Based Low-Light Image Enhancement - MDPI. https://www.mdpi.com/1424-8220/23/18/7763.
 (9) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=6287639.
+
+Certainly! The image you sent is an infographic that explains how Instagram uses machine learning to personalize user feeds. The infographic outlines the process from user interaction to the personalized feed, involving steps like processing server, records of user activities, information storage, and learning model. The title "How Instagram Uses Machine Learning!" is prominently displayed at the top. A hand holding a smartphone with the Instagram logo represents "User Interaction." Arrows lead from "User Interaction" to a blue and green "Processing Server" icon representing request processing. The next step is "Records of User Activities (Engagement)," depicted by a red ticket icon. Information is then stored in SQL as shown by a database symbol labeled "Information Storage - SQL." A golden trophy icon labeled “Learning Model” indicates the machine learning process that analyzes and learns from the data. The “Prediction Process” is represented by a purple tag icon leading to “Personalized Feed,” shown as a female avatar with various social media icons around her head. There’s also an indication of “Data of User Analytics” being collected, represented by a pink flask icon. Lastly, there’s an indication that data can be shared with third parties, represented by blue stacked cubes ¹.
+
+I hope this helps!
+
+Source: Conversation with Bing, 1/23/2024
+(1) Instagram Algorithm with Machine Learning | Aman Kharwal. https://thecleverprogrammer.com/2021/01/26/instagram-algorithm-with-machine-learning/.
+(2) What's the Instagram Algorithm? | Later Social Media Glossary. https://later.com/social-media-glossary/instagram-algorithm/.
+(3) Use of Machine Learning by Instagram - BLOCKGENI. https://www.blockgeni.com/use-of-machine-learning-by-instagram/.
+(4) How Instagram uses machine learning to personalise posts on your Home .... https://www.thehindu.com/sci-tech/technology/how-instagram-personalises-posts-on-home-feed/article33363397.ece.
