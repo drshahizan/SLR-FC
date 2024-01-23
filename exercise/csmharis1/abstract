@@ -1,1 +1,86 @@
 
+
+
+
+
+
+
+Authors
+1	Naveen Saini, Saichethan Miriyala Reddy, Sriparna Saha, Jose G. Moreno &amp; Antoine Doucet
+2	Anonymous
+3	Xiang Zhang, Xiaojun Chen, and Xiaohui Yuan
+4	Yuhang Wang, Yuxin Su, and Xuejun Li
+5	Anonymous
+6	Anonymous
+7	Anonymous
+8	Anonymous
+9	Anonymous
+10	Anonymous
+
+
+
+	Title
+1	Multi-view multi-objective clustering-based framework for scientific document summarization using citation context
+2	A Novel Approach for Effective Multi-View Clustering with …
+3	An Overview of Multi-View Methods for Text Clustering
+4	Multi-view clustering indicator learning with scaled similarity
+5	Multi-view clustering via attention-based contrast learning
+6	A Survey on Incomplete Multi-view Clustering
+7	Incomplete multi-view clustering via local and global co-regularization with flexible locality structure diffusion
+8	Multi-view clustering with deep learning: A survey
+9	Multi-view clustering via joint non-negative matrix factorization
+10	Multi-view clustering via joint sparse representation
+
+
+
+	Idea
+1	Formulate the scientific document summarization problem in a multi-view clustering (MVC) framework.
+2	Improve clustering performance using various data sources
+3	Provide an overview of multi-view methods for text clustering
+4	Solve the problem of incomplete data and missing views effectively
+5	Address the partial view unalignment and partial view missing problems
+6	Present a comprehensive survey of incomplete multi-view clustering
+7	Address the incomplete multi-view clustering problem
+8	Provide a comprehensive survey of multi-view clustering with deep learning
+9	Address the incomplete multi-view clustering problem
+10	Address the incomplete multi-view clustering problem
+
+
+
+	Method
+1	Differential evolution algorithm
+2	Not mentioned
+3	Not mentioned
+4	Self-representation method to reconstruct the data matrix
+5	Attention-based contrast learning framework (MCAC)
+6	Not mentioned
+7	Generalized incomplete multiview clustering with flexible locality structure diffusion (GIMC-FLSD) method
+8	Not mentioned
+9	Joint non-negative matrix factorization (JNMF) method
+10	Joint sparse representation (JSR) method
+
+
+	Strength
+1	Better results than the existing supervised and unsupervised methods including transformer-based deep learning model, with statistically significant improvements
+2	The proposed method can effectively reduce redundancy across multiple views
+3	Comprehensive survey of multi-view methods for text clustering
+4	The proposed method can adjust the similarity matrix by scaling the similarity
+5	More effective than eleven state-of-the-art methods on the multi-view clustering task
+6	Comprehensive survey of incomplete multi-view clustering
+7	Evaluated on several benchmark datasets and compared with several state-of-the-art methods
+8	Comprehensive survey of multi-view clustering with deep learning
+9	Evaluated on several benchmark datasets and compared with several state-of-the-art methods
+10	Evaluated on several benchmark datasets and compared with several state-of-the-art methods
+
+	Conclusion	
+1	The proposed approach yields better results than the existing supervised and unsupervised methods including transformer-based deep learning model, with statistically significant improvements	
+2	The proposed method can effectively reduce redundancy across multiple views	
+3	Multi-view methods for text clustering have great potential for practical applications in real-world problems	
+4	The proposed method can adjust the similarity matrix by scaling the similarity	
+5	MCAC is more effective than eleven state-of-the-art methods on the multi-view clustering task	
+6	The paper highlights the open research issues and future directions	
+7	GIMC-FLSD is effective in addressing the incomplete multi-view clustering problem	
+8	The paper highlights the open research issues and future directions	
+9	JNMF is effective in addressing the incomplete multi-view clustering problem	
+10	JSR is effective in addressing the incomplete multi-view clustering problem	
+
