@@ -1,8 +1,0 @@
-Here is a summary of the abstract of the current web page:
-
-- The web page is a **review paper** on **single stage object detectors** using **YOLO** and its variants, which are deep learning models that can **detect and localize multiple objects** in an image in **one shot**.
-- The paper presents the **challenges** and **stages** of object detection, the **evolution** and **applications** of two stage object detectors, the **architectures** and **optimizations** of YOLO and its successors, and the **datasets** and **performance metrics** used for evaluation.
-- The paper also provides a **comparative analysis** of different object detectors, highlighting the **advantages** and **limitations** of YOLO and its versions, and suggests some **future research directions** in single stage object detection¹[1].
-
-Source: Conversation with Bing, 23/01/2024
-(1) Comparativ.... undefined.
