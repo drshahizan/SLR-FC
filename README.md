@@ -13,7 +13,7 @@
 
 | Session | Topic                                                    | Date                                | 
 |:---------:|----------------------------------------------------------|-------------------------------------|
-| 1a (basic) | [AI Tools for Literature Review](./materials/session1.md) | 23 and 24 Jan 2024                   | 
+| 1a (basic) | [AI Tools for Literature Review](./materials/session1a.md) | 23 and 24 Jan 2024                   | 
 | 1b (advance) | [Advanced AI Tools for Literature Review Course](./materials/session1b.md) | 4 and 5 Feb 2024                   | 
 | 2       | SLR Mastery: From Theory to Practice                     | 6 Feb 2024                    | 
 | 3       | Mastering the Art of Crafting a SLR    | 20 Feb 2023                  | 
