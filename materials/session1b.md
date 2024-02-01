@@ -9,30 +9,30 @@
 <img src="/images/AI%20adv%20student.jpeg"  height="500" />
 </p>
 
-## Essential Tasks to Complete Before Attending the Advanced AI Tools Workshop 🚀
-Welcome to Advanced AI Tools Workshop! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
+## What You Need to Do Before Joining the Advanced AI Tools Workshop 🚀
+Welcome to the Advanced AI Tools Workshop! We are excited to start this amazing learning journey with you. Before our first session, please complete these important steps:
 
-### 1. Create a GitHub Account
-   Ensure you have a GitHub :octocat: account by signing up at [GitHub](https://github.com/login).
+### 1. Sign Up for a GitHub Account
+   You will need a GitHub :octocat: account to access the workshop materials and activities. If you don't have one, you can sign up for free at [GitHub](https://github.com/login).
 
-### 2. Access Teaching Materials
-   All teaching materials will be available on my GitHub account. Please **follow** [this link](https://github.com/drshahizan) to access the materials.
+### 2. Find the Workshop Materials
+   You can find all the workshop materials on my GitHub account. Just **follow** [this link](https://github.com/drshahizan) and look for the relevant repositories.
 
-### 3. Fork and Star Obsidian Repository
-   To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/obsidian). We will be using this repository extensively.
+### 3. Fork and Star the Obsidian Repository
+   To prepare for our first session, please **fork** and **star** the repository named "obsidian" on my GitHub account. You can find it [here](https://github.com/drshahizan/obsidian). We will use this repository a lot during the workshop.
 
-### 4. Verify Your Information
-   Please verify your details in the provided Google Sheets document: [Student](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=1885871540) and [Lecturer](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=905650697).
+### 4. Check Your Information
+   Please make sure your information is correct in the Google Sheets document that I have shared with you. You can find the document for [students](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=1885871540) and [lecturers](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=905650697) here.
 
-### 5. Installation of Obsidian Software
-Obsidian is a powerful note-taking app that allows you to create and link your notes in a network of knowledge. To install Obsidian, you can follow these steps:
+### 5. Install Obsidian Software
+Obsidian is a powerful note-taking app that lets you create and link your notes in a network of knowledge. To install Obsidian, follow these steps:
 
 - Go to [Download Obsidian](https://obsidian.md/download) in your web browser.
-- Click on the button that matches your operating system, such as Windows, Mac, Linux, iOS, or Android. It should auto-detect what you have.
-- Once the file is downloaded, open it and follow the instructions to install Obsidian on your device.
-- After the installation is complete, you can launch Obsidian and create a new vault or open an existing one. A vault is a collection of notes and files that you can use with Obsidian.
+- Choose the button that matches your operating system, such as Windows, Mac, Linux, iOS, or Android. It should automatically detect what you have.
+- Download the file and open it. Follow the instructions to install Obsidian on your device.
+- After the installation is done, open Obsidian and create a new vault or open an existing one. A vault is a folder that contains your notes and files for Obsidian.
 
-You can find more information about how to download and install Obsidian from the [help documentation](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian). 
+You can learn more about how to download and install Obsidian from the [help documentation](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian).
 
 #### References:
 - (1) [Download - Obsidian](https://obsidian.md/download)
