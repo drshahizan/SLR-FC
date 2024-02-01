@@ -24,25 +24,21 @@ Welcome to Advanced AI Tools Workshop! We are thrilled to embark on this excitin
 ### 4. Verify Your Information
    Please verify your details in the provided Google Sheets document: [Student](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=1885871540) and [Lecturer](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=905650697).
 
-### 5. GitHub Usage for Course
-Throughout this course, we will utilize GitHub for sharing materials, submitting tasks, projects, and more. Make sure you have a meaningful GitHub username associated with your account.
+### 5. Installation of Obsidian Software
+Obsidian is a powerful note-taking app that allows you to create and link your notes in a network of knowledge. To install Obsidian, you can follow these steps:
 
-### 6. Scopus account & Scopus API
-You have created a **Scopus account** and obtained a **Scopus API**. [Scopus offers a set of APIs](https://dev.elsevier.com/sc_apis.html) that allow you to access Scopus data in a machine-readable format. You can use these APIs to find articles, authors, institutions, citations, and other information in Scopus. You can also use these APIs to perform advanced queries, such as filtering by keywords, dates, fields, or metrics. To access Scopus via its API, you need to register API keys at [https://dev.elsevier.com](https://dev.elsevier.com/apikey/manage). For each profile, you may register [10 keys](https://dev.elsevier.com/documentation/ScopusSearchAPI.wadl). If you are interested in learning more about how to use Scopus APIs for your research projects, you can visit [this page](https://blog.scopus.com/posts/accelerate-academic-research-using-scopus-apis) for some examples and tutorials. You can also explore the [interactive Scopus APIs](https://pybliometrics.readthedocs.io/en/latest/access.html) that let you visualize and analyze data from Scopus in real time.
-### 7. Semantic Scholar API
-You require the Semantic Scholar API. Semantic Scholar API is a service that allows you to access and analyze scholarly data from Semantic Scholar, a platform that provides a reliable source of scientific publications. To use Semantic Scholar API, you need to have an API key that you can request from [this page](https://api.semanticscholar.org/datasets/v1/). You can find more details about how to use Semantic Scholar API in [this tutorial](https://webflow.semanticscholar.org/product/api/guide) or in [this documentation](https://webflow.semanticscholar.org/resources). Semantic Scholar API is a great resource for researchers who want to find and explore scientific publication data programmatically. You can use it to build projects that accelerate scientific progress with data analysis, visualization, and machine learning.
-### 8. Installation of Publish or Perish software
-Publish or Perish is a software program that retrieves and analyzes academic citations. It can help you to present your research impact, find the best journals to submit to, and prepare for job interviews. To install Publish or Perish on your computer, you need to download the Publish or Perish installer from [this page](https://harzing.com/resources/publish-or-perish). After successful installation, you can now use Publish or Perish to search for academic citations, analyze citation metrics, and generate reports. You can also save your queries and results in various formats, such as HTML, CSV, PDF, or Word.
-### 9. Installation of Zotero
-Zotero is a software program that helps you collect, organize, cite, and share research sources. To install Zotero on your computer, you need go to the [Zotero download page](https://www.zotero.org/support/installation) and select the version for your operating system. They have Windows, Mac, and Linux installers. You also need to install the Zotero Connector for your browser, which allows you to save sources to Zotero with a single click. You can find the Zotero Connector for Chrome, Firefox, Safari, and Edge on the same download page.
+- Go to [Download Obsidian](https://obsidian.md/download) in your web browser.
+- Click on the button that matches your operating system, such as Windows, Mac, Linux, iOS, or Android. It should auto-detect what you have.
+- Once the file is downloaded, open it and follow the instructions to install Obsidian on your device.
+- After the installation is complete, you can launch Obsidian and create a new vault or open an existing one. A vault is a collection of notes and files that you can use with Obsidian.
 
-### 10. Sign in to Bing Chat AI
-To sign in to Bing Chat AI, you need to have a Microsoft account and use the Microsoft Edge web browser. Here are the steps to follow:
+You can find more information about how to download and install Obsidian from the [help documentation](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian). 
 
-- Visit [bing.com](https://www.microsoft.com/en-us/edge/features/bing-chat) with the Microsoft Edge web browser.
-- Sign in with your Microsoft account.
-- Click "Chat" at the top of the page.
-- Choose a conversation style and type your prompt.
+Source:
+(1) Download - Obsidian. https://obsidian.md/download.
+(2) Download and install Obsidian - Obsidian Help. https://help.obsidian.md/Getting+started/Download+and+install+Obsidian.
+(3) The Only Beginner Obsidian Guide You'll Ever Need. https://www.aidanhelfant.com/the-only-beginner-obsidian-guide-youll-ever-need/.
+
 
 Please be sure to complete these tasks before our first class, as they are essential for our learning and collaboration.
 
