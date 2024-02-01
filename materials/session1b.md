@@ -9,7 +9,7 @@
 <img src="/images/AI%20adv%20student.jpeg"  height="500" />
 </p>
 
-## Essential Tasks to Complete Before Attending the SLR Workshop 🚀
+## Essential Tasks to Complete Before Attending the Advanced AI Tools Workshop 🚀
 Welcome to SLR Workshop! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
 
 ### 1. Create a GitHub Account
