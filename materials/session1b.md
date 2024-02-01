@@ -34,10 +34,10 @@ Obsidian is a powerful note-taking app that allows you to create and link your n
 
 You can find more information about how to download and install Obsidian from the [help documentation](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian). 
 
-Source:
-(1) Download - Obsidian. https://obsidian.md/download.
-(2) Download and install Obsidian - Obsidian Help. https://help.obsidian.md/Getting+started/Download+and+install+Obsidian.
-(3) The Only Beginner Obsidian Guide You'll Ever Need. https://www.aidanhelfant.com/the-only-beginner-obsidian-guide-youll-ever-need/.
+#### References:
+- (1) [Download - Obsidian](https://obsidian.md/download)
+- (2) [Download and install Obsidian - Obsidian Help](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian)
+- (3) [The Only Beginner Obsidian Guide You'll Ever Need](https://www.aidanhelfant.com/the-only-beginner-obsidian-guide-youll-ever-need/)
 
 
 Please be sure to complete these tasks before our first class, as they are essential for our learning and collaboration.
