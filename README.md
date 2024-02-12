@@ -19,10 +19,6 @@
 | 3       | Mastering the Art of Crafting a SLR    | X Feb 2023                  | 
 | 4       | Mentoring Session                                       | X Mac 2024  | 
 
-## 🔥 Important things
-1. [Participant information](./materials/participant.md)
-
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
 
