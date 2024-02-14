@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-## Session 3
+# Session 3
 
-# How to Conduct a Systematic Literature Review?
+## How to Conduct a Systematic Literature Review?
 ### Part 1:
 1. [Preparation](s3_1a.md)
 2. [Searching for Studies](s3_1b.md)
