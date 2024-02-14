@@ -35,7 +35,7 @@ You wish to write an article about Systematic Literature Review. Please ask Chat
 2. **Establishing a Reasonable Timetable:**
    Recognizing the importance of time management within a two-month timeframe. This schedule should outline key milestones, allowing us to stay on track and ensure a well-organized and timely completion of our article.
 
-   *Considerations for Timetable:*
+3. **Considerations for Timetable:**
    Please take into account any potential challenges or complexities that may arise during the literature review process. Flexibility in the timetable is appreciated, with room for adjustments based on the evolving nature of our research.
 
 ## Contribution 🛠️
