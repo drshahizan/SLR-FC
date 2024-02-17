@@ -5,6 +5,10 @@
 <a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+<p align="center">
+<img src="https://github.com/drshahizan/SLR-FC/blob/main/images/workshop%20stage%203.jpeg"  height="500" />
+</p>
+
 # Session 3
 
 ## How to Conduct a Systematic Literature Review?
