@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
-<img src="/images/AI%20adv%20student.jpeg"  height="500" />
+<img src="/images/AI%20adv%20student.jpeg"  height="400" /> <img src="/images/slr_stage1advstaff.jpeg"  height="400" />
 </p>
 
 ## What You Need to Do Before Joining the Advanced AI Tools Workshop 🚀
