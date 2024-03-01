@@ -11,7 +11,7 @@
 <img src="/images/all%20slr.jpeg"  height="500" />
 </p>
 
-| Session | Topic                                                    | Date                                | 
+| Session | Topic                                                    | Date | 
 |:---------:|----------------------------------------------------------|-------------------------------------|
 | 1a (basic) | [AI Tools for Literature Review](./materials/session1a.md) | 23 and 24 Jan 2024                   | 
 | 1b (advance) | [Advanced AI Tools for Literature Review Course](./materials/session1b.md) | 4 and 5 Feb 2024                   | 
