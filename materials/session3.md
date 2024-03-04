@@ -11,6 +11,15 @@
 
 # Session 3: Mastering the Art of Crafting a SLR
 
+### Learning Materials
+
+| No  | Title                                                    | File                                | 
+|:---------:|----------------------------------------------------------|-------------------------------------|
+| 1       | [SLR Mastery: From Theory to Practice](./material/session2.md)| 18 Feb 2024 & 3 Mac 2024 | 
+| 2       | [Mastering the Art of Crafting a SLR](./material/session3.md)    | 5 Mac 2024 | 
+
+
+
 **What You Need to Do Before Joining this class** 🚀
 
 ### A. Download Obsidian Vault for Systematic Literature Reviews
