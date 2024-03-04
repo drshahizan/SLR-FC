@@ -19,6 +19,7 @@
 | 2       | **Bauer, A., Coppola, R., Alégroth, E., & Gorschek, T.** (2023). *Code review guidelines for GUI-based testing artifacts*. *Information and Software Technology*, 163, 107299.  | 5 Mac 2024 | 
 | 3| **De la Torre-López, J., Ramírez, A., & Romero, J. R.** (2023). *Artificial intelligence to automate the systematic review of scientific literature*. *Computing*, 105(10), 2171–2194.|
 |4 | **Carbonell-Alcocer, A., Romero-Luis, J., Gertrudix, M., & Wuebben, D.** (2023). *Datasets on the assessment of the scientific publication’s corpora in circular economy and bioenergy approached from education and communication*. *Data in Brief*, 47, 108958.| |
+| 5 | Juan Cruz-Benito (2016). Systematic Literature Review & Mapping | |
 
 
 **What You Need to Do Before Joining this class** 🚀
