@@ -16,7 +16,7 @@
 | No  | Title                                                    | File                                | 
 |:---------:|----------------------------------------------------------|-------------------------------------|
 | 1       | SLR Template| 18 Feb 2024 & 3 Mac 2024 | 
-| 2       | [Mastering the Art of Crafting a SLR](./material/session3.md)    | 5 Mac 2024 | 
+| 2       | **Bauer, A., Coppola, R., Alégroth, E., & Gorschek, T.** (2023). *Code review guidelines for GUI-based testing artifacts*. *Information and Software Technology*, 163, 107299.  | 5 Mac 2024 | 
 
 
 
