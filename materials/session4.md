@@ -26,6 +26,7 @@
 |9.| Google Scholar Metrics | <a href="https://scholar.google.com.ec/citations?view_op=metrics_intro&hl=en" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 |10.| **LaPlaca, P. J., Lindgreen, A., & Vanhamme, J.** (2018). *How to Write Really Good Articles for Premier Academic Journals*. *Industrial Marketing Management*, **68**, 202-209. | <a href="https://www.sciencedirect.com/science/article/abs/pii/S001985011730874X?via%3Dihub" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 |11.| **Kofod-Petersen, A.** (2018). How to Do a Structured Literature Review in Computer Science. NTNU | <a href="https://research.idi.ntnu.no/aimasters/files/SLR_HowTo2018.pdf" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
+|12.| **Mengist, W., Soromessa, T., & Legese, G.** (2020). *Method for conducting systematic literature review and meta-analysis for environmental science research*. MethodsX, 7. | <a href="https://www.sciencedirect.com/science/article/pii/S221501611930353X" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 
 
 
