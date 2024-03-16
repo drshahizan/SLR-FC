@@ -24,6 +24,10 @@
 | 7. | Juan Cruz-Benito (2016). Systematic Literature Review & Mapping | <a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ec8dnIh50vBJtkDLbrRBRNUBjNzSpEGXFqi4n4l5A4I2dg?e=rD6kH5" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 |8.| **Busse, C., August, E.** (2021). How to Write and Publish a Research Paper for a Peer-Reviewed Journal. J Canc Educ 36, 909–913 (2021). https://doi.org/10.1007/s13187-020-01751-z | <a href="https://doi.org/10.1007/s13187-020-01751-z" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 |9.| Google Scholar Metrics | <a href="https://scholar.google.com.ec/citations?view_op=metrics_intro&hl=en" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
+|10.| **LaPlaca, P. J., Lindgreen, A., & Vanhamme, J.** (2018). *How to Write Really Good Articles for Premier Academic Journals*. *Industrial Marketing Management*, **68**, 202-209. | <a href="https://www.sciencedirect.com/science/article/abs/pii/S001985011730874X?via%3Dihub" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
+
+
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
