@@ -28,8 +28,7 @@
 |11.| **Kofod-Petersen, A.** (2018). How to Do a Structured Literature Review in Computer Science. NTNU | <a href="https://research.idi.ntnu.no/aimasters/files/SLR_HowTo2018.pdf" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 |12.| **Mengist, W., Soromessa, T., & Legese, G.** (2020). *Method for conducting systematic literature review and meta-analysis for environmental science research*. MethodsX, 7. | <a href="https://www.sciencedirect.com/science/article/pii/S221501611930353X" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 |13.| **Silva, R. L. S., & Weidt Neiva, F.** (2016). Systematic Literature Review in Computer Science - A Practical Guide. Report number: 002/2016. Federal University of Juiz de Fora| <a href="https://www.researchgate.net/publication/320704338_Systematic_Literature_Review_in_Computer_Science_-_A_Practical_Guide" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
-
-
+|14.| **Carrera-Rivera, A., Ochoa, W., Larrinaga, F., & Lasa, G.** (2022). How to conduct a systematic literature review: A quick guide for computer science research. *MethodsX*, *9*, 101895. https://doi.org/10.1016/j.mex.2022.101895| <a href="https://doi.org/10.1016/j.mex.2022.101895" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
