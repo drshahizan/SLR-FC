@@ -23,6 +23,7 @@
 | 6.| **Marcos Dib, Carlos Alberto Alvares Rocha, Li Weigang, & Allan V. A. Faria.** (2022). Systematic Literature Review about Text Classification (Version 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7017720|<a href="https://liveutm-my.sharepoint.com/:u:/g/personal/shahizan_live_utm_my/Ef-nkCWqbSVEhzZ8orbZdo0BzMbrrd9-tywjQfVLWcg_5w?e=AeagmP" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 | 7. | Juan Cruz-Benito (2016). Systematic Literature Review & Mapping | <a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ec8dnIh50vBJtkDLbrRBRNUBjNzSpEGXFqi4n4l5A4I2dg?e=rD6kH5" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 |8.| **Busse, C., August, E.** (2021). How to Write and Publish a Research Paper for a Peer-Reviewed Journal. J Canc Educ 36, 909–913 (2021). https://doi.org/10.1007/s13187-020-01751-z | <a href="https://doi.org/10.1007/s13187-020-01751-z" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
+|9.| Google Scholar Metrics | <a href="https://scholar.google.com.ec/citations?view_op=metrics_intro&hl=en" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
