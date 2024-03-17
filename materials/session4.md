@@ -13,7 +13,7 @@
 
 ## Student info
 
-| No. | Student Name                           | Supervisor_Name                      |
+| No. | Student Name                           | Supervisor Name                      |
 |-----|--------------------------------|--------------------------------------|
 | 1   | AYEMOWA MATTHEW OJO            | PROF. ROLLIANA IBRAHIM             |
 | 2   | CUI CUI                        | PROF DR. MOHD SHAHRIZAL BIN SUNAR  |
