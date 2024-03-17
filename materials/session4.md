@@ -11,6 +11,30 @@
 
 # Session 4: Mentoring Session
 
+## Student info
+
+| No. | Student Name                           | Supervisor_Name                      |
+|-----|--------------------------------|--------------------------------------|
+| 1   | AYEMOWA MATTHEW OJO            | PROF. ROLLIANA IBRAHIM             |
+| 2   | CUI CUI                        | PROF DR. MOHD SHAHRIZAL BIN SUNAR  |
+| 3   | DARMAWAN SATYANANDA            | TS. DR. SARINA BINTI SULAIMAN       |
+| 4   | ZHANJINGCHUN                   | DR. GOH EG SU                       |
+| 5   | JUNIARDI NUR FADILA            | TS. DR. NUR HALIZA ABDUL WAHAB     |
+| 6   | SAIDU ABUBAKAR                 | PROF. KAMARULNIZAM BIN ABU BAKAR    |
+| 7   | MUHAMMAD HARISQ                | PROF AZLAN MOHD ZAIN                |
+| 8   | MUHAMMAD ANWAR BIN AHMAD       | DR. NORHAIDA MOHD SUAIB            |
+| 9   | MUHAMMAD ANWAR HUSSAIN         | DR. SARINA SULAIMAN                 |
+| 10  | MIHRAN ABDULRAHIM MUHAMMED     | DR. AIDA BINTI ALI                 |
+| 11  | NUR ATIQAH BINTI MOHD FUA'AD   | DR. JOHANNA BINTI AHMAD            |
+| 12  | NUR IRDINA BINTI AHMAD RIFDI   | PROF DR MOHD SHAHRIZAL BIN SUNAR    |
+| 13  | NURHAFIYAH HAZWANI BINTI HARIS FADZILLAH | DR. NUR ZURAIFAH SYAZRAH BINTI OTHMAN |
+| 14  | NUR SHAHIRAH BINTI JAILANI     | PROF. MADYA. DR. MOHD. MURTADHA BIN MOHAMAD |
+| 15  | SITI ZALEHA BINTI HARUN        | PM. DR. NORAFIDA BTE ITHNIN         |
+| 16  | SIMON CHONG KAI YUEN           | TS. DR. GOH EG SU                   |
+| 17  | MUHAMMAD FARIS FAISAL BIN AHMAD RADDI | ASSOC. PROF. ROHAYANTI BINTI HASSAN |
+
+Let me know if there's anything else you'd like to modify!
+
 ### Learning Materials
 
 | No  | Title                                                    | File                                | 
