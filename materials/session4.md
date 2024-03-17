@@ -33,8 +33,6 @@
 | 16  | SIMON CHONG KAI YUEN           | TS. DR. GOH EG SU                   |
 | 17  | MUHAMMAD FARIS FAISAL BIN AHMAD RADDI | ASSOC. PROF. ROHAYANTI BINTI HASSAN |
 
-Let me know if there's anything else you'd like to modify!
-
 ### Learning Materials
 
 | No  | Title                                                    | File                                | 
