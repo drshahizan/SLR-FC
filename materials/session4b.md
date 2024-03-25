@@ -38,15 +38,15 @@
 1. **Assess Study Quality**:
    - **Validity and Reliability**: Assessing the quality of studies involves evaluating their methodological soundness and the trustworthiness of their findings.
    - **Quality Assessment Tools**: Use standardized tools to grade each study, such as the Cochrane Risk of Bias tool for randomized controlled trials.
-   - **Bias Identification**: Identify various types of bias, such as selection, performance, detection, and reporting biases, and assess their impact on the study's results⁵.
+   - **Bias Identification**: Identify various types of bias, such as selection, performance, detection, and reporting biases, and assess their impact on the study's results.
 
 2. **Extract Data**:
    - **Data Collection**: Skim the full text of included articles to collect information in a structured format, often using a data extraction table.
-   - **Information Selection**: Decide on the types of information to extract from each study, which may include study characteristics, outcomes, methodologies, and results⁸.
+   - **Information Selection**: Decide on the types of information to extract from each study, which may include study characteristics, outcomes, methodologies, and results.
    - **Accuracy**: Ensure accuracy by having two or more people extract data from each study, and review the collected data for errors⁸.
 
 3. **Synthesize Data**:
-   - **Integration and Analysis**: Combine the data from the selected studies, which may involve statistical techniques like meta-analysis, thematic analysis, or narrative synthesis².
+   - **Integration and Analysis**: Combine the data from the selected studies, which may involve statistical techniques like meta-analysis, thematic analysis, or narrative synthesis.
    - **Drawing Conclusions**: Use the synthesized data to draw meaningful conclusions, identify patterns, or explore variations in the evidence.
    - **Reporting Findings**: Present the findings in an organized and transparent manner, often including tables, figures, or narrative summaries.
 
