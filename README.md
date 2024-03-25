@@ -21,9 +21,6 @@
 | 4b | [Mentoring Session: Quality assessment](./materials/session4b.md)                                       | 26 Mac 2024  | 
 | 4c | [Mentoring Session: Writing and Publishing SLR](./materials/session4c.md)                                       | 2 April 2024  | 
 
-Session 4c: Mentoring Session - Writing and Publishing SLR
-
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
 
