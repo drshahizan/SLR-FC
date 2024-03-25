@@ -43,7 +43,7 @@
 2. **Extract Data**:
    - **Data Collection**: Skim the full text of included articles to collect information in a structured format, often using a data extraction table.
    - **Information Selection**: Decide on the types of information to extract from each study, which may include study characteristics, outcomes, methodologies, and results.
-   - **Accuracy**: Ensure accuracy by having two or more people extract data from each study, and review the collected data for errors⁸.
+   - **Accuracy**: Ensure accuracy by having two or more people extract data from each study, and review the collected data for errors.
 
 3. **Synthesize Data**:
    - **Integration and Analysis**: Combine the data from the selected studies, which may involve statistical techniques like meta-analysis, thematic analysis, or narrative synthesis.
