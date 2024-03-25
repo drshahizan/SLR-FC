@@ -34,38 +34,23 @@
 | 17  | MUHAMMAD FARIS FAISAL BIN AHMAD RADDI | ASSOC. PROF. ROHAYANTI BINTI HASSAN |
 
 ## Activities
-Here's a detailed explanation of these steps in a Systematic Literature Review (SLR):
 
 1. **Assess Study Quality**:
-   - **Validity and Reliability**: Assessing the quality of studies involves evaluating their methodological soundness and the trustworthiness of their findings⁵.
-   - **Quality Assessment Tools**: Use standardized tools to grade each study, such as the Cochrane Risk of Bias tool for randomized controlled trials⁵.
+   - **Validity and Reliability**: Assessing the quality of studies involves evaluating their methodological soundness and the trustworthiness of their findings.
+   - **Quality Assessment Tools**: Use standardized tools to grade each study, such as the Cochrane Risk of Bias tool for randomized controlled trials.
    - **Bias Identification**: Identify various types of bias, such as selection, performance, detection, and reporting biases, and assess their impact on the study's results⁵.
 
 2. **Extract Data**:
-   - **Data Collection**: Skim the full text of included articles to collect information in a structured format, often using a data extraction table⁸.
+   - **Data Collection**: Skim the full text of included articles to collect information in a structured format, often using a data extraction table.
    - **Information Selection**: Decide on the types of information to extract from each study, which may include study characteristics, outcomes, methodologies, and results⁸.
    - **Accuracy**: Ensure accuracy by having two or more people extract data from each study, and review the collected data for errors⁸.
 
 3. **Synthesize Data**:
    - **Integration and Analysis**: Combine the data from the selected studies, which may involve statistical techniques like meta-analysis, thematic analysis, or narrative synthesis².
-   - **Drawing Conclusions**: Use the synthesized data to draw meaningful conclusions, identify patterns, or explore variations in the evidence².
-   - **Reporting Findings**: Present the findings in an organized and transparent manner, often including tables, figures, or narrative summaries³.
+   - **Drawing Conclusions**: Use the synthesized data to draw meaningful conclusions, identify patterns, or explore variations in the evidence.
+   - **Reporting Findings**: Present the findings in an organized and transparent manner, often including tables, figures, or narrative summaries.
 
 These steps are integral to the SLR process, ensuring that the review is comprehensive, objective, and provides a clear synthesis of the available evidence.
-
-Source: Conversation with Bing, 25/03/2024
-(1) Systematic Reviews: Step 6: Assess Quality of Included Studies - LibGuides. https://guides.lib.unc.edu/systematic-reviews/quality-assessment.
-(2) Systematic Reviews: Step 7: Extract Data from Included Studies - LibGuides. https://guides.lib.unc.edu/systematic-reviews/data-extraction.
-(3) Systematic Literature Review. https://ptar.uitm.edu.my/libguides/subjects/guide.php?subject=slr.
-(4) Converting from LR to SLR | Systematic Literature Review (SLR). https://drshahizan.gitbook.io/slr/literature-review-and-slr/converting-from-lr-to-slr.
-(5) Guidance on Conducting a Systematic Literature Review. https://journals.sagepub.com/doi/full/10.1177/0739456X17723971.
-(6) The Art of Conducting a Systematic Literature Review (SLR). https://www.researchvoyage.com/conducting-systematic-literature-review-slr/.
-(7) PRM269 - SYSTEMATIC LITERATURE REVIEW (SLR) EVALUATING QUALITY .... https://www.valueinhealthjournal.com/article/S1098-3015%2818%2936283-1/fulltext.
-(8) (PDF) A Quality Assessment Instrument for Systematic ... - ResearchGate. https://www.researchgate.net/publication/354765980_A_Quality_Assessment_Instrument_for_Systematic_Literature_Reviews_in_Software_Engineering.
-(9) NLP-powered data extraction for SLRs and meta-analyses - CapeStart. https://www.capestart.com/resources/blog/natural-language-processing-powered-data-extraction-for-slrs-and-meta-analyses/.
-(10) NLP-Powered Data Extraction for SLRs and Meta-Analyses. https://pub.towardsai.net/nlp-powered-data-extraction-for-slrs-and-meta-analyses-252d898d8ec3.
-(11) undefined. https://doi.org/10.1177/0739456X17723971.
-(12) undefined. https://kib.ki.se/en/search-evaluate/systematic-reviews.
 
 ## Learning Materials
 
