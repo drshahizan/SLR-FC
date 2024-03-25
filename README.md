@@ -17,8 +17,12 @@
 | 1b (advance) | [Advanced AI Tools for Literature Review Course](./materials/session1b.md) | 4 and 5 Feb 2024                   | 
 | 2       | [SLR Mastery: From Theory to Practice](./materials/session2.md)                     | 18 Feb 2024  and 3 Mac 2024 | 
 | 3       | [Mastering the Art of Crafting a SLR](./materials/session3.md)    | 5 Mac 2024                  | 
-| 4a (step 1)      | [Mentoring Session: Search and screen for Literature](./materials/session4a.md)                                       | 19 Mac 2024  | 
-| 4b (step 2)     | [Mentoring Session: Quality assessment](./materials/session4b.md)                                       | 19 Mac 2024  | 
+| 4a | [Mentoring Session: Search and screen for Literature](./materials/session4a.md)                                       | 19 Mac 2024  | 
+| 4b | [Mentoring Session: Quality assessment](./materials/session4b.md)                                       | 26 Mac 2024  | 
+| 4c | [Mentoring Session: Writing and Publishing SLR](./materials/session4c.md)                                       | 2 April 2024  | 
+
+Session 4c: Mentoring Session - Writing and Publishing SLR
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
