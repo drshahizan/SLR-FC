@@ -13,7 +13,7 @@
 
 ## Student info
 
-| No. | Student Name                           | Supervisor Name                      |
+| No. | Student Name | Supervisor Name |
 |-----|--------------------------------|--------------------------------------|
 | 1   | AYEMOWA MATTHEW OJO            | PROF. ROLLIANA IBRAHIM             |
 | 2   | CUI CUI                        | PROF DR. MOHD SHAHRIZAL BIN SUNAR  |
@@ -33,7 +33,31 @@
 | 16  | SIMON CHONG KAI YUEN           | TS. DR. GOH EG SU                   |
 | 17  | MUHAMMAD FARIS FAISAL BIN AHMAD RADDI | ASSOC. PROF. ROHAYANTI BINTI HASSAN |
 
-### Learning Materials
+## Activities
+
+1. **Formulate a Research Question**:
+   - **Using PICO**: The PICO framework helps to structure a research question by focusing on the Population, Intervention, Comparison, and Outcomes.
+   - **Clarity and Focus**: The question should be clear and focused, often addressing a specific issue or aspect of the topic.
+   - **Answerable**: It should be structured in a way that makes it possible to find an answer through a systematic search and review of the literature.
+
+2. **Develop a Protocol**:
+   - **Review's Methodology**: This includes the rationale for the review, hypotheses or objectives, and the criteria for considering studies for the review.
+   - **Inclusion and Exclusion Criteria**: Clearly define what types of studies will be included or excluded, based on factors like study design, population, interventions, outcomes, and publication status.
+   - **Quality Assurance**: The protocol acts as a plan to guide the review and ensure consistency and transparency in the process.
+
+3. **Search for Literature**:
+   - **Comprehensive Search**: Use a combination of keywords and database-specific search terms to conduct a thorough search across multiple databases and sources.
+   - **Documenting the Search**: Keep a record of the search strategy, including the databases searched, the date of search, and the number of results obtained.
+   - **Managing Results**: Use tools or software to manage the search results, which can include thousands of studies.
+
+4. **Screen the Literature**:
+   - **Initial Screening**: Review titles and abstracts to determine if they meet the inclusion criteria. This is often done by more than one reviewer to reduce bias.
+   - **Secondary Screening**: Review the full texts of selected studies to ensure they meet all the criteria.
+   - **Record Keeping**: Maintain detailed records of the screening process, including reasons for excluding studies.
+
+These steps are foundational to conducting a rigorous and systematic literature review, ensuring that the review is comprehensive, unbiased, and replicable.
+
+## Learning Materials
 
 | No  | Title                                                    | File                                | 
 |---------:|----------------------------------------------------------|-------------------------------------|
@@ -51,6 +75,7 @@
 |12.| **Mengist, W., Soromessa, T., & Legese, G.** (2020). *Method for conducting systematic literature review and meta-analysis for environmental science research*. MethodsX, 7. | <a href="https://www.sciencedirect.com/science/article/pii/S221501611930353X" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 |13.| **Silva, R. L. S., & Weidt Neiva, F.** (2016). Systematic Literature Review in Computer Science - A Practical Guide. Report number: 002/2016. Federal University of Juiz de Fora| <a href="https://www.researchgate.net/publication/320704338_Systematic_Literature_Review_in_Computer_Science_-_A_Practical_Guide" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
 |14.| **Carrera-Rivera, A., Ochoa, W., Larrinaga, F., & Lasa, G.** (2022). How to conduct a systematic literature review: A quick guide for computer science research. *MethodsX*, *9*, 101895. https://doi.org/10.1016/j.mex.2022.101895| <a href="https://doi.org/10.1016/j.mex.2022.101895" ><img src="../images/rfp.png" width="24px" height="24px" ></a>|
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
