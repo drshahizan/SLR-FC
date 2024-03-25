@@ -35,22 +35,19 @@
 
 ## Activities
 
-1. **Assess Study Quality**:
-   - **Validity and Reliability**: Assessing the quality of studies involves evaluating their methodological soundness and the trustworthiness of their findings.
-   - **Quality Assessment Tools**: Use standardized tools to grade each study, such as the Cochrane Risk of Bias tool for randomized controlled trials.
-   - **Bias Identification**: Identify various types of bias, such as selection, performance, detection, and reporting biases, and assess their impact on the study's results⁵.
+1. **Write the Report**:
+   - **Documenting the Process**: Clearly describe the methodology, including the search strategy, selection criteria, and methods used for data extraction and synthesis.
+   - **Presenting Findings**: Summarize the main results, including the study characteristics and the evidence's strength and limitations⁴.
+   - **Discussing Conclusions**: Interpret the findings in the context of the existing literature, discussing the implications for practice, policy, and future research.
+   - **Ensuring Transparency**: Provide enough detail to allow readers to assess the validity of the findings and the review's reliability⁵.
 
-2. **Extract Data**:
-   - **Data Collection**: Skim the full text of included articles to collect information in a structured format, often using a data extraction table.
-   - **Information Selection**: Decide on the types of information to extract from each study, which may include study characteristics, outcomes, methodologies, and results⁸.
-   - **Accuracy**: Ensure accuracy by having two or more people extract data from each study, and review the collected data for errors⁸.
+2. **Publish and Disseminate**:
+   - **Choosing the Right Journal**: Select an appropriate journal that reaches the intended audience and aligns with the review's subject area.
+   - **Following Guidelines**: Adhere to reporting guidelines such as PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) for structuring the report.
+   - **Engaging Stakeholders**: Share the findings with policymakers, practitioners, and other stakeholders who can use the information to make informed decisions.
+   - **Promoting Accessibility**: Consider open-access publication options to ensure the review is accessible to a wider audience.
 
-3. **Synthesize Data**:
-   - **Integration and Analysis**: Combine the data from the selected studies, which may involve statistical techniques like meta-analysis, thematic analysis, or narrative synthesis².
-   - **Drawing Conclusions**: Use the synthesized data to draw meaningful conclusions, identify patterns, or explore variations in the evidence.
-   - **Reporting Findings**: Present the findings in an organized and transparent manner, often including tables, figures, or narrative summaries.
-
-These steps are integral to the SLR process, ensuring that the review is comprehensive, objective, and provides a clear synthesis of the available evidence.
+These steps are essential to ensure that the SLR has a real-world impact, guiding evidence-based practice and informing future research directions.
 
 ## Learning Materials
 
