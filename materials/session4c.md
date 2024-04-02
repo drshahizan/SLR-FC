@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
-<img src="https://github.com/drshahizan/SLR-FC/blob/main/images/slr_stage4b.jpeg"  height="400" />  
+<img src="https://github.com/drshahizan/SLR-FC/blob/main/images/slr_stage4c.jpeg"  height="400" />  
 </p>
 
 # Session 4c: Mentoring Session - Writing and Publishing SLR
