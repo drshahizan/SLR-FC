@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Systematic Literature Review (SLR) Using AI
+# Unlocking Scholarly Insights: How AI Enhances Literature Reviews
 
 <p align="center">
 <img src="/images/all%20slr.jpeg"  height="500" />
