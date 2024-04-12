@@ -9,7 +9,7 @@
 
 | **AI Tool** | **Description** |
 | --- | --- |
-| **[HyperWrite's AI Literature Review Generator](https://www.hyperwriteai.com/aitools/ai-literature-review-generator)** | Automates the creation of literature reviews, identifying key themes, methodologies, findings, and gaps in research. |
+| **[HyperWrite's](https://www.hyperwriteai.com/aitools/ai-literature-review-generator)** | HyperWrite's AI Literature Review Generator is a revolutionary tool that automates the process of creating a comprehensive literature review. Powered by the most advanced AI models, this tool can search and analyze scholarly articles, books, and other resources to identify key themes, methodologies, findings, and gaps in existing research. |
 | **[Research Gaps Suggester – TEXTIFY](https://textify.ai/research-gaps-suggester/)** | Generates a specified number of research gaps to explore on a given topic. |
 | **[SciSpace](https://typeset.io/)** | Offers AI tools for literature review, including finding new, connected papers using a visual graph. |
 | **[Research Rabbit](https://www.researchrabbit.ai/)** | Research Rabbit is a research discovery tool that helps you find new, connected papers using a visual graph. You can essentially create maps around metadata, which helps you not only explore similar papers but also connections between them.  |
