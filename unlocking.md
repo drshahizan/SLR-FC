@@ -8,7 +8,7 @@
 # Unlocking Scholarly Insights: How AI Enhances Literature Reviews
 
 <p align="center">
-<img src="/images/all%20slr.jpeg"  height="500" />
+<img src="/images/"  height="500" />
 </p>
 
 | Session | Topic                                                    | Date | 
