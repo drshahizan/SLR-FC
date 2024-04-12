@@ -11,6 +11,16 @@
 <img src="/images/"  height="500" />
 </p>
 
+The title "Unlocking Scholarly Insights: How AI Enhances Literature Reviews" defines an exploration of how Artificial Intelligence (AI) is revolutionizing the way researchers conduct literature reviews. 
+
+Here's a breakdown of the key elements:
+
+* **Unlocking Scholarly Insights:** This refers to uncovering new knowledge and understanding within a particular field of study. Traditionally, literature reviews involve manually sifting through a vast amount of academic publications. 
+* **AI Enhances Literature Reviews:** This suggests that AI technologies are augmenting the literature review process, making it more efficient and potentially more insightful.
+
+In essence, the title highlights the potential of AI to unlock a new level of scholarly understanding by improving the way researchers analyze existing academic literature.
+
+
 | Session | Topic                                                    | Date | 
 |:---------:|----------------------------------------------------------|-------------------------------------|
 | 1a (basic) | [AI Tools for Literature Review](./materials/session1a.md) | 23 and 24 Jan 2024                   | 
