@@ -19,6 +19,25 @@ The title "Unlocking Scholarly Insights: How AI Enhances Literature Reviews" def
 In essence, the title highlights the potential of AI to unlock a new level of scholarly understanding by improving the way researchers analyze existing academic literature.
 
 
+The term "Unlocking Scholarly Insights: How AI Enhances Literature Reviews" refers to the use of artificial intelligence to improve the efficiency and effectiveness of literature reviews in academic research. Here's a definition based on the information available:
+
+**Artificial Intelligence for Literature Reviews** involves the application of AI techniques to **systematic literature reviews (SLRs)**, which are structured methodologies for assessing and integrating research on a specific topic¹. AI can assist in the semi-automation of SLRs, particularly in the screening and extraction phases, by using tools that combine traditional features with AI capabilities¹.
+
+The **role of AI** in this context includes:
+1. **Efficient Literature Search**: AI-driven tools can rapidly retrieve relevant academic literature based on user-defined queries.
+2. **Paper Summarization**: AI can generate concise summaries of research papers, highlighting key findings and conclusions.
+3. **Citation Analysis**: AI can analyze citation networks to identify influential works and research trends.
+4. **Topic Modeling**: AI-driven techniques can identify and categorize key topics within a collection of research papers².
+
+These AI-powered capabilities address challenges such as the vast volume of literature, time-consuming review processes, human error, and resource intensity, thereby revolutionizing the traditional approach to conducting literature reviews².
+
+Source: Conversation with Bing, 12/04/2024
+(1) [2402.08565] Artificial Intelligence for Literature Reviews .... https://arxiv.org/abs/2402.08565.
+(2) Automated Literature Review with AI: Revolutionizing Research ... - Medium. https://medium.com/@blog.docubaat/automated-literature-review-with-ai-revolutionizing-research-efficiency-463f0e329b4e.
+(3) Unlocking the Potential: Literature Review on the Evolving Role of AI .... https://www.paradigmpress.org/fms/article/download/1001/872/1155.
+(4) arXiv:2402.08565v1 [cs.AI] 13 Feb 2024. https://arxiv.org/pdf/2402.08565.pdf.
+(5) undefined. https://doi.org/10.48550/arXiv.2402.08565.
+
 | Session | Topic                                                    | Date | 
 |:---------:|----------------------------------------------------------|-------------------------------------|
 | 1a (basic) | [AI Tools for Literature Review](./materials/session1a.md) | 23 and 24 Jan 2024                   | 
