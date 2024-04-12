@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# AI tools that can help researchers identify gaps in existing literature:
+# AI Tools for Identifying Research Gaps
 
 | **AI Tool** | **Description** |
 | --- | --- |
@@ -13,6 +13,10 @@
 | **[Research Gaps Suggester – TEXTIFY](https://textify.ai/research-gaps-suggester/)** | Generates a specified number of research gaps to explore on a given topic. |
 | **[SciSpace](https://typeset.io/)** | Offers AI tools for literature review, including finding new, connected papers using a visual graph. |
 | **[Research Rabbit](https://www.researchrabbit.ai/)** | Research Rabbit is a research discovery tool that helps you find new, connected papers using a visual graph. You can essentially create maps around metadata, which helps you not only explore similar papers but also connections between them.  |
+| **[Semantic Scholar](https://www.semanticscholar.org/)** | Offers AI-powered "augmented reader" to analyze research paper structure, highlight key information, and connect to relevant articles, revealing potential areas for further study. | 
+| **[Dimensions](https://www.dimensions.ai/)** | AI-powered literature search tool that analyzes vast amounts of scholarly articles to identify research trends and connections. Highlights under-investigated areas or emerging topics, pinpointing gaps in current understanding. |
+| **[Scite](https://scite.ai/partners/publishers)** | Analyzes the quality and credibility of research papers. While not directly identifying gaps, Scite's analysis of existing research limitations can point researchers towards areas needing more information or investigation. |
+
 
 These tools are designed to enhance the literature review process by providing insights into areas that may require further investigation. Remember to critically assess the output of these tools to ensure they align with your research goals.
 
