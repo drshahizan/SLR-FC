@@ -15,6 +15,27 @@
 | Connected Papers | Free tool that allows you to visually explore the relationships between different research papers. Creates a network graph where each node represents a paper and the edges between nodes represent citations. Helpful way to find new papers that are related to the research you are already familiar with. |
 
 
+| AI Tool | Description |
+| --- | --- |
+| **Semantic Scholar** | An AI-powered tool that uses sophisticated search engines to quickly identify relevant papers. |
+| **elicit.org** | This tool can mine key information from countless PDFs, drastically reducing research time. |
+| **HyperWrite's AI Literature Review Generator** | This tool automates the process of creating a comprehensive literature review. |
+| **HeyGPT** | A ChatGPT interface that can do things that ChatGPT cannot, making it valuable for researchers. |
+| **Research Buddy** | An AI-powered tool that automates the literature review process by quickly searching and categorizing scholarly content. |
+| **SciReviewHub** | An AI-powered research assistant that transforms literature review processes. |
+| **Supersymmetry.ai** | Another AI tool for literature review. |
+
+These tools can significantly enhance the efficiency and effectiveness of literature searches in academic research. They can access extensive databases, provide users with a curated list of relevant papers within seconds, and even generate comprehensive literature reviews.
+
+Source: Conversation with Bing, 13/04/2024
+(1) Literature Search | AI tools | Docs. https://drshahizan.gitbook.io/ai-tools/ai-tools/lit-search.
+(2) The best AI tools for research papers and academic research (Literature .... https://academiainsider.com/ai-tools-for-research-papers-and-academic-research/.
+(3) undefined. https://elicit.org.
+(4) AI Literature Review Generator | Automated literature review creation .... https://www.hyperwriteai.com/aitools/ai-literature-review-generator.
+(5) 70 Best Automated literature search AI tools - 2024. https://topai.tools/s/automated-literature-search.
+(6) undefined. https://www.supersymmetry.ai.
+(7) 16 Best AI Research Tools - morningdough.com. https://www.morningdough.com/ai-tools/best-ai-research-tools/.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
 
