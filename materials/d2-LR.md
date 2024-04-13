@@ -7,7 +7,7 @@
 
 # Top Computer Science Literature Databases
 
-| No.  | Name | Description | Tools |
+| No.  | Name | Description | Link |
 |------: | ------------------|-----|:--------:|
 | 1. | **Scopus** | Scopus is a comprehensive abstract and citation database covering a wide array of research topics across scientific, technical, medical, and social sciences literature. It includes peer-reviewed journals, books, conference proceedings, and more. | <a href="https://www-scopus-com.ezproxy.utm.my/search/form.uri#basic" ><img src="../images/article.png" width="24px" height="24px" ></a> |
 | 2. | **Web of Science** | Web of Science (WoS) is a citation index and abstracting service that indexes scholarly literature from a wide variety of sources, including peer-reviewed journals, books, conference proceedings, and datasets. It is owned and operated by Clarivate Analytics. | <a href="https://www-webofscience-com.ezproxy.utm.my/wos/woscc/basic-search" ><img src="../images/article.png" width="24px" height="24px" ></a> |
