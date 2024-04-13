@@ -7,6 +7,12 @@
 
 # AI Tools for the Efficient Literature Search
 
+| AI Tool | Description | 
+|---|---|
+| Semantic Scholar | AI-powered search engine designed for scientific literature. Uses natural language processing (NLP) to understand the meaning of your search query and retrieves papers that are semantically similar, even if they don't use the exact keywords you entered. |
+| Scite | AI-powered research tool that provides a variety of features to help you with your literature review. One of its most helpful features is its ability to identify and summarize relevant sections of papers based on your search query. |
+| R Discovery | Comprehensive research platform that uses AI to help you find relevant literature, stay up-to-date on the latest research, and collaborate with other researchers. Powerful search engine that can be used to find papers by keyword, author, or topic. |
+| Connected Papers | Free tool that allows you to visually explore the relationships between different research papers. Creates a network graph where each node represents a paper and the edges between nodes represent citations. Helpful way to find new papers that are related to the research you are already familiar with. |
 
 
 ## Contribution 🛠️
