@@ -17,16 +17,9 @@
 | 4. | **Consensus.app** | Consensus.app works by first extracting the key information from research papers. This information includes the paper's title, abstract, keywords, and main findings. The platform then uses AI to summarize this information into a concise and easy-to-understand format. | <a href="https://consensus.app/" ><img src="../images/article.png" width="24px" height="24px" ></a> |
 | 5. | **Elicit** | Elicit is an AI-powered tool that assists researchers in searching for relevant research papers. It uses advanced algorithms to analyse and understand the content of papers, making it easier to find specific information. Elicit uses language models to help you automate research workflows, like parts of literature review. | <a href="https://elicit.com/" ><img src="../images/article.png" width="24px" height="24px" ></a> |
 | 6. | **scite.ai** | Scite.ai is a AI-powered platform that helps researchers evaluate the credibility of research papers. It does this by analyzing the citations of a paper and comparing them to other papers in the same field. One of its most helpful features is its ability to identify and summarize relevant sections of papers based on your search query.| <a href="https://scite.ai/" ><img src="../images/article.png" width="24px" height="24px" ></a> |
-| 7. | **EvidenceHunt** | EvidenceHunt is an AI-powered clinical evidence search engine that helps healthcare professionals find the latest and most relevant evidence quickly and easily. It is based on a large dataset of clinical trials, systematic reviews, and other evidence sources, and uses artificial intelligence to identify and rank the most relevant results for each search query. | <a href="https://evidencehunt.com/" ><img src="../images/article.png" width="24px" height="24px" ></a> |
-
-
-
-| AI Tool | Description |
-| --- | --- |
-| **HeyGPT** | A ChatGPT interface that can do things that ChatGPT cannot, making it valuable for researchers. |
-| **Research Buddy** | An AI-powered tool that automates the literature review process by quickly searching and categorizing scholarly content. |
-| **SciReviewHub** | An AI-powered research assistant that transforms literature review processes. |
-| **Supersymmetry.ai** | Another AI tool for literature review. |
+| 7. | **Research Buddy** | An AI-powered tool that automates the literature review process by quickly searching and categorizing scholarly content. | <a href="https://researchbuddy.app/search" ><img src="../images/article.png" width="24px" height="24px" ></a> |
+| 8. | **Supersymmetry.ai** | Supersymmetry is a semantic search engine for ArXiv papers enhanced with GPT and (now) Claude. Semantic Search is based on the meaning of a paper which is encoded using GPT embeddings. | <a href="https://researchbuddy.app/search" ><img src="../images/article.png" width="24px" height="24px" ></a> |
+| 9. | **EvidenceHunt** | EvidenceHunt is an AI-powered clinical evidence search engine that helps healthcare professionals find the latest and most relevant evidence quickly and easily. It is based on a large dataset of clinical trials, systematic reviews, and other evidence sources, and uses artificial intelligence to identify and rank the most relevant results for each search query. | <a href="https://evidencehunt.com/" ><img src="../images/article.png" width="24px" height="24px" ></a> |
 
 These tools can significantly enhance the efficiency and effectiveness of literature searches in academic research. They can access extensive databases, provide users with a curated list of relevant papers within seconds, and even generate comprehensive literature reviews.
 
