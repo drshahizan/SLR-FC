@@ -35,7 +35,13 @@ Overall, AI-powered Literature Review significantly streamlines the information 
 * **Challenge:**  Keeping up with the rapidly evolving field of IoT security protocols requires constant monitoring of new research and advancements. Traditional literature searches might miss crucial developments.
 * **AI-powered Solution:** An AI tool can be set up to continuously monitor relevant databases and provide real-time notifications whenever new research on secure IoT communication protocols is published. This allows the computer scientist to stay at the forefront of the field and adapt their research direction accordingly.
 
-These are just two examples of how AI-powered literature review can be applied in data science and computer science. This approach offers significant benefits across various academic disciplines, accelerating research progress and fostering new discoveries.
+This approach offers significant benefits across various academic disciplines, accelerating research progress and fostering new discoveries.
 
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/MCSD1043/issues) for any improvements, suggestions or errors in the content.
 
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
 
