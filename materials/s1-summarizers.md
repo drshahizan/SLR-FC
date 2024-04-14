@@ -27,6 +27,7 @@ The benefits of AI text summarization extend across various fields:
 
 As AI technology continues to evolve, text summarization tools will become increasingly sophisticated. They will be able to generate even more accurate and nuanced summaries, potentially tailored to specific user needs. This will further empower individuals and organizations to navigate the ever-growing sea of information with greater efficiency and focus.
 
+## AI Tools
 
 | No.  | Name | Description | Info | Tools |
 |------: | ------------------|-----|:--------:|:--------:|
