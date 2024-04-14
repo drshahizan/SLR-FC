@@ -15,7 +15,6 @@
 | **[SciSpace](https://typeset.io/)** | Offers AI tools for literature review, including finding new, connected papers using a visual graph. |
 | **[Research Rabbit](https://www.researchrabbit.ai/)** | Research Rabbit is a research discovery tool that helps you find new, connected papers using a visual graph. You can essentially create maps around metadata, which helps you not only explore similar papers but also connections between them.  |
 | **[Semantic Scholar](https://www.semanticscholar.org/)** | Offers AI-powered "augmented reader" to analyze research paper structure, highlight key information, and connect to relevant articles, revealing potential areas for further study. | 
-| **[Dimensions](https://www.dimensions.ai/)** | AI-powered literature search tool that analyzes vast amounts of scholarly articles to identify research trends and connections. Highlights under-investigated areas or emerging topics, pinpointing gaps in current understanding. |
 | **[Scite](https://scite.ai/partners/publishers)** | Analyzes the quality and credibility of research papers. While not directly identifying gaps, Scite's analysis of existing research limitations can point researchers towards areas needing more information or investigation. |
 |**[Taskade](https://www.taskade.com/)**|Taskade’s AI Literature Review Generator2: This tool provides comprehensive and meticulously curated literature reviews to elevate your research2.|
 
