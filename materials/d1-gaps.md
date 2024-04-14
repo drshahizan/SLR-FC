@@ -11,13 +11,11 @@
 | --- | --- |
 | **[HyperWrite's](https://www.hyperwriteai.com/aitools/ai-literature-review-generator)** | HyperWrite's AI Literature Review Generator is a revolutionary tool that automates the process of creating a comprehensive literature review. Powered by the most advanced AI models, this tool can search and analyze scholarly articles, books, and other resources to identify key themes, methodologies, findings, and gaps in existing research. |
 |**[LitMaps](https://www.litmaps.com/)**|This tool creates visual maps of research topics based on AI analysis of scholarly articles. These maps can reveal under-explored areas within the topic.|
-| **[Textify](https://textify.ai/research-gaps-suggester/)** | The Research Gaps Suggester is a cutting-edge tool designed to assist researchers in identifying research gaps in a given topic. By inputting the desired topic, users can generate a specified number of research gaps to explore. |
 | **[SciSpace](https://typeset.io/)** | Offers AI tools for literature review, including finding new, connected papers using a visual graph. |
 | **[Research Rabbit](https://www.researchrabbit.ai/)** | Research Rabbit is a research discovery tool that helps you find new, connected papers using a visual graph. You can essentially create maps around metadata, which helps you not only explore similar papers but also connections between them.  |
 | **[Semantic Scholar](https://www.semanticscholar.org/)** | Offers AI-powered "augmented reader" to analyze research paper structure, highlight key information, and connect to relevant articles, revealing potential areas for further study. | 
 | **[Scite](https://scite.ai/partners/publishers)** | Analyzes the quality and credibility of research papers. While not directly identifying gaps, Scite's analysis of existing research limitations can point researchers towards areas needing more information or investigation. |
-|**[Taskade](https://www.taskade.com/)**|Taskade’s AI Literature Review Generator2: This tool provides comprehensive and meticulously curated literature reviews to elevate your research2.|
-
+|**[Taskade](https://www.taskade.com/)**|Taskade’s AI Literature Review Generator2: This tool provides comprehensive and meticulously curated literature reviews to elevate your research.|
 
 These tools are designed to enhance the literature review process by providing insights into areas that may require further investigation. Remember to critically assess the output of these tools to ensure they align with your research goals.
 
