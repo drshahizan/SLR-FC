@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# AI Tools for the Efficient Literature Search
+# AI Tools for Paper Discovery
 
 | No.  | Name | Description | Tools |
 |------: | ------------------|-----|:--------:|
@@ -20,6 +20,8 @@
 | 7. | **Research Buddy** | An AI-powered tool that automates the literature review process by quickly searching and categorizing scholarly content. | <a href="https://researchbuddy.app/search" ><img src="../images/article.png" width="24px" height="24px" ></a> |
 | 8. | **Supersymmetry.ai** | Supersymmetry is a semantic search engine for ArXiv papers enhanced with GPT and (now) Claude. Semantic Search is based on the meaning of a paper which is encoded using GPT embeddings. | <a href="https://researchbuddy.app/search" ><img src="../images/article.png" width="24px" height="24px" ></a> |
 | 9. | **EvidenceHunt** | EvidenceHunt is an AI-powered clinical evidence search engine that helps healthcare professionals find the latest and most relevant evidence quickly and easily. It is based on a large dataset of clinical trials, systematic reviews, and other evidence sources, and uses artificial intelligence to identify and rank the most relevant results for each search query. | <a href="https://evidencehunt.com/" ><img src="../images/article.png" width="24px" height="24px" ></a> |
+
+| 3. | Humata AI | Scopus is a citation index and abstracting service that indexes scholarly literature from a wide variety of sources, including peer-reviewed journals, books, conference proceedings, and datasets. |<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/paper-discovery/humata-ai" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.humata.ai/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
 
 These tools can significantly enhance the efficiency and effectiveness of literature searches in academic research. They can access extensive databases, provide users with a curated list of relevant papers within seconds, and even generate comprehensive literature reviews.
 
