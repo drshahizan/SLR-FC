@@ -49,8 +49,8 @@ The phrase "Unlocking Scholarly Insights: How AI Enhances Literature Reviews" su
 
 In essence, AI has the potential to transform the traditional literature review process, making it more efficient and comprehensive. However, it's important to note that while AI can greatly assist in the review process, critical thinking and human judgment remain essential to interpret and evaluate the findings.
 
-| Session | Topic                                                    | Date | 
-|:---------:|----------------------------------------------------------|-------------------------------------|
+| Session | Topic                                                    | 
+|:---------:|----------------------------------------------------------|
 | 1a (basic) | [AI Tools for Literature Review](./materials/session1a.md) | 23 and 24 Jan 2024                   | 
 | 1b (advance) | [Advanced AI Tools for Literature Review Course](./materials/session1b.md) | 4 and 5 Feb 2024                   | 
 | 2       | [SLR Mastery: From Theory to Practice](./materials/session2.md)                     | 18 Feb 2024  and 3 Mac 2024 | 
