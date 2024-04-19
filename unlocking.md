@@ -49,6 +49,39 @@ The phrase "Unlocking Scholarly Insights: How AI Enhances Literature Reviews" su
 
 In essence, AI has the potential to transform the traditional literature review process, making it more efficient and comprehensive. However, it's important to note that while AI can greatly assist in the review process, critical thinking and human judgment remain essential to interpret and evaluate the findings.
 
+## Materials
+| No | Lesson | Topic |
+|--------|---------|---------|
+| 1. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
+| 2. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
+|  |  | [ChatGPT Expert Prompts](./materials/prompt.md)|
+|  |  | [ChatGPT Prompts For Research Papers](./materials/prompt_research.md)|
+|  |  | [ChatGPT Prompts for Academic Writing](./materials/prompt_academic.md)|
+|  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
+|  |  | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
+|  |  | [Chat with Copilot regarding the PDF file](./materials/copilot.md)|
+| 3. | Copywriting| [Role of Copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) |
+|  | | [Case study: ⚽ My Bola](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/case-study/copywriting) |
+| 4. | Image Creator | [Bing's Image Creator](./materials/bing_image.md) |
+|  |  | [Prompt: Malaysian Cultural Artistry](./materials/drawing.md) |
+|  |  | [Image Prompt Generator](https://aivyx.com/bing-create-prompt-generator/) |
+| 5. | AI Tools| [AI Tools for Literature Review](https://drshahizan.gitbook.io/ai-tools/) |
+|  | | [Useful AI Tools](./materials/aitools.md) |
+|||[AI Tools for Various Tasks](./materials/aitools1.md)|
+| 6. | AI Show Case | [Future of Work](./images/Future%20of%20Work%20.pdf) |
+|||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
+|||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
+||| [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
+| 7. | AI Apps| [Roam Around](https://www.roamaround.io/) |
+|  | | [10 Website AI Terbaik Buat Kamu Gunakan di 2024](https://www.facebook.com/reel/671923085023778) |
+||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
+||| [Cara Bikin Konten AI VIRAL dengan Bing Chat + CapCut](https://youtu.be/ed30BLkVpis?si=Z6XmTWxVO1PC_kyv)|
+||| [10 Best AI Presentation Generators](https://www.unite.ai/best-ai-presentation-generators/)|
+||| [Penyampai Radio AI Yang Pertama Di Malaysia](https://says.com/my/seismik/kenali-aina-sabrina-dj-fly-fm-juga-ai-yang-pertama-di-malaysia-sebagai-penyampai-radio)|
+|||[Sora](https://openai.com/sora)|
+
+
+
 | Session | Topic                                                    | 
 |:---------:|----------------------------------------------------------|
 | 1a (basic) | [AI Tools for Literature Review](./materials/session1a.md) | 
