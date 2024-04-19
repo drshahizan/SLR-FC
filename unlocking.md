@@ -52,6 +52,7 @@ In essence, AI has the potential to transform the traditional literature review 
 ## Materials
 | No | Lesson | Topic |
 |--------|---------|---------|
+| 1.| Generative AI|[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 1. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
 | 2. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Expert Prompts](./materials/prompt.md)|
