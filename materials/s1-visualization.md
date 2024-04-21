@@ -16,7 +16,6 @@
 | 5. | Bibliometrix | Bibliometrix is an R-tool for comprehensive science mapping analysis. Bibliometrix is a software that helps you create and explore networks of publications based on citation data.|<a href="https://drshahizan.gitbook.io/ai-tools/ai-tools/paper-visualization/bibliometrix" ><img src="../images/rfp.png" width="24px" height="24px" ></a> | <a href="https://www.bibliometrix.org/home/" ><img src="../images/download.gif" width="24px" height="24px" ></a> |
 
 ## Exercise
-Certainly! Here are five case study prompts for paper visualization using various tools in the context of Computer Science research. Each case study involves leveraging different paper visualization tools to gain insights into research trends, collaborations, and impact:
 
 1. **Open Knowledge Maps: Mapping Trends in Artificial Intelligence (AI) Research:**
    - **Objective:** Utilize Open Knowledge Maps to visually represent trends in AI research over the past decade.
