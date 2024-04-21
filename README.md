@@ -20,7 +20,7 @@ This is an excellent opportunity to be part of the future of academic research, 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
 | 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 2.   | Prompt: ChatGPT, CoPilot, Gemini | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 2.   | Prompt: ChatGPT, CoPilot, Gemini | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-genai.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 3.   | Research Gaps | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 4.   | Paper Discovery | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 5.   | Paper Visualization | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
