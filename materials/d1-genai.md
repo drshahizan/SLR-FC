@@ -108,8 +108,20 @@
 
 ## Document
 
-
-
+| No | Topic                  | Prompt                                                                                                          |
+|----|------------------------|-----------------------------------------------------------------------------------------------------------------|
+| 1  | General                | Generate document summary.                                                                                     |
+| 2  | Summarize Key Points   | Provide a concise summary of the main points or arguments presented in the document.                            |
+| 3  | Identify Themes        | List the central themes or topics covered in the document.                                                      |
+| 4  | Extract Important Data | Highlight any important data, statistics, or figures mentioned in the document.                                 |
+| 5  | Outline Document       | Create an outline that captures the structure of the document, including headings and subheadings.              |
+| 6  | Generate Questions     | Formulate questions that a reader might have when reviewing the document.                                        |
+| 7  | Evaluate Research Methods | Assess the research methodology used in the article, noting its strengths and potential areas for improvement. |
+| 8  | Compare with Related Work | Compare the findings of this article with other similar research works in the field of [research topic].      |
+| 9  | Discuss Implications      | Discuss the practical implications of the research findings for the field of [research topic].               |
+| 10 | Critique the Argument     | Critically analyse the argument or hypothesis presented in the article.                                        |
+| 11 | Highlight Innovations     | Identify any new techniques, algorithms, or theories introduced in the article.                                |
+| 12 | Propose Future Research   | Suggest potential future research directions based on the conclusions of the article.                         |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
