@@ -67,7 +67,25 @@
   with guiding questions and prompts to elaborate on. Offer suggestions for language
   refinement and structural organization to enhance clarity and coherence.
   ```
+#### 3. Enhancing Accessibility
+  ```
+  Summarize the research paper titled [insert paper title here] in a way that is easily
+  understandable for a broad audience. Focus on simplifying the technical language
+  while retaining the core message and significance of the findings. Provide a brief
+  overview of the research question, methodology, results, and conclusions.
+  Additionally, create an FAQ section addressing common questions related to the
+  research topic, with clear and concise answers.
+  ```
 
+#### 4. Visualizations
+  ```
+  Generate visual aids to complement the research findings on [insert specific topic here].
+  Create a series of graphs to represent the data trends and patterns observed.
+  Design charts that summarize the statistical analysis and highlight significant
+  results. If applicable, produce an animation that demonstrates the process or
+  phenomenon studied in the research. Ensure that all visualizations are clear,
+  accurately labeled, and include a brief description explaining their relevance to the research.
+  ```
 
 
 ## Contribution 🛠️
