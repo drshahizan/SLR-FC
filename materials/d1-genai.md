@@ -21,7 +21,7 @@
   ```
 #### 2. Research Infrastructure
   ```
-  Employ generative AI to design an optimal research infrastructure for [Your       Research Field]. 
+  Employ generative AI to design an optimal research infrastructure for [Your Research Field]. 
   Analyze current infrastructure models and predict potential outcomes for various 
   scenarios. Suggest improvements for resource allocation, scalability, and 
   sustainability. Ensure the design incorporates advanced technologies and adheres to 
