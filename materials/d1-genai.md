@@ -1,4 +1,4 @@
-![image](https://github.com/drshahizan/SLR-FC/assets/81284918/6ff54a5b-cafa-4064-8e89-dcf57a57bc9d)![image](https://github.com/drshahizan/SLR-FC/assets/81284918/2f6287fa-e4b2-4455-b8f5-563fc2bc0eb3)![image](https://github.com/drshahizan/SLR-FC/assets/81284918/c3fb3b8f-16e3-48fb-8d0e-4be53f711b89)<a href="https://github.com/drshahizan/SLR-FC/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/SLR-FC" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/SLR-FC/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/SLR-FC" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/SLR-FC/network/members"><img src="https://img.shields.io/github/forks/drshahizan/SLR-FC" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/SLR-FC"><img src="https://img.shields.io/github/issues-pr/drshahizan/SLR-FC" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/SLR-FC/issues"><img src="https://img.shields.io/github/issues/drshahizan/SLR-FC" alt="Issues Badge"/></a>
@@ -19,7 +19,6 @@
   Present the synthesized information in a structured and coherent manner, suitable for informing
   future research directions.
   ```
-
 #### 2. Research Infrastructure
   ```
   Employ generative AI to design an optimal research infrastructure for [Your       Research Field]. 
