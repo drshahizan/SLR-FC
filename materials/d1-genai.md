@@ -58,7 +58,6 @@
   based on the identified gaps and unanswered questions.
   ```
 
-
 #### 2. Drafting Manuscripts
   ```
   Based on the research topic [insert topic here], generate an outline for a theses
@@ -86,6 +85,30 @@
   phenomenon studied in the research. Ensure that all visualizations are clear,
   accurately labeled, and include a brief description explaining their relevance to the research.
   ```
+
+## Image
+
+### Prompt 5: Image
+#### 1. General
+  ```
+  Analyze the uploaded image and provide a detailed description of its contents.
+  Discuss the relevance of the image to the research topic [insert research topic here].
+  Identify any notable features or data presented in the image and explain how they contribute
+  to the understanding of the research findings. Offer insights into how the visual information
+  can be interpreted in the context of the study.
+
+#### 2. Workflow system
+  ```
+  Provide a detailed analysis of the uploaded image depicting a workflow system.   
+  Describe the components and structure of the workflow as shown in the image. 
+  Discuss how each element of the workflow contributes to the overall process 
+  efficiency. Identify any potential bottlenecks or areas for improvement. Compare 
+  the depicted workflow system with standard practices in the industry and suggest 
+  enhancements based on the latest technological advancements.
+
+## Document
+
+
 
 
 ## Contribution 🛠️
