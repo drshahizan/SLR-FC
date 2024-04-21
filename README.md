@@ -49,7 +49,7 @@ This is an excellent opportunity to be part of the future of academic research, 
 | 6. | AI Tools| [AI Tools for Literature Review](https://drshahizan.gitbook.io/ai-tools/) |
 |  | | [Useful AI Tools](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools1.md) |
 |||[AI Tools for Various Tasks](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools1.md)|
-| 7. | AI Show Case | [Future of Work]([.](https://github.com/drshahizan/Generative-AI-Playground/images/Future%20of%20Work%20.pdf) |
+| 7. | AI Show Case | [Future of Work](https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Future%20of%20Work%20.pdf) |
 |||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 | 8. | AI Apps| [Roam Around](https://www.roamaround.io/) |
