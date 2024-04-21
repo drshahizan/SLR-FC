@@ -96,6 +96,7 @@
   Identify any notable features or data presented in the image and explain how they contribute
   to the understanding of the research findings. Offer insights into how the visual information
   can be interpreted in the context of the study.
+  ```
 
 #### 2. Workflow system
   ```
@@ -105,11 +106,12 @@
   efficiency. Identify any potential bottlenecks or areas for improvement. Compare 
   the depicted workflow system with standard practices in the industry and suggest 
   enhancements based on the latest technological advancements.
+  ```
 
 ## Document
 
 | No | Topic                  | Prompt                                                                                                          |
-|----|------------------------|-----------------------------------------------------------------------------------------------------------------|
+|----:|------------------------|-----------------------------------------------------------------------------------------------------------------|
 | 1  | General                | Generate document summary.                                                                                     |
 | 2  | Summarize Key Points   | Provide a concise summary of the main points or arguments presented in the document.                            |
 | 3  | Identify Themes        | List the central themes or topics covered in the document.                                                      |
