@@ -34,6 +34,7 @@ This is an excellent opportunity to be part of the future of academic research, 
 | 1.| Generative AI|[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 2. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
 | 3. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
+|  |  | [Exercise: ChatGPT, CoPilot, Gemini]()|
 |  |  | [ChatGPT Expert Prompts](./materials/prompt.md)|
 |  |  | [ChatGPT Prompts For Research Papers](./materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts for Academic Writing](./materials/prompt_academic.md)|
