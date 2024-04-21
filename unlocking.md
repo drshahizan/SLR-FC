@@ -54,7 +54,7 @@ In essence, AI has the potential to transform the traditional literature review 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
 | 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 2.   | Identifying Research Gaps | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 2.   | Research Gaps | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 3.   | Paper Discovery | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 4.   | Paper Visualization | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 5.   | Chatbot and Assistance | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-chatbot.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
