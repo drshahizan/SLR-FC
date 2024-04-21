@@ -29,6 +29,8 @@ This is an excellent opportunity to be part of the future of academic research, 
 | 8.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 9.   | Citation Management | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-citation.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 
+## Download
+1. - [Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. 2024. *A critical review of feature selection methods for machine learning in IoT security*. *International Journal of Communication Networks and Distributed Systems*, **30**(3), 264-312](https://liveutm-my.sharepoint.com/:u:/g/personal/shahizan_live_utm_my/EbuhF-z_hHFHrH6Unw1jkW8Bf03YTvZEGtFta8EgbPE0_w?e=Ak2UdL)
 ## Materials
 | No | Lesson | Topic |
 |--------|---------|---------|
