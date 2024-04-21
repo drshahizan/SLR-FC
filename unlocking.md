@@ -8,7 +8,7 @@
 # Unlocking Scholarly Insights: How AI Enhances Literature Reviews
 
 <p align="center">
-<img src="/images/"  height="500" />
+<img src="/images/dorsu.jpeg"  height="500" />
 </p>
 
 The title "Unlocking Scholarly Insights: How AI Enhances Literature Reviews" defines an exploration of how Artificial Intelligence (AI) is revolutionizing the way researchers conduct literature reviews. The key elements:
