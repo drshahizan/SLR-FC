@@ -9,8 +9,8 @@
 
 | **AI Tool** | **Description** |
 | --- | --- |
-| **[Research Buddy](https://researchbuddy.app/search)** | An AI-powered tool that automates the literature review process by quickly searching and categorizing scholarly content. |
 | **[SciSpace](https://typeset.io/)** | Offers AI tools for literature review, including finding new, connected papers using a visual graph. |
+| **[Research Buddy](https://researchbuddy.app/search)** | An AI-powered tool that automates the literature review process by quickly searching and categorizing scholarly content. |
 | **[Research Rabbit](https://www.researchrabbit.ai/)** | Research Rabbit is a research discovery tool that helps you find new, connected papers using a visual graph. You can essentially create maps around metadata, which helps you not only explore similar papers but also connections between them.  |
 | **[Scite](https://scite.ai/partners/publishers)** | Analyzes the quality and credibility of research papers. While not directly identifying gaps, Scite's analysis of existing research limitations can point researchers towards areas needing more information or investigation. |
 |**[LitMaps](https://www.litmaps.com/)**|This tool creates visual maps of research topics based on AI analysis of scholarly articles. These maps can reveal under-explored areas within the topic.|
