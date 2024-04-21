@@ -1,4 +1,4 @@
-![image](https://github.com/drshahizan/SLR-FC/assets/81284918/c3fb3b8f-16e3-48fb-8d0e-4be53f711b89)<a href="https://github.com/drshahizan/SLR-FC/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/SLR-FC" alt="Stars Badge"/></a>
+![image](https://github.com/drshahizan/SLR-FC/assets/81284918/6ff54a5b-cafa-4064-8e89-dcf57a57bc9d)![image](https://github.com/drshahizan/SLR-FC/assets/81284918/2f6287fa-e4b2-4455-b8f5-563fc2bc0eb3)![image](https://github.com/drshahizan/SLR-FC/assets/81284918/c3fb3b8f-16e3-48fb-8d0e-4be53f711b89)<a href="https://github.com/drshahizan/SLR-FC/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/SLR-FC" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/SLR-FC/network/members"><img src="https://img.shields.io/github/forks/drshahizan/SLR-FC" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/SLR-FC"><img src="https://img.shields.io/github/issues-pr/drshahizan/SLR-FC" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/SLR-FC/issues"><img src="https://img.shields.io/github/issues/drshahizan/SLR-FC" alt="Issues Badge"/></a>
@@ -10,7 +10,6 @@
 ## Text
 
 ### Prompt 1: Research Conception and Execution Stage
-
 
 #### 1. Literature Review
   ```
@@ -29,6 +28,47 @@
   sustainability. Ensure the design incorporates advanced technologies and adheres to 
   ethical standards.
   ```
+
+#### 3. Data Collection and Generation
+  ```
+  Utilize generative AI to identify and compile a dataset on [Your Research Topic].
+  Explore various data sources, including public databases, surveys, and social
+  media, ensuring the data is relevant and comprehensive. Analyze the data for
+  quality and consistency, and generate a report on the findings. Highlight any
+  patterns or anomalies discovered in the dataset."
+  ```
+
+#### 4. Ideation & Hypothesis Generation
+  ```
+  Activate generative AI to explore the domain of [Your Research Area]. Based on the
+  analysis of existing knowledge and data patterns, generate innovative research
+  ideas and formulate testable hypotheses. Consider interdisciplinary approaches and
+  emerging trends to ensure the ideas are cutting-edge and relevant. Provide a
+  rationale for each hypothesis and suggest potential methods for testing them." 
+  ```
+
+### Prompt 3: Research Dissemination Stage
+
+#### 1. Literature Review
+  ```
+  Conduct a comprehensive literature review on the topic [insert specific topic here].
+  Summarize the key findings from each relevant research paper, highlighting how they
+  contribute to the current understanding of the topic. Identify and discuss any
+  conflicting results or gaps in the literature. Provide a synthesis of the common
+  themes and questions that emerge from the review. Suggest areas for future research
+  based on the identified gaps and unanswered questions.
+  ```
+
+
+#### 2. Drafting Manuscripts
+  ```
+  Based on the research topic [insert topic here], generate an outline for a theses
+  or dissertation that includes an introduction, literature review, methodology,
+  results, discussion, and conclusion sections. Provide a template for each section
+  with guiding questions and prompts to elaborate on. Offer suggestions for language
+  refinement and structural organization to enhance clarity and coherence.
+  ```
+
 
 
 ## Contribution 🛠️
