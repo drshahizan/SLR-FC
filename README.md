@@ -20,13 +20,14 @@ This is an excellent opportunity to be part of the future of academic research, 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
 | 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 2.   | Research Gaps | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 3.   | Paper Discovery | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 4.   | Paper Visualization | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 5.   | Chatbot and Assistance | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-chatbot.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 6.   | Text Summarizers | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-summarizers.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 7.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 8.   | Citation Management | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-citation.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 2.   | Prompt: ChatGPT, CoPilot, Gemini | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 3.   | Research Gaps | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 4.   | Paper Discovery | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 5.   | Paper Visualization | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 6.   | Chatbot and Assistance | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-chatbot.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 7.   | Text Summarizers | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-summarizers.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 8.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 9.   | Citation Management | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-citation.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 
 ## Materials
 | No | Lesson | Topic |
@@ -34,7 +35,6 @@ This is an excellent opportunity to be part of the future of academic research, 
 | 1.| Generative AI|[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 2. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
 | 3. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
-|  |  | [Exercise: ChatGPT, CoPilot, Gemini]()|
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
