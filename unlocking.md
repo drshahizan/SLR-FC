@@ -59,9 +59,8 @@ In essence, AI has the potential to transform the traditional literature review 
 | 4.   | Paper Visualization | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 5.   | Chatbot and Assistance | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-chatbot.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 6.   | Text Summarizers | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-summarizers.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 7.   | Citation Management | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-citation.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 8.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/edit/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-
+| 7.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/edit/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 8.   | Citation Management | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-citation.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 
 ## Materials
 | No | Lesson | Topic |
