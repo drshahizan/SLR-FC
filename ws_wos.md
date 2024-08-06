@@ -32,9 +32,6 @@ Join us to enhance your writing techniques and boost your publication success. �
 | 4.   | Mastering Systematic Literature Reviews: Strategies for Effective Writing and WoS Publication | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/effective_slr.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 5.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 
-Mastering Systematic Literature Reviews: Strategies for Effective Writing and WoS Publication
-
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
 
