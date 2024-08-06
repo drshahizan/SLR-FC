@@ -11,19 +11,16 @@
 <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/SLR%20mso.jpeg"  height="500" />
 </p>
 
-### Synopsis for "Effective Writing Techniques for SLR Journals: Strategies for WoS Publication"
 
----
+The Faculty of Computing at Universiti Teknologi Malaysia (UTM) is proud to present a live event titled "Effective Writing Techniques for SLR Journals: Strategies for WoS Publication." This workshop, scheduled for August 7, 2024, from 9.00 AM to 1.00 PM, will be held at the Hyflex Classroom, Block N28a. 🗓️🏫
 
-The Faculty of Computing at Universiti Teknologi Malaysia (UTM) is proud to present a live event titled "Effective Writing Techniques for SLR Journals: Strategies for WoS Publication." This workshop, scheduled for August 7, 2024, from 9.00 AM to 1.00 PM, will be held at the Hyflex Classroom, Block N28a.
+The session is designed for researchers and academicians aiming to enhance their writing skills for systematic literature reviews (SLR) and improve their chances of publication in Web of Science (WoS) indexed journals. 📖🌐
 
-The session is designed for researchers and academicians aiming to enhance their writing skills for systematic literature reviews (SLR) and improve their chances of publication in Web of Science (WoS) indexed journals. 
+The workshop will be facilitated by Assoc. Prof. Dr. Mohd Shahizan Othman, an esteemed academic with extensive experience in research and publication. Participants will gain valuable insights into the nuances of academic writing, focusing on the structure, style, and strategies necessary to meet the high standards of WoS publications. 🧑‍🏫✨
 
-The workshop will be facilitated by Assoc. Prof. Dr. Mohd Shahizan Othman, an esteemed academic with extensive experience in research and publication. Participants will gain valuable insights into the nuances of academic writing, focusing on the structure, style, and strategies necessary to meet the high standards of WoS publications.
+This event promises to be an enriching experience, offering practical tips and methodologies to refine research manuscripts. It is an excellent opportunity for researchers to elevate their work, ensuring it meets the rigorous criteria of top-tier journals. 📝🔝
 
-This event promises to be an enriching experience, offering practical tips and methodologies to refine research manuscripts. It is an excellent opportunity for researchers to elevate their work, ensuring it meets the rigorous criteria of top-tier journals.
-
-Join us to enhance your writing techniques and boost your publication success. 
+Join us to enhance your writing techniques and boost your publication success. 🚀📈
 
 ## AI Tools
 
