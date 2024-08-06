@@ -11,9 +11,19 @@
 <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/SLR%20mso.jpeg"  height="500" />
 </p>
 
-JOIN US on April 22nd for the 2024 Research Colloquium, with the theme 'Unlocking Scholarly Insights: How AI Enhances Literature Reviews.' This event aims to enhance research proposals, foster a culture of innovation, and facilitate skills development among participants. It will feature resource speaker Assoc. Prof. Dr. Mohd Shahizan Othman from Universiti Teknologi Malaysia.
-Dr. Shahizan, an Associate Professor at Universiti Teknologi Malaysia (UTM), is passionate about education and research. With a focus on information retrieval, data mining, machine learning, and more, he's published numerous highly cited research papers. Dr. Shahizan actively contributes to the open-source community by creating courses and resources like "Research Design and Analysis in Data Science" and "Big Data Management." Renowned as an AI research expert, he conducts lectures at UTM and international universities.
-This is an excellent opportunity to be part of the future of academic research, so don't miss out!
+### Synopsis for "Effective Writing Techniques for SLR Journals: Strategies for WoS Publication"
+
+---
+
+The Faculty of Computing at Universiti Teknologi Malaysia (UTM) is proud to present a live event titled "Effective Writing Techniques for SLR Journals: Strategies for WoS Publication." This workshop, scheduled for August 7, 2024, from 9.00 AM to 1.00 PM, will be held at the Hyflex Classroom, Block N28a.
+
+The session is designed for researchers and academicians aiming to enhance their writing skills for systematic literature reviews (SLR) and improve their chances of publication in Web of Science (WoS) indexed journals. 
+
+The workshop will be facilitated by Assoc. Prof. Dr. Mohd Shahizan Othman, an esteemed academic with extensive experience in research and publication. Participants will gain valuable insights into the nuances of academic writing, focusing on the structure, style, and strategies necessary to meet the high standards of WoS publications.
+
+This event promises to be an enriching experience, offering practical tips and methodologies to refine research manuscripts. It is an excellent opportunity for researchers to elevate their work, ensuring it meets the rigorous criteria of top-tier journals.
+
+Join us to enhance your writing techniques and boost your publication success. 
 
 ## AI Tools
 
