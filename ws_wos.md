@@ -22,7 +22,7 @@ This event promises to be an enriching experience, offering practical tips and m
 
 Join us to enhance your writing techniques and boost your publication success. 🚀📈
 
-## AI Tools
+## Materials
 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
