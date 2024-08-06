@@ -31,7 +31,8 @@ Join us to enhance your writing techniques and boost your publication success. �
 | 3.   | Valuable Academic Resources: WoS Q3 & Q4 Journals Compilation | <a href="https://github.com/drshahizan/SLR-FC/blob/main/images/JCR_Journal_Q3_Q4_2024.xlsx" ><img src="./images/excel-48.png" width="24px" height="24px" ></a> |
 | 4.   | Mastering Systematic Literature Reviews: Strategies for Effective Writing and WoS Publication | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/effective_slr.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 5.   | 7 Steps for Crafting a Powerful Literature Review 💪🏻 | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/crafting.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 6.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 6.   | Systematic Literature Review (SLR) Using AI | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/crafting.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 7.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
