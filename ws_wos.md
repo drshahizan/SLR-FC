@@ -27,7 +27,7 @@ Join us to enhance your writing techniques and boost your publication success. ð
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
 | 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 2.   | Top-Tier Publications: Comprehensive List of WoS Q1 & Q2 Journals | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-genai.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 2.   | Top-Tier Publications: Comprehensive List of WoS Q1 & Q2 Journals | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-genai.md" ><img src="./images/excel-48.png" width="24px" height="24px" ></a> |
 | 3.   | Research Gaps | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 4.   | Paper Discovery | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 5.   | Paper Visualization | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
