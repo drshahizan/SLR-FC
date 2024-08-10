@@ -29,7 +29,7 @@ Join us to enhance your writing techniques and boost your publication success. �
 | 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 2.   | Top-Tier Publications: Comprehensive List of WoS Q1 & Q2 Journals | <a href="https://github.com/drshahizan/SLR-FC/blob/main/images/JCR_Journal_Q1_Q2_2024.xlsx" ><img src="./images/excel-48.png" width="24px" height="24px" ></a> |
 | 3.   | Valuable Academic Resources: WoS Q3 & Q4 Journals Compilation | <a href="https://github.com/drshahizan/SLR-FC/blob/main/images/JCR_Journal_Q3_Q4_2024.xlsx" ><img src="./images/excel-48.png" width="24px" height="24px" ></a> |
-| 4.   | Scimago Journal & Country Rank | <a href="https://www.scimagojr.com/" ><img src="./images/excel-48.png" width="24px" height="24px" ></a> |
+| 4.   | Scimago Journal & Country Rank | <a href="https://www.scimagojr.com/" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 5.   | Mastering Systematic Literature Reviews: Strategies for Effective Writing and WoS Publication | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/effective_slr.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 6.   | 7 Steps for Crafting a Powerful Literature Review 💪🏻 | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/crafting.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 7.   | Systematic Literature Review (SLR) Using AI | <a href="https://github.com/drshahizan/SLR-FC/blob/main/README.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
