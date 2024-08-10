@@ -34,6 +34,7 @@ Join us to enhance your writing techniques and boost your publication success. �
 | 6.   | 7 Steps for Crafting a Powerful Literature Review 💪🏻 | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/crafting.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 7.   | Systematic Literature Review (SLR) Using AI | <a href="https://github.com/drshahizan/SLR-FC/blob/main/README.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 8.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 9.   | StealthWriter Humanizer | <a href="https://app.stealthwriter.ai/dashboard/humanizer" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
