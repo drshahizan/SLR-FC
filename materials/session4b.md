@@ -9,7 +9,7 @@
 <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/slr_stage4b.jpeg"  height="400" />  
 </p>
 
-# Session 4b: Mentoring Session - Search and screen for Literature
+# Session 4b: Mentoring Session - Quality Assessment
 
 ## Student info
 
